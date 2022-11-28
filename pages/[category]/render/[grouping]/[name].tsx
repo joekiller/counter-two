@@ -6,18 +6,20 @@ import Category from "../../../../components/Category";
 import BundledItem from "../../../../components/BundledItem";
 import {LinkSrcAndLicenses} from "../../../../components/LinkSrcAndLicenses";
 import Grouping from "../../../../components/Grouping";
-import Items from "../../../../components/Items";
 import {FinalFooter} from "../../../../components/FinalFooter";
 import {LinkPostLifeIndex} from "../../../../components/LinkPostLifeIndex";
 import {LinkAllIndex} from "../../../../components/LinkAllIndex";
 import {handleSearchChange, options} from "../index.html";
 import {deLinkName, linkName} from "../../../../components/ItemLink";
+import fsp from "fs/promises";
+import path from "path";
 
 
 interface ItemParams {
   name: string,
   grouping: Grouping,
   category: Category,
+  item: BundledItem
 }
 
 export interface BundledItemQuery extends ParsedUrlQuery {
@@ -39,8 +41,9 @@ function bundleToItems(bundle: BundledItem): {
 }
 
 export const getStaticPaths: GetStaticPaths<BundledItemQuery> = async () => {
+  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'items.json'].join(path.sep), "utf8"))
   const paths = [
-    ...Items.flatMap(item => bundleToItems(item))
+    ...items.flatMap(item => bundleToItems(item))
   ];
   return {
     paths,
@@ -50,11 +53,14 @@ export const getStaticPaths: GetStaticPaths<BundledItemQuery> = async () => {
 
 
 export const getStaticProps: GetStaticProps<ItemParams, BundledItemQuery> = async (context) => {
-  const {category, name, grouping} = context.params!;
+  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'items.json'].join(path.sep), "utf8"))
+  const {category, name: _name, grouping} = context.params!;
+  const name = deLinkName(_name);
+  const item = items[items.findIndex((v) => v.name === name)];
   return {
     // Passed to the page component as props
     props: {
-      category, name: deLinkName(name), grouping
+      category, name: name, grouping, item
     }
   }
 }
@@ -70,7 +76,7 @@ function keywords(category: Category) {
   return `tf2 ${fill} index, tf2 ${fill} total, tf2 ${fill} count, counter, trading, team fortress 2`
 }
 
-const Name: NextPage<ItemParams> = ({ category, name, grouping }) => {
+const Name: NextPage<ItemParams> = ({ category, name, grouping, item }) => {
   const title = `All ${options(category, 'Spells', 'PostLife Spells')} Index`
   return (
     <div>
@@ -83,10 +89,10 @@ const Name: NextPage<ItemParams> = ({ category, name, grouping }) => {
 
       <main className="spell-list">
         <h1>{name}</h1>
-        <h2>Estimated Total: 1</h2>
+        <h2>Estimated Total: {total}</h2>
         <input type={"text"} id={"spellSearch"} onChange={(e) => handleSearchChange(e, false)} placeholder={"Search for names..."}/>
         <ul id="spellList">
-          <li>Spectral Spectrum: 1</li>
+          {Object.keys(item.combinations).map((c, i, a) => ({name: c, total: item.combinations[c].total})).sort((a,b) => a.total - b.total === 0 ? a.name.localeCompare(b.name) : a.total - b.total).map((item, i) => <li key={i}>{item.name}: {item.total}</li>)}
         </ul>
       </main>
       <footer>
