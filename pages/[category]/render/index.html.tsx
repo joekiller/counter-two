@@ -3,14 +3,12 @@ import React from "react";
 import {GetStaticPaths, GetStaticProps, NextPage} from "next";
 import Head from "next/head";
 import {ItemLink} from "../../../components/ItemLink";
-import {LinkSrcAndLicenses} from "../../../components/LinkSrcAndLicenses";
-import {LinkPostLifeIndex} from "../../../components/LinkPostLifeIndex";
-import {LinkAllIndex} from "../../../components/LinkAllIndex";
 import {FinalFooter} from "../../../components/FinalFooter";
 import {ParsedUrlQuery} from "querystring";
 import BundledItem from "../../../components/BundledItem";
 import fsp from "fs/promises";
 import path from "path";
+import Grouping from "../../../components/Grouping";
 
 
 export interface CategoryQuery extends ParsedUrlQuery {
@@ -27,17 +25,19 @@ export const getStaticPaths: GetStaticPaths<CategoryQuery> = async () => {
 
 export interface CategoryParams {
   category: Category,
-  items: BundledItem[]
+  summaryItems: {category: Category, grouping: Grouping, name: string, fullName: string, total: number}[]
 }
 
 export const getStaticProps: GetStaticProps<CategoryParams, CategoryQuery> = async (context) => {
   const {category} = context.params!;
   const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'items.json'].join(path.sep), "utf8"));
+  const summaryItems = items.filter((item) => category === 'all' ? true : item.category === 'allpostlife').flatMap(item => item.groupings.map(grouping => ({item, grouping, fullItemName: fullItemName(grouping, category, item.name)})))
+    .sort((a,b) => a.fullItemName.localeCompare(b.fullItemName)).map(v => ({category, grouping: v.grouping, name: v.item.name, fullName: v.fullItemName, total: Object.entries(v.item.combinations).reduce((p, c) => p + c[1].total, 0)}));
   return {
     // Passed to the page component as props
     props: {
       category,
-      items
+      summaryItems
     }
   }
 }
@@ -62,35 +62,41 @@ function keywords(category: Category) {
   return `tf2 ${fill} index, tf2 ${fill} total, tf2 ${fill} count, counter, trading, team fortress 2`
 }
 
-export function handleSearchChange(event: React.ChangeEvent<HTMLInputElement>, withLinks: boolean): void {
-  // Declare variables
-  var filter, ul, li, a, i, txtValue;
-  filter = event.target.value.toUpperCase();
-  ul = document.getElementById("spellList");
-  li = ul!.getElementsByTagName('li') || [];
+export function handleSearchChange(searchText: string, withLinks: boolean, stats?: {total: number, displayTotal: number, setDisplayTotal: React.Dispatch<React.SetStateAction<number>>}): void {
+  const filter = searchText.toUpperCase();
+  const included = (text: string) => (text.toUpperCase().indexOf(filter) > -1)
+  const ul = document.getElementById("spellList");
+  const li = ul!.getElementsByTagName('li') || [];
+  let newTotal = 0;
 
   // Loop through all list items, and hide those who don't match the search query
-  for (i = 0; i < li.length; i++) {
+  for (let i = 0; i < li.length; i++) {
     let a;
     if (withLinks) {
       a = li[i].getElementsByTagName("a")[0];
     } else {
       a = li[i];
     }
-    txtValue = a.textContent || a.innerText;
-    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-      li[i].style.display = "";
+    const txtValue = a.textContent || a.innerText;
+    if (included(txtValue)) {
+      if(a.dataset.total) {
+        newTotal += parseInt(a.dataset.total);
+      }
+      a.style.display = "";
     } else {
-      li[i].style.display = "none";
+      a.style.display = "none";
     }
+  }
+  if(stats && newTotal != stats.displayTotal) {
+    stats.setDisplayTotal((_p) => newTotal)
   }
 }
 
-function fullItemName(indexGrouping: string, indexCategory: Category, itemName: string, itemCategory: Category) {
+function fullItemName(indexGrouping: string, indexCategory: Category, itemName: string) {
   return `${indexGrouping} ${indexCategory === 'allpostlife' ? 'postlife spelled' : 'spelled'} ${itemName}`
 }
 
-const SpellIndex: NextPage<CategoryParams> = ({ category , items}) => {
+const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
   const title = `All ${options(category, 'Spells', 'PostLife Spells')} Index`
   return (
     <div>
@@ -102,11 +108,9 @@ const SpellIndex: NextPage<CategoryParams> = ({ category , items}) => {
       </Head>
 
       <main className="spell-list">
-        <input type={"text"} id={"spellSearch"} onChange={(e) => handleSearchChange(e, false)} placeholder={"Search for names..."}/>
+        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={(e) => handleSearchChange(e.target.value, false)} placeholder={"Press enter to search for names..."}/>
         <ul id="spellList">
-          {items.filter((item) => category === 'all' ? true : item.category === 'allpostlife').flatMap(item => item.groupings.map(grouping => ({item, grouping, fullItemName: fullItemName(grouping, category, item.name, item.category)})))
-              .sort((a,b) => a.fullItemName.localeCompare(b.fullItemName))
-              .map(i => <li key={`${i.item.name}${i.item.groupings}${i.item.category}`}><ItemLink indexCategory={i.item.category} grouping={i.grouping} name={i.item.name} fullName={i.fullItemName}/></li>)}
+          {summaryItems.map(i => <li data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullName={i.fullName} data-total={i.total} key={`${i.name}${i.grouping}${i.category}`}><ItemLink data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullName={i.fullName} data-total={i.total}/></li>)}
           <li>processed-Q-K-C-S</li>
           <li>processed-K-C-S</li>
           <li>processed-Q-C-S</li>

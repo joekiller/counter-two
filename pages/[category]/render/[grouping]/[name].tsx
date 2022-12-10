@@ -1,6 +1,6 @@
 import {GetStaticPaths, GetStaticProps, NextPage} from "next";
 import Head from "next/head";
-import React from "react";
+import React, {useState, useCallback, ChangeEvent} from "react";
 import {ParsedUrlQuery} from "querystring";
 import Category from "../../../../components/Category";
 import BundledItem from "../../../../components/BundledItem";
@@ -17,9 +17,9 @@ import path from "path";
 
 interface ItemParams {
   name: string,
-  grouping: Grouping,
   category: Category,
-  item: BundledItem
+  sets: {name: string, total: number}[],
+  total: number
 }
 
 export interface BundledItemQuery extends ParsedUrlQuery {
@@ -53,14 +53,16 @@ export const getStaticPaths: GetStaticPaths<BundledItemQuery> = async () => {
 
 
 export const getStaticProps: GetStaticProps<ItemParams, BundledItemQuery> = async (context) => {
-  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'items.json'].join(path.sep), "utf8"))
-  const {category, name: _name, grouping} = context.params!;
+  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'items.json'].join(path.sep), "utf8"));
+  const {category, name: _name} = context.params!;
   const name = deLinkName(_name);
   const item = items[items.findIndex((v) => v.name === name)];
+  const sets = Object.keys(item.combinations).map((c) => ({name: c, total: item.combinations[c].total})).sort((a,b) => a.total - b.total === 0 ? a.name.localeCompare(b.name) : a.total - b.total).map((item) =>({name: item.name, total: item.total}))
+  const total = sets.reduce((p, c) => p + c.total, 0)
   return {
     // Passed to the page component as props
     props: {
-      category, name: name, grouping, item
+      category, name: name, item, sets, total
     }
   }
 }
@@ -76,7 +78,11 @@ function keywords(category: Category) {
   return `tf2 ${fill} index, tf2 ${fill} total, tf2 ${fill} count, counter, trading, team fortress 2`
 }
 
-const Name: NextPage<ItemParams> = ({ category, name, grouping, item }) => {
+const Name: NextPage<ItemParams> = ({ category, name, sets, total }) => {
+  const [displayTotal, setDisplayTotal] = useState(total);
+  const handleChange = useCallback((e: ChangeEvent<HTMLInputElement>) => {
+    handleSearchChange(e.target.value, false, {total, displayTotal, setDisplayTotal})
+  }, [total, displayTotal, setDisplayTotal])
   const title = `All ${options(category, 'Spells', 'PostLife Spells')} Index`
   return (
     <div>
@@ -90,9 +96,10 @@ const Name: NextPage<ItemParams> = ({ category, name, grouping, item }) => {
       <main className="spell-list">
         <h1>{name}</h1>
         <h2>Estimated Total: {total}</h2>
-        <input type={"text"} id={"spellSearch"} onChange={(e) => handleSearchChange(e, false)} placeholder={"Search for names..."}/>
+        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={handleChange} placeholder={"Press enter to search for names..."}/>
+        {displayTotal != total && <h3>Found: {displayTotal}</h3>}
         <ul id="spellList">
-          {Object.keys(item.combinations).map((c, i, a) => ({name: c, total: item.combinations[c].total})).sort((a,b) => a.total - b.total === 0 ? a.name.localeCompare(b.name) : a.total - b.total).map((item, i) => <li key={i}>{item.name}: {item.total}</li>)}
+          {sets.map((item, i) => <li data-name={item.name} data-total={item.total} key={i}>{item.name}: {item.total}</li>)}
         </ul>
       </main>
       <footer>

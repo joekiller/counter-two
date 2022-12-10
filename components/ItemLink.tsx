@@ -9,9 +9,9 @@ export function linkName(name: string) {
 export function deLinkName(name: string) {
   return name.replace(/[_]/g, " ").slice(0, name.length - '.html'.length);
 }
-export function ItemLink(props: {indexCategory: Category, grouping: Grouping, name: string, fullName: string}) {
-  const {indexCategory, grouping, name, fullName} = props;
+export function ItemLink(props: {'data-category': Category, 'data-grouping': Grouping, 'data-name': string, 'data-fullName': string, 'data-total': number}) {
+  const {'data-category': indexCategory, 'data-grouping': grouping, 'data-name': name, 'data-fullName': fullName, 'data-total': total} = props;
   return (
-    <Link href={{pathname: `/${indexCategory}/render/${grouping}/${linkName(name)}`}}><a>{fullName}</a></Link>
+    <Link href={{pathname: `/${indexCategory}/render/${grouping}/${linkName(name)}`}}><a>{`${fullName}: ${total}`}</a></Link>
   )
 }
