@@ -97,6 +97,10 @@ function fullItemName(indexGrouping: string, indexCategory: Category, itemName: 
   return `${indexGrouping} ${indexCategory === 'allpostlife' ? 'postlife spelled' : 'spelled'} ${itemName}`
 }
 
+function processedLink(category: Category, s: string) {
+  return <Link href={{pathname: `/${category}/render/${s}.html`}}><a>{s}</a></Link>
+}
+
 const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
   const title = `All ${options(category, 'Spells', 'PostLife Spells')} Index`
   return (
@@ -115,16 +119,14 @@ const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
             <li data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total} key={`${i.name}${i.grouping}${i.category}`}>
               <ItemLink data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total}/>
             </li>)}
-          <li><Link href={{pathname: `/${category}/render/processed-Q-K-C-S.html`}}><a>processed-Q-K-C-S</a></Link></li>
-          <li>processed-K-C-S</li>
-          <li>processed-Q-C-S</li>
-          <li>processed-Q-K-S</li>
-          <li>processed-Q-K-S</li>
-          <li>processed-Q-K-S</li>
-          <li>processed-C-S</li>
-          <li>processed-Q-S</li>
-          <li>processed-S</li>
-          <li>processed-E</li>
+          <li>{processedLink(category, 'processed-Q-K-C-S')}</li>
+          <li>{processedLink(category, 'processed-K-C-S')}</li>
+          <li>{processedLink(category, 'processed-Q-C-S')}</li>
+          <li>{processedLink(category, 'processed-Q-K-S')}</li>
+          <li>{processedLink(category, 'processed-C-S')}</li>
+          <li>{processedLink(category, 'processed-Q-S')}</li>
+          <li>{processedLink(category, 'processed-S')}</li>
+          <li>{processedLink(category, 'processed-Empty')}</li>
         </ul>
       </main>
       <footer>

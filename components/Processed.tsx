@@ -3,7 +3,6 @@ import Head from "next/head";
 import React, {ChangeEvent, useCallback, useState} from "react";
 import {ParsedUrlQuery} from "querystring";
 import Category from "./Category";
-import BundledItem from "./BundledItem";
 import {FinalFooter} from "./FinalFooter";
 import {handleSearchChange, options} from "../pages/[category]/render/index.html";
 import {LinkSrcAndLicenses} from "./LinkSrcAndLicenses";
@@ -11,9 +10,9 @@ import {LinkPostLifeIndex} from "./LinkPostLifeIndex";
 import {LinkAllIndex} from "./LinkAllIndex";
 
 
-export interface ItemParams {
+export interface ProcessedParams {
   category: Category,
-  sets: {name: string, total: number, fullName: string}[],
+  sets: {name: string, total: number}[],
   total: number
 }
 
@@ -48,7 +47,7 @@ function keywords(category: Category) {
   return `tf2 ${fill} index, tf2 ${fill} total, tf2 ${fill} count, counter, trading, team fortress 2`
 }
 
-const Processed: NextPage<ItemParams> = ({ category, sets, total }) => {
+const Processed: NextPage<ProcessedParams> = ({ category, sets, total }) => {
   const [displayTotal, setDisplayTotal] = useState(total);
   const handleChange = useCallback((e: ChangeEvent<HTMLInputElement>) => {
     handleSearchChange(e.target.value, false, {total, displayTotal, setDisplayTotal})
@@ -69,8 +68,8 @@ const Processed: NextPage<ItemParams> = ({ category, sets, total }) => {
         {displayTotal != total && <h3>Found: {displayTotal}</h3>}
         <ul id="spellList">
           {sets.map((item, i) =>
-            <li data-name={item.fullName} data-total={item.total} key={i}>
-              {item.fullName}: {item.total}
+            <li data-name={item.name} data-total={item.total} key={i}>
+              {item.name}: {item.total}
             </li>)}
         </ul>
       </main>
@@ -89,14 +88,3 @@ const Processed: NextPage<ItemParams> = ({ category, sets, total }) => {
 
 export default Processed
 
-export async function parseInputs(items: BundledItem[]) {
-  let sets = items.flatMap(item =>
-    Object.keys(item.combinations).map((c) => ({
-      name: item.name,
-      total: item.combinations[c].total,
-      fullName: item.combinations[c].fullName
-    }))
-  ).sort((a, b) => a.fullName.localeCompare(b.fullName))
-  const total = sets.reduce((p, v) => p + v.total, 0)
-  return {sets, total};
-}
