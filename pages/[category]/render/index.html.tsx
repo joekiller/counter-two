@@ -106,7 +106,7 @@ const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
   return (
     <div>
       <Head>
-        <title title={title}/>
+        <title>{title}</title>
         <meta name="description" content={description(category)} />
         <meta name="keywords" content={keywords(category)}/>
         <link rel="icon" type="image/png" href="/static/key-solid.svg" />
