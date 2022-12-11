@@ -98,7 +98,7 @@ function fullItemName(indexGrouping: string, indexCategory: Category, itemName: 
 }
 
 function processedLink(category: Category, s: string) {
-  return <Link href={{pathname: `/${category}/render/${s}.html`}}><a>{s}</a></Link>
+  return <Link href={{pathname: `/${category}/render/${s}.html`}}>{s}</Link>
 }
 
 const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {

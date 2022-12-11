@@ -12,6 +12,6 @@ export function deLinkName(name: string) {
 export function ItemLink(props: {'data-category': Category, 'data-grouping': Grouping, 'data-name': string, 'data-fullname': string, 'data-total': number}) {
   const {'data-category': indexCategory, 'data-grouping': grouping, 'data-name': name, 'data-fullname': fullName, 'data-total': total} = props;
   return (
-    <Link href={{pathname: `/${indexCategory}/render/${grouping}/${linkName(name)}`}}><a>{`${fullName.toLowerCase()}: ${total}`}</a></Link>
+    <Link href={{pathname: `/${indexCategory}/render/${grouping}/${linkName(name)}`}}>{`${fullName.toLowerCase()}: ${total}`}</Link>
   )
 }
