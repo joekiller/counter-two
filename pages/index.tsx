@@ -48,7 +48,7 @@ const Home: NextPage = () => {
         <title>TF2 Counter Website</title>
         <meta name="description" content="TF2 Spelled Items Counts with Postlife Index as well as a steam Inventory History Key and Metal Counter with TF2 Key Price History Links" />
         <meta name="keywords" content="counter, tf2 spell count, tf2 spells, postlife spells, counter, trading, tf2 links, joekiller" />
-        <link rel="icon" type="image/png" href="/static/key-solid.svg" />
+        <link rel="icon" type="image/png" href={`${process.env.BASE_PATH ? process.env.BASE_PATH : ''}/static/key-solid.svg`} />
       </Head>
 
       <CounterMain>
@@ -62,7 +62,7 @@ const Home: NextPage = () => {
 
         <textarea value={input} placeholder="Mann Co. Supply Crate Key" onChange={handleInputChange} />
 
-        <Image src="/static/example.PNG" alt="Steam Inventory History Screenshot with an Unusual and TF2 Key and Metal Text" width="724" height="225"/>
+        <Image src={`${process.env.BASE_PATH ? process.env.BASE_PATH : ''}/static/example.PNG`} alt="Steam Inventory History Screenshot with an Unusual and TF2 Key and Metal Text" width="724" height="225"/>
         <p>Paste the text of a trade from <a href="https://steamcommunity.com/id/joekiller/inventoryhistory/">steam inventory history</a> above to count the total Mann Co. Supply Crate Key and Refined Metal items from Team Fortress 2 were included in the trade.</p>
       </CounterMain>
 

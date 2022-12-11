@@ -90,13 +90,13 @@ const Name: NextPage<ItemParams> = ({ category, name, sets, total }) => {
         <title>{title}</title>
         <meta name="description" content={description(category)} />
         <meta name="keywords" content={keywords(category)}/>
-        <link rel="icon" type="image/png" href="/static/key-solid.svg" />
+        <link rel="icon" type="image/png" href={`${process.env.BASE_PATH ? process.env.BASE_PATH : ''}/static/key-solid.svg`} />
       </Head>
 
       <main className="spell-list">
         <h1>{name}</h1>
         <h2>Estimated Total: {total}</h2>
-        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={handleChange} placeholder={"Press enter to search for names..."}/>
+        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} style={{backgroundImage: `url('${process.env.BASE_PATH ? process.env.BASE_PATH : ''}/static/searchicon.png')`}} onChange={handleChange} placeholder={"Press enter to search for names..."}/>
         {displayTotal != total && <h3>Found: {displayTotal}</h3>}
         <ul id="spellList">
           {sets.map((item, i) =>
