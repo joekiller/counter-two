@@ -9,6 +9,7 @@ import BundledItem from "../../../components/BundledItem";
 import fsp from "fs/promises";
 import path from "path";
 import Grouping from "../../../components/Grouping";
+import Link from "next/link";
 
 
 export interface CategoryQuery extends ParsedUrlQuery {
@@ -30,7 +31,7 @@ export interface CategoryParams {
 
 export const getStaticProps: GetStaticProps<CategoryParams, CategoryQuery> = async (context) => {
   const {category} = context.params!;
-  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'items.json'].join(path.sep), "utf8"));
+  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'all-Q.json'].join(path.sep), "utf8"));
   const summaryItems = items.filter((item) => category === 'all' ? true : item.category === 'allpostlife').flatMap(item => item.groupings.map(grouping => ({item, grouping, fullItemName: fullItemName(grouping, category, item.name)})))
     .sort((a,b) => a.fullItemName.localeCompare(b.fullItemName)).map(v => ({category, grouping: v.grouping, name: v.item.name, fullName: v.fullItemName, total: Object.entries(v.item.combinations).reduce((p, c) => p + c[1].total, 0)}));
   return {
@@ -110,8 +111,11 @@ const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
       <main className="spell-list">
         <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={(e) => handleSearchChange(e.target.value, false)} placeholder={"Press enter to search for names..."}/>
         <ul id="spellList">
-          {summaryItems.map(i => <li data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullName={i.fullName} data-total={i.total} key={`${i.name}${i.grouping}${i.category}`}><ItemLink data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullName={i.fullName} data-total={i.total}/></li>)}
-          <li>processed-Q-K-C-S</li>
+          {summaryItems.map(i =>
+            <li data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total} key={`${i.name}${i.grouping}${i.category}`}>
+              <ItemLink data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total}/>
+            </li>)}
+          <li><Link href={{pathname: `/${category}/render/processed-Q-K-C-S.html`}}><a>processed-Q-K-C-S</a></Link></li>
           <li>processed-K-C-S</li>
           <li>processed-Q-C-S</li>
           <li>processed-Q-K-S</li>

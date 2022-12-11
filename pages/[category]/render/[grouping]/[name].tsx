@@ -41,7 +41,7 @@ function bundleToItems(bundle: BundledItem): {
 }
 
 export const getStaticPaths: GetStaticPaths<BundledItemQuery> = async () => {
-  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'items.json'].join(path.sep), "utf8"))
+  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'all-Q.json'].join(path.sep), "utf8"))
   const paths = [
     ...items.flatMap(item => bundleToItems(item))
   ];
@@ -53,10 +53,10 @@ export const getStaticPaths: GetStaticPaths<BundledItemQuery> = async () => {
 
 
 export const getStaticProps: GetStaticProps<ItemParams, BundledItemQuery> = async (context) => {
-  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'items.json'].join(path.sep), "utf8"));
+  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'all-Q.json'].join(path.sep), "utf8"));
   const {category, name: _name} = context.params!;
   const name = deLinkName(_name);
-  const item = items[items.findIndex((v) => v.name === name)];
+  const item = items[items.findIndex((v) => v.name.toLowerCase() === name)];
   const sets = Object.keys(item.combinations).map((c) => ({name: c, total: item.combinations[c].total})).sort((a,b) => a.total - b.total === 0 ? a.name.localeCompare(b.name) : a.total - b.total).map((item) =>({name: item.name, total: item.total}))
   const total = sets.reduce((p, c) => p + c.total, 0)
   return {
@@ -99,7 +99,10 @@ const Name: NextPage<ItemParams> = ({ category, name, sets, total }) => {
         <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={handleChange} placeholder={"Press enter to search for names..."}/>
         {displayTotal != total && <h3>Found: {displayTotal}</h3>}
         <ul id="spellList">
-          {sets.map((item, i) => <li data-name={item.name} data-total={item.total} key={i}>{item.name}: {item.total}</li>)}
+          {sets.map((item, i) =>
+            <li data-name={item.name} data-total={item.total} key={i}>
+              {item.name}: {item.total}
+            </li>)}
         </ul>
       </main>
       <footer>

@@ -5,7 +5,7 @@ type BundledItem = {
   groupings: Grouping[];
   name: string;
   category: Category
-  combinations: {[key: string]: { isDouble: boolean, total: number }}
+  combinations: {[key: string]: { isDouble: boolean, total: number, fullName: string }}
 }
 
 export default BundledItem
