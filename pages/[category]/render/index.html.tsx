@@ -109,11 +109,11 @@ const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
         <title title={title}/>
         <meta name="description" content={description(category)} />
         <meta name="keywords" content={keywords(category)}/>
-        <link rel="icon" type="image/png" href={`${process.env.BASE_PATH ? process.env.BASE_PATH : ''}/static/key-solid.svg`} />
+        <link rel="icon" type="image/png" href="/static/key-solid.svg" />
       </Head>
 
       <main className="spell-list">
-        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} style={{backgroundImage: `url('${process.env.BASE_PATH ? process.env.BASE_PATH : ''}/static/searchicon.png')`}} onChange={(e) => handleSearchChange(e.target.value, false)} placeholder={"Press enter to search for names..."}/>
+        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={(e) => handleSearchChange(e.target.value, false)} placeholder={"Press enter to search for names..."}/>
         <ul id="spellList">
           {summaryItems.map(i =>
             <li data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total} key={`${i.name}${i.grouping}${i.category}`}>
