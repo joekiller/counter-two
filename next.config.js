@@ -3,7 +3,7 @@ const path = require('path');
 const { version } = require('./package.json');
 const lastUpdatedAt =  new Date().toString();
 
-const dates = fs.readdirSync('data').map(f => fs.statSync(path.join('data', f)).ctimeMs).sort();
+const dates = fs.readdirSync('data').map(f => fs.statSync(path.join('data', f)).mtimeMs).sort();
 const countsUpdatedAt = new Date(dates.pop()).toString();
 
 /** @type {import('next').NextConfig} */
