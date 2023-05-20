@@ -4,6 +4,7 @@ const { version } = require('./package.json');
 const lastUpdatedAt =  new Date().toString();
 
 const dates = fs.readdirSync('data').map(f => fs.statSync(path.join('data', f)).mtimeMs).sort();
+console.log(dates);
 const countsUpdatedAt = new Date(dates.pop()).toString();
 
 /** @type {import('next').NextConfig} */
