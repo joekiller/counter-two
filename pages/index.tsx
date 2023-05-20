@@ -2,10 +2,8 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import React, {useCallback, useEffect, useState} from "react";
-import {LinkAllIndex} from "../components/LinkAllIndex";
-import {LinkPostLifeIndex} from "../components/LinkPostLifeIndex";
-import {LinkSrcAndLicenses} from "../components/LinkSrcAndLicenses";
 import CounterMain from "../components/CounterMain";
+import {HomeFooter} from "../components/HomeFooter";
 
 const KEY = /Mann Co\. Supply Crate Key/g;
 const REF = /Refined Metal/g;
@@ -65,16 +63,8 @@ const Home: NextPage = () => {
         <Image src="/static/example.PNG" alt="Steam Inventory History Screenshot with an Unusual and TF2 Key and Metal Text" width="724" height="225"/>
         <p>Paste the text of a trade from <a href="https://steamcommunity.com/id/joekiller/inventoryhistory/">steam inventory history</a> above to count the total Mann Co. Supply Crate Key and Refined Metal items from Team Fortress 2 were included in the trade.</p>
       </CounterMain>
-
       <footer>
-        <h2>Helpful Links</h2>
-        <div className="links">
-          <a href="https://manic.tf/keyprice/">TF2 Key Price History</a>
-          <a href="https://calculator.tf/">TF2 Currency Converter</a>
-          <LinkSrcAndLicenses />
-          <LinkAllIndex/>
-          <LinkPostLifeIndex/>
-        </div>
+        <HomeFooter/>
       </footer>
     </div>
   )

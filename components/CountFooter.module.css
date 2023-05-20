@@ -1,9 +1,9 @@
-.finalfooter p {
+.appxCountsFooter p {
     padding-left: 10px;
     padding-right: 10px;
     display: inline-block;
 }
 
-.finalfooter p:not(:first-child) {
+.appxCountsFooter p:not(:first-child) {
     border-left: 1px solid #333;
 }

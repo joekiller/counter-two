@@ -3,7 +3,7 @@ import Head from "next/head";
 import React, {ChangeEvent, useCallback, useState} from "react";
 import {ParsedUrlQuery} from "querystring";
 import Category from "./Category";
-import {FinalFooter} from "./FinalFooter";
+import {CountFooter} from "./CountFooter";
 import {handleSearchChange, options} from "../pages/[category]/render/index.html";
 import {LinkSrcAndLicenses} from "./LinkSrcAndLicenses";
 import {LinkPostLifeIndex} from "./LinkPostLifeIndex";
@@ -80,7 +80,7 @@ const Processed: NextPage<ProcessedParams> = ({ category, sets, total }) => {
           <LinkPostLifeIndex />
           <LinkSrcAndLicenses />
         </div>
-        <FinalFooter />
+        <CountFooter />
       </footer>
     </div>
   )

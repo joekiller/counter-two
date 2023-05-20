@@ -1,4 +1,4 @@
-import styles from '../styles/Main.module.css'
+import styles from './CounterMain.module.css'
 
 
 const CounterMain = ({children}: {children: JSX.Element[]}) => {

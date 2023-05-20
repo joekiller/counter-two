@@ -42,17 +42,12 @@ label {
 }
 
 footer {
-  padding: 1em;
-  font-size: 0.75em;
   display: flex;
+  font-size: 0.75em;
   align-content: center;
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
-}
-
-footer h2 {
-  padding-right: 20px;
 }
 
 footer a {

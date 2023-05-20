@@ -1,0 +1,16 @@
+.versionFooter {
+    font-size: smaller;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.versionFooter p {
+    padding-bottom: 1em;
+
+}
+.versionFooter p:not(:first-child) {
+    padding-left: 1em;
+}

@@ -3,7 +3,7 @@ import React from "react";
 import {GetStaticPaths, GetStaticProps, NextPage} from "next";
 import Head from "next/head";
 import {ItemLink} from "../../../components/ItemLink";
-import {FinalFooter} from "../../../components/FinalFooter";
+import {CountFooter} from "../../../components/CountFooter";
 import {ParsedUrlQuery} from "querystring";
 import BundledItem from "../../../components/BundledItem";
 import fsp from "fs/promises";
@@ -130,8 +130,7 @@ const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
         </ul>
       </main>
       <footer>
-        <div className="break"/>
-        <FinalFooter />
+        <CountFooter />
       </footer>
     </div>
   )

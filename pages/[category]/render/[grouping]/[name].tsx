@@ -4,15 +4,12 @@ import React, {useState, useCallback, ChangeEvent} from "react";
 import {ParsedUrlQuery} from "querystring";
 import Category from "../../../../components/Category";
 import BundledItem from "../../../../components/BundledItem";
-import {LinkSrcAndLicenses} from "../../../../components/LinkSrcAndLicenses";
 import Grouping from "../../../../components/Grouping";
-import {FinalFooter} from "../../../../components/FinalFooter";
-import {LinkPostLifeIndex} from "../../../../components/LinkPostLifeIndex";
-import {LinkAllIndex} from "../../../../components/LinkAllIndex";
 import {handleSearchChange, options} from "../index.html";
 import {deLinkName, linkName} from "../../../../components/ItemLink";
 import fsp from "fs/promises";
 import path from "path";
+import {ItemFooter} from "../../../../components/ItemFooter";
 
 
 interface ItemParams {
@@ -106,13 +103,7 @@ const Name: NextPage<ItemParams> = ({ category, name, sets, total }) => {
         </ul>
       </main>
       <footer>
-        <h2>Helpful Links</h2>
-        <div className="links">
-          <LinkAllIndex/>
-          <LinkPostLifeIndex />
-          <LinkSrcAndLicenses />
-        </div>
-        <FinalFooter />
+        <ItemFooter />
       </footer>
     </div>
   )
