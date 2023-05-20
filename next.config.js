@@ -8,7 +8,7 @@ const nextConfig = {
   env: {
     NEXT_PUBLIC_PACKAGE_VERSION: typeof version === "string" ? version : 'unknown',
     NEXT_PUBLIC_LAST_UPDATED_AT: lastUpdatedAt,
-    NEXT_PUBLIC_COUNTS_UPDATED_AT: new Date(1670760241).toString(),
+    NEXT_PUBLIC_COUNTS_UPDATED_AT: new Date(1670760241000).toString(),
   }
 }
 
