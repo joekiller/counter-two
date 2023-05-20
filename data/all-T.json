@@ -13,7 +13,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 451,
+        "total": 453,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -25,7 +25,7 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 431,
+        "total": 432,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -61,11 +61,11 @@
         "isDouble": true
       },
       "Spectral Spectrum Voices from Below": {
-        "total": 94,
+        "total": 95,
         "isDouble": true
       },
       "Chromatic Corruption Voices from Below": {
-        "total": 64,
+        "total": 63,
         "isDouble": true
       },
       "Corpse Gray Footprints": {
@@ -73,7 +73,7 @@
         "isDouble": false
       },
       "Rotten Orange Footprints": {
-        "total": 21,
+        "total": 22,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -291,11 +291,11 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1408,
+        "total": 1412,
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
-        "total": 1143,
+        "total": 1146,
         "isDouble": true
       },
       "Halloween Fire": {
@@ -327,7 +327,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1616,
+        "total": 1618,
         "isDouble": false
       }
     }
@@ -341,7 +341,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 856,
+        "total": 859,
         "isDouble": false
       }
     }
@@ -397,7 +397,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 3203,
+        "total": 3209,
         "isDouble": false
       }
     }
@@ -411,7 +411,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1064,
+        "total": 1066,
         "isDouble": false
       }
     }
@@ -425,7 +425,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2083,
+        "total": 2089,
         "isDouble": false
       }
     }
@@ -440,7 +440,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 70,
+        "total": 71,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -786,7 +786,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2263,
+        "total": 2270,
         "isDouble": false
       }
     }
@@ -1060,7 +1060,7 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 40,
+        "total": 41,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -1339,7 +1339,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 25,
+        "total": 26,
         "isDouble": false
       },
       "Die Job": {
@@ -1566,7 +1566,7 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 82,
+        "total": 83,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -1606,7 +1606,7 @@
         "isDouble": true
       },
       "Gangreen Footprints": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -1729,7 +1729,7 @@
         "total": 1,
         "isDouble": false
       },
-      "Burning Flames Spectral Spectrum": {
+      "Burning Flames Team Spirit Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -1960,6 +1960,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Orbiting Fire Violent Violet Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Cloudy Moon Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
@@ -2167,9 +2171,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Burning Flames Spectral Spectrum Rotten Orange Footprints": {
+      "Burning Flames Die Job": {
         "total": 1,
-        "isDouble": true
+        "isDouble": false
       },
       "Sunbeams Spectral Spectrum": {
         "total": 1,
@@ -2179,9 +2183,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Orbiting Planets Sinister Staining Bruised Purple Footprints": {
-        "total": 1,
-        "isDouble": true
+      "Orbiting Planets Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
       },
       "Steaming Rotten Orange Footprints Voices from Below": {
         "total": 1,
@@ -2228,10 +2232,6 @@
         "isDouble": false
       },
       "Circling Peace Sign Spectral Spectrum": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Orbiting Planets Chromatic Corruption": {
         "total": 1,
         "isDouble": false
       },
@@ -2347,7 +2347,7 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 59,
+        "total": 60,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -2642,7 +2642,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 23,
+        "total": 25,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -3368,7 +3368,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 32,
+        "total": 33,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -4622,6 +4622,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Burning Flames Rotten Orange Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Circling Heart Chromatic Corruption Bruised Purple Footprints": {
         "total": 1,
         "isDouble": true
@@ -5588,6 +5592,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Circling TF Logo Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      },
       "Spectral Spectrum Voices from Below": {
         "total": 5,
         "isDouble": true
@@ -5804,6 +5812,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Kill-a-Watt Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Miami Nights Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -5920,7 +5932,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 50,
+        "total": 51,
         "isDouble": false
       },
       "Bruised Purple Footprints": {
@@ -6190,6 +6202,10 @@
       "Sunbeams Spectral Spectrum Corpse Gray Footprints": {
         "total": 1,
         "isDouble": true
+      },
+      "Green Confetti Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
       },
       "Bubbling Violent Violet Footprints": {
         "total": 1,
@@ -7965,6 +7981,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Haunted Ghosts Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Scorching Flames Spectral Spectrum Headless Horseshoes": {
         "total": 1,
         "isDouble": true
@@ -8377,7 +8397,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 30,
+        "total": 31,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -9169,7 +9189,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 618,
+        "total": 617,
         "isDouble": false
       },
       "Team Spirit Footprints Voices from Below": {
@@ -9185,7 +9205,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 695,
+        "total": 698,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -9197,7 +9217,7 @@
         "isDouble": false
       },
       "Corpse Gray Footprints": {
-        "total": 85,
+        "total": 86,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -9209,11 +9229,11 @@
         "isDouble": true
       },
       "Bruised Purple Footprints": {
-        "total": 115,
+        "total": 117,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
-        "total": 24,
+        "total": 25,
         "isDouble": true
       },
       "Die Job Voices from Below": {
@@ -9221,7 +9241,7 @@
         "isDouble": true
       },
       "Chromatic Corruption": {
-        "total": 254,
+        "total": 255,
         "isDouble": false
       },
       "Die Job Corpse Gray Footprints": {
@@ -9261,7 +9281,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Rotten Orange Footprints": {
-        "total": 47,
+        "total": 46,
         "isDouble": true
       },
       "Chromatic Corruption Violent Violet Footprints": {
@@ -9277,7 +9297,7 @@
         "isDouble": true
       },
       "Violent Violet Footprints": {
-        "total": 93,
+        "total": 95,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -9507,9 +9527,9 @@
         "total": 1,
         "isDouble": true
       },
-      "It's A Secret To Everybody Headless Horseshoes": {
+      "It's A Secret To Everybody Headless Horseshoes Voices from Below": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Blizzardy Storm Corpse Gray Footprints": {
         "total": 1,
@@ -9583,15 +9603,15 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1484,
+        "total": 1486,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 882,
+        "total": 883,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 987,
+        "total": 990,
         "isDouble": false
       }
     }
@@ -9633,7 +9653,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2029,
+        "total": 2035,
         "isDouble": false
       }
     }
@@ -9648,7 +9668,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1364,
+        "total": 1367,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -9656,7 +9676,7 @@
         "isDouble": true
       },
       "Exorcism": {
-        "total": 228,
+        "total": 229,
         "isDouble": false
       }
     }
@@ -10525,7 +10545,7 @@
         "isDouble": true
       },
       "Scorching Flames Gangreen Footprints Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       },
       "Circling TF Logo Gangreen Footprints": {
@@ -10947,6 +10967,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Burning Flames Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      },
       "Circling Heart Violent Violet Footprints": {
         "total": 1,
         "isDouble": false
@@ -11304,7 +11328,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 73,
+        "total": 74,
         "isDouble": false
       },
       "Violent Violet Footprints Voices from Below": {
@@ -11339,9 +11363,9 @@
         "total": 1,
         "isDouble": true
       },
-      "Purple Energy Gangreen Footprints": {
+      "Purple Energy Gangreen Footprints Voices from Below": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Purple Energy Bruised Purple Footprints": {
         "total": 1,
@@ -11467,6 +11491,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Kill-a-Watt Team Spirit Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Chiroptera Venenata Gangreen Footprints": {
         "total": 1,
         "isDouble": false
@@ -11515,7 +11543,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 207,
+        "total": 208,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -11535,7 +11563,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 161,
+        "total": 162,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -11551,7 +11579,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 150,
+        "total": 151,
         "isDouble": false
       },
       "Bruised Purple Footprints": {
@@ -11559,7 +11587,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 202,
+        "total": 203,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -11694,9 +11722,9 @@
         "total": 1,
         "isDouble": true
       },
-      "Burning Flames Corpse Gray Footprints Voices from Below": {
-        "total": 1,
-        "isDouble": true
+      "Burning Flames Corpse Gray Footprints": {
+        "total": 2,
+        "isDouble": false
       },
       "Haunted Ghosts Corpse Gray Footprints": {
         "total": 1,
@@ -11737,10 +11765,6 @@
       "Burning Flames Spectral Spectrum Team Spirit Footprints": {
         "total": 1,
         "isDouble": true
-      },
-      "Burning Flames Corpse Gray Footprints": {
-        "total": 1,
-        "isDouble": false
       },
       "Haunted Ghosts Gangreen Footprints": {
         "total": 1,
@@ -12154,7 +12178,7 @@
         "isDouble": false
       },
       "Scorching Flames Sinister Staining": {
-        "total": 3,
+        "total": 2,
         "isDouble": false
       },
       "Die Job Voices from Below": {
@@ -12184,6 +12208,10 @@
       "Gangreen Footprints": {
         "total": 3,
         "isDouble": false
+      },
+      "Scorching Flames Sinister Staining Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": true
       },
       "Cauldron Bubbles Sinister Staining": {
         "total": 1,
@@ -12480,7 +12508,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 417,
+        "total": 418,
         "isDouble": false
       }
     }
@@ -13162,6 +13190,10 @@
         "isDouble": false
       },
       "Stormy 13th Hour Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      },
+      "It's A Secret To Everybody Spectral Spectrum": {
         "total": 1,
         "isDouble": false
       },
@@ -13855,6 +13887,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Bubbling Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Miami Nights Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -13903,7 +13939,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 180,
+        "total": 183,
         "isDouble": false
       },
       "Spectral Spectrum Violent Violet Footprints": {
@@ -13911,19 +13947,19 @@
         "isDouble": true
       },
       "Spectral Spectrum Rotten Orange Footprints": {
-        "total": 23,
+        "total": 24,
         "isDouble": true
       },
       "Team Spirit Footprints": {
-        "total": 49,
+        "total": 50,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
-        "total": 37,
+        "total": 36,
         "isDouble": false
       },
       "Chromatic Corruption Headless Horseshoes": {
-        "total": 27,
+        "total": 26,
         "isDouble": true
       },
       "Putrescent Pigmentation": {
@@ -13943,11 +13979,11 @@
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
-        "total": 5,
+        "total": 6,
         "isDouble": true
       },
       "Headless Horseshoes": {
-        "total": 47,
+        "total": 46,
         "isDouble": false
       },
       "Chromatic Corruption Voices from Below": {
@@ -13963,7 +13999,7 @@
         "isDouble": true
       },
       "Team Spirit Footprints Voices from Below": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       },
       "Headless Horseshoes Voices from Below": {
@@ -14003,7 +14039,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Gangreen Footprints": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       },
       "Sinister Staining": {
@@ -14089,7 +14125,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 328,
+        "total": 329,
         "isDouble": false
       },
       "Community Sparkle Exorcism": {
@@ -14398,9 +14434,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Purple Energy Rotten Orange Footprints": {
+      "Purple Energy Putrescent Pigmentation Rotten Orange Footprints": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Stormy Storm Voices from Below": {
         "total": 2,
@@ -14426,7 +14462,7 @@
         "total": 1,
         "isDouble": false
       },
-      "Stormy 13th Hour Voices from Below": {
+      "Stormy 13th Hour Chromatic Corruption": {
         "total": 1,
         "isDouble": false
       },
@@ -15301,9 +15337,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Blizzardy Storm Spectral Spectrum Rotten Orange Footprints": {
+      "Blizzardy Storm Voices from Below": {
         "total": 1,
-        "isDouble": true
+        "isDouble": false
       },
       "Cloudy Moon Chromatic Corruption": {
         "total": 1,
@@ -15864,7 +15900,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 52,
+        "total": 53,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -16004,7 +16040,7 @@
         "isDouble": false
       },
       "Burning Flames Team Spirit Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Burning Flames Spectral Spectrum Voices from Below": {
@@ -16024,7 +16060,7 @@
         "isDouble": true
       },
       "Burning Flames Rotten Orange Footprints Voices from Below": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       },
       "Massed Flies Voices from Below": {
@@ -17017,7 +17053,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 153,
+        "total": 155,
         "isDouble": false
       },
       "Headless Horseshoes Voices from Below": {
@@ -17355,6 +17391,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Phosphorous Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Terror-Watt Putrescent Pigmentation Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -17422,9 +17462,9 @@
         "total": 1,
         "isDouble": true
       },
-      "Purple Energy Bruised Purple Footprints": {
+      "Purple Energy Bruised Purple Footprints Voices from Below": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Haunted Ghosts Headless Horseshoes Voices from Below": {
         "total": 1,
@@ -17570,11 +17610,11 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 908,
+        "total": 909,
         "isDouble": false
       },
       "Pumpkin Bombs": {
-        "total": 2343,
+        "total": 2352,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -17607,15 +17647,15 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 2627,
+        "total": 2629,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 641,
+        "total": 643,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 184,
+        "total": 186,
         "isDouble": false
       }
     }
@@ -17644,7 +17684,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 138,
+        "total": 139,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -17775,7 +17815,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 87,
+        "total": 88,
         "isDouble": false
       },
       "Corpse Gray Footprints": {
@@ -17838,15 +17878,15 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 1548,
+        "total": 1550,
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 2350,
+        "total": 2355,
         "isDouble": false
       },
       "Exorcism": {
-        "total": 2691,
+        "total": 2699,
         "isDouble": false
       }
     }
@@ -17980,6 +18020,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Rotten Orange Footprints": {
+        "total": 4,
+        "isDouble": false
+      },
       "Team Spirit Footprints": {
         "total": 2,
         "isDouble": false
@@ -18094,10 +18138,6 @@
       },
       "Nuts n' Bolts Chromatic Corruption": {
         "total": 1,
-        "isDouble": false
-      },
-      "Rotten Orange Footprints": {
-        "total": 3,
         "isDouble": false
       },
       "Smoking Sinister Staining Bruised Purple Footprints": {
@@ -18340,11 +18380,11 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2746,
+        "total": 2755,
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
-        "total": 3601,
+        "total": 3607,
         "isDouble": true
       },
       "Halloween Fire": {
@@ -18482,6 +18522,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Green Energy Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Searing Plasma Corpse Gray Footprints": {
         "total": 1,
         "isDouble": false
@@ -18601,7 +18645,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 560,
+        "total": 562,
         "isDouble": false
       }
     }
@@ -19400,7 +19444,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1349,
+        "total": 1352,
         "isDouble": false
       }
     }
@@ -19428,7 +19472,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 909,
+        "total": 910,
         "isDouble": false
       }
     }
@@ -19442,7 +19486,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1348,
+        "total": 1356,
         "isDouble": false
       }
     }
@@ -19484,7 +19528,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1416,
+        "total": 1419,
         "isDouble": false
       },
       "Iron Wood (Factory New) Exorcism": {
@@ -19578,7 +19622,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 970,
+        "total": 973,
         "isDouble": false
       }
     }
@@ -19593,7 +19637,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 59,
+        "total": 60,
         "isDouble": false
       },
       "Violent Violet Footprints": {
@@ -19994,7 +20038,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 276,
+        "total": 277,
         "isDouble": false
       }
     }
@@ -20255,6 +20299,10 @@
       "Steaming Die Job Bruised Purple Footprints": {
         "total": 1,
         "isDouble": true
+      },
+      "Orbiting Fire Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
       },
       "Time Warp Gangreen Footprints": {
         "total": 1,
@@ -20559,6 +20607,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Orbiting Fire Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Purple Confetti Headless Horseshoes": {
         "total": 1,
         "isDouble": false
@@ -20699,15 +20751,15 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 5047,
+        "total": 5055,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 4165,
+        "total": 4175,
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 3519,
+        "total": 3523,
         "isDouble": false
       },
       "Shell Shocker (Factory New) Exorcism": {
@@ -21046,7 +21098,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 33,
+        "total": 34,
         "isDouble": false
       },
       "Purple Confetti Chromatic Corruption": {
@@ -21169,6 +21221,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Circling TF Logo Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
       "Stormy Storm Chromatic Corruption Rotten Orange Footprints": {
         "total": 1,
         "isDouble": true
@@ -21250,6 +21306,10 @@
         "isDouble": false
       },
       "Blizzardy Storm Die Job": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Orbiting Fire Putrescent Pigmentation": {
         "total": 1,
         "isDouble": false
       },
@@ -21972,7 +22032,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       },
       "Purple Confetti Bruised Purple Footprints": {
@@ -22048,7 +22108,7 @@
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       },
       "Orbiting Fire Spectral Spectrum": {
@@ -22414,7 +22474,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 3980,
+        "total": 3996,
         "isDouble": false
       }
     }
@@ -22624,15 +22684,15 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 3386,
+        "total": 3390,
         "isDouble": false
       },
       "Exorcism": {
-        "total": 1690,
+        "total": 1691,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 2302,
+        "total": 2308,
         "isDouble": true
       }
     }
@@ -22647,7 +22707,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -22727,7 +22787,7 @@
         "isDouble": true
       },
       "Putrescent Pigmentation Voices from Below": {
-        "total": 3,
+        "total": 2,
         "isDouble": true
       },
       "Steaming Voices from Below": {
@@ -22913,7 +22973,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 4929,
+        "total": 4937,
         "isDouble": false
       },
       "Shot in the Dark (Minimal Wear) Exorcism": {
@@ -23283,7 +23343,7 @@
         "total": 2,
         "isDouble": true
       },
-      "Disco Beat Down Chromatic Corruption": {
+      "Disco Beat Down Voices from Below": {
         "total": 1,
         "isDouble": false
       },
@@ -23318,7 +23378,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 9238,
+        "total": 9251,
         "isDouble": false
       },
       "Current Event (Field-Tested) Exorcism": {
@@ -23401,11 +23461,11 @@
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 1826,
+        "total": 1830,
         "isDouble": false
       },
       "Exorcism": {
-        "total": 176,
+        "total": 177,
         "isDouble": false
       }
     }
@@ -23420,15 +23480,15 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 1858,
+        "total": 1864,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 1788,
+        "total": 1791,
         "isDouble": false
       },
       "Pumpkin Bombs": {
-        "total": 2915,
+        "total": 2921,
         "isDouble": false
       },
       "Liquid Asset (Field-Tested) Pumpkin Bombs": {
@@ -23598,7 +23658,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2790,
+        "total": 2792,
         "isDouble": false
       }
     }
@@ -23617,11 +23677,11 @@
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
-        "total": 1542,
+        "total": 1545,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 1882,
+        "total": 1884,
         "isDouble": false
       },
       "Energy Orb - Turbine Torcher (Well-Worn) Exorcism": {
@@ -23892,7 +23952,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 54,
+        "total": 55,
         "isDouble": false
       },
       "Chromatic Corruption Voices from Below": {
@@ -24647,6 +24707,10 @@
         "total": 2,
         "isDouble": true
       },
+      "Chromatic Corruption Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
       "Hellfire Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
@@ -24782,7 +24846,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 224,
+        "total": 225,
         "isDouble": false
       },
       "Violent Violet Footprints": {
@@ -24848,7 +24912,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 417,
+        "total": 418,
         "isDouble": false
       }
     }
@@ -24876,7 +24940,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 5331,
+        "total": 5336,
         "isDouble": false
       },
       "Backwoods Boomstick (Well-Worn) Exorcism": {
@@ -24970,7 +25034,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2205,
+        "total": 2206,
         "isDouble": false
       },
       "Homemade Heater (Factory New) Exorcism": {
@@ -25056,7 +25120,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1020,
+        "total": 1022,
         "isDouble": false
       },
       "Mayor (Factory New) Exorcism": {
@@ -25112,7 +25176,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 68,
+        "total": 69,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -26233,11 +26297,11 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 132,
+        "total": 134,
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 75,
+        "total": 76,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -26504,7 +26568,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 300,
+        "total": 302,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -26562,7 +26626,7 @@
         "total": 2,
         "isDouble": false
       },
-      "Circling TF Logo Spectral Spectrum Bruised Purple Footprints": {
+      "Circling TF Logo Spectral Spectrum Team Spirit Footprints": {
         "total": 1,
         "isDouble": true
       },
@@ -26579,7 +26643,7 @@
         "isDouble": true
       },
       "Spectral Spectrum": {
-        "total": 47,
+        "total": 48,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -27006,11 +27070,11 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 2986,
+        "total": 2987,
         "isDouble": false
       },
       "Exorcism": {
-        "total": 1145,
+        "total": 1148,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -27093,7 +27157,7 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 36,
+        "total": 37,
         "isDouble": false
       },
       "Sunbeams Headless Horseshoes": {
@@ -27524,7 +27588,7 @@
         "isDouble": false
       },
       "Burning Flames Rotten Orange Footprints": {
-        "total": 5,
+        "total": 4,
         "isDouble": false
       },
       "Scorching Flames Putrescent Pigmentation Corpse Gray Footprints": {
@@ -27631,6 +27695,10 @@
         "total": 2,
         "isDouble": false
       },
+      "Burning Flames Team Spirit Footprints": {
+        "total": 2,
+        "isDouble": false
+      },
       "Spectral Spectrum Team Spirit Footprints": {
         "total": 2,
         "isDouble": true
@@ -27670,6 +27738,10 @@
       "Orbiting Planets Headless Horseshoes": {
         "total": 1,
         "isDouble": false
+      },
+      "Blizzardy Storm Putrescent Pigmentation Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": true
       },
       "Stormy Storm Voices from Below": {
         "total": 1,
@@ -27963,10 +28035,6 @@
         "total": 1,
         "isDouble": true
       },
-      "Burning Flames Team Spirit Footprints": {
-        "total": 1,
-        "isDouble": false
-      },
       "Spectral Spectrum Bruised Purple Footprints": {
         "total": 1,
         "isDouble": true
@@ -27990,7 +28058,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1417,
+        "total": 1418,
         "isDouble": false
       }
     }
@@ -28004,7 +28072,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 459,
+        "total": 460,
         "isDouble": false
       }
     }
@@ -28018,7 +28086,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1087,
+        "total": 1091,
         "isDouble": false
       }
     }
@@ -28032,7 +28100,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 144,
+        "total": 145,
         "isDouble": false
       }
     }
@@ -28716,7 +28784,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 1147,
+        "total": 1149,
         "isDouble": true
       },
       "Exorcism": {
@@ -28763,7 +28831,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 148,
+        "total": 149,
         "isDouble": false
       },
       "Die Job Bruised Purple Footprints": {
@@ -29146,6 +29214,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Stormy Storm Gangreen Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Blizzardy Storm Corpse Gray Footprints": {
         "total": 1,
         "isDouble": false
@@ -29394,7 +29466,7 @@
         "isDouble": false
       },
       "Burning Flames Rotten Orange Footprints Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       },
       "Burning Flames Rotten Orange Footprints": {
@@ -29658,8 +29730,8 @@
       "single"
     ],
     "combinations": {
-      "Spectral Spectrum Headless Horseshoes": {
-        "total": 4,
+      "Spectral Spectrum Rotten Orange Footprints": {
+        "total": 5,
         "isDouble": true
       },
       "Putrescent Pigmentation Headless Horseshoes": {
@@ -29674,10 +29746,6 @@
         "total": 2,
         "isDouble": true
       },
-      "Spectral Spectrum Rotten Orange Footprints": {
-        "total": 4,
-        "isDouble": true
-      },
       "Chromatic Corruption": {
         "total": 6,
         "isDouble": false
@@ -29689,6 +29757,10 @@
       "Voices from Below": {
         "total": 5,
         "isDouble": false
+      },
+      "Spectral Spectrum Headless Horseshoes": {
+        "total": 3,
+        "isDouble": true
       },
       "Sinister Staining Rotten Orange Footprints": {
         "total": 1,
@@ -29706,6 +29778,10 @@
         "total": 2,
         "isDouble": true
       },
+      "Bruised Purple Footprints": {
+        "total": 2,
+        "isDouble": false
+      },
       "Chromatic Corruption Corpse Gray Footprints": {
         "total": 1,
         "isDouble": true
@@ -29713,10 +29789,6 @@
       "Rotten Orange Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
-      },
-      "Bruised Purple Footprints": {
-        "total": 1,
-        "isDouble": false
       },
       "Team Spirit Footprints Voices from Below": {
         "total": 1,
@@ -29813,9 +29885,9 @@
         "total": 10,
         "isDouble": false
       },
-      "Green Confetti Chromatic Corruption Gangreen Footprints": {
-        "total": 1,
-        "isDouble": true
+      "Green Confetti Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
       },
       "Vivid Plasma Violent Violet Footprints Voices from Below": {
         "total": 1,
@@ -30041,6 +30113,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Green Confetti Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      },
       "Massed Flies Rotten Orange Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -30106,10 +30182,6 @@
         "isDouble": false
       },
       "Vivid Plasma Gangreen Footprints": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Green Confetti Chromatic Corruption": {
         "total": 1,
         "isDouble": false
       },
@@ -30811,7 +30883,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 208,
+        "total": 209,
         "isDouble": false
       }
     }
@@ -31485,7 +31557,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 449,
+        "total": 450,
         "isDouble": false
       }
     }
@@ -31639,8 +31711,8 @@
         "total": 1,
         "isDouble": false
       },
-      "Orbiting Planets Violent Violet Footprints": {
-        "total": 1,
+      "Orbiting Planets Voices from Below": {
+        "total": 2,
         "isDouble": false
       },
       "Burning Flames Rotten Orange Footprints": {
@@ -31704,10 +31776,6 @@
         "isDouble": false
       },
       "Orbiting Planets Rotten Orange Footprints": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Orbiting Planets Voices from Below": {
         "total": 1,
         "isDouble": false
       },
@@ -31830,6 +31898,10 @@
       "Miami Nights Gangreen Footprints": {
         "total": 1,
         "isDouble": false
+      },
+      "Bubbling Bruised Purple Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
       },
       "Cloud 9 Headless Horseshoes Voices from Below": {
         "total": 1,
@@ -32652,6 +32724,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Sunbeams Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
       "Massed Flies Die Job": {
         "total": 1,
         "isDouble": false
@@ -32717,6 +32793,10 @@
         "isDouble": false
       },
       "Electrostatic Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sulphurous Rotten Orange Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
       },
@@ -32795,7 +32875,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 400,
+        "total": 401,
         "isDouble": false
       }
     }
@@ -32958,6 +33038,10 @@
         "isDouble": false
       },
       "Scorching Flames Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Vivid Plasma Chromatic Corruption": {
         "total": 1,
         "isDouble": false
       },
@@ -33316,9 +33400,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Purple Energy Team Spirit Footprints": {
+      "Purple Energy Team Spirit Footprints Voices from Below": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Circling Peace Sign Voices from Below": {
         "total": 1,
@@ -33689,7 +33773,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 203,
+        "total": 205,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -33861,7 +33945,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 283,
+        "total": 284,
         "isDouble": false
       }
     }
@@ -33880,7 +33964,7 @@
         "isDouble": false
       },
       "Purple Energy Bruised Purple Footprints": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       },
       "Burning Flames Rotten Orange Footprints": {
@@ -33890,6 +33974,10 @@
       "Haunted Ghosts Voices from Below": {
         "total": 1,
         "isDouble": false
+      },
+      "Purple Energy Bruised Purple Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
       },
       "Stormy Storm Team Spirit Footprints": {
         "total": 1,
@@ -34110,7 +34198,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 243,
+        "total": 244,
         "isDouble": false
       },
       "Corpse Gray Footprints": {
@@ -34144,6 +34232,10 @@
       "Rotten Orange Footprints Voices from Below": {
         "total": 2,
         "isDouble": true
+      },
+      "Vivid Plasma Voices from Below": {
+        "total": 1,
+        "isDouble": false
       },
       "Scorching Flames Team Spirit Footprints": {
         "total": 1,
@@ -34331,7 +34423,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1183,
+        "total": 1186,
         "isDouble": false
       }
     }
@@ -34679,7 +34771,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 435,
+        "total": 436,
         "isDouble": false
       }
     }
@@ -34694,7 +34786,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 86,
+        "total": 87,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -35131,9 +35223,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Burning Flames Spectral Spectrum Voices from Below": {
+      "Burning Flames Bruised Purple Footprints": {
         "total": 1,
-        "isDouble": true
+        "isDouble": false
       },
       "Putrescent Pigmentation Team Spirit Footprints": {
         "total": 1,
@@ -35877,6 +35969,10 @@
         "total": 9,
         "isDouble": false
       },
+      "Circling Heart Bruised Purple Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Chromatic Corruption": {
         "total": 6,
         "isDouble": false
@@ -36117,7 +36213,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 42,
+        "total": 43,
         "isDouble": false
       },
       "Bruised Purple Footprints Voices from Below": {
@@ -36960,6 +37056,10 @@
       "Sunbeams Chromatic Corruption": {
         "total": 1,
         "isDouble": false
+      },
+      "Kill-a-Watt Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
       }
     }
   },
@@ -37227,6 +37327,10 @@
       },
       "Purple Energy Voices from Below": {
         "total": 2,
+        "isDouble": false
+      },
+      "Purple Energy Violent Violet Footprints": {
+        "total": 1,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -37843,6 +37947,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Terror-Watt Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      },
       "Aces High Sinister Staining Bruised Purple Footprints": {
         "total": 1,
         "isDouble": true
@@ -37895,14 +38003,14 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 607,
+        "total": 608,
         "isDouble": false
       },
       "Bruised Purple Footprints Voices from Below": {
         "total": 13,
         "isDouble": true
       },
-      "Scorching Flames Headless Horseshoes Voices from Below": {
+      "Scorching Flames Team Spirit Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
       },
@@ -37966,7 +38074,7 @@
         "total": 1,
         "isDouble": true
       },
-      "Haunted Ghosts Bruised Purple Footprints": {
+      "Haunted Ghosts Headless Horseshoes": {
         "total": 1,
         "isDouble": false
       },
@@ -38951,7 +39059,7 @@
         "total": 1,
         "isDouble": true
       },
-      "Cloudy Moon Spectral Spectrum Voices from Below": {
+      "Cloudy Moon Die Job Corpse Gray Footprints": {
         "total": 1,
         "isDouble": true
       },
@@ -39318,7 +39426,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 259,
+        "total": 261,
         "isDouble": false
       },
       "Die Job Voices from Below": {
@@ -39330,7 +39438,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 133,
+        "total": 134,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -39457,9 +39565,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Eerie Orbiting Fire Chromatic Corruption": {
+      "Eerie Orbiting Fire Chromatic Corruption Headless Horseshoes": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Flaming Lantern Spectral Spectrum": {
         "total": 2,
@@ -39789,6 +39897,10 @@
         "isDouble": true
       },
       "Searing Plasma Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Purple Energy Bruised Purple Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -40215,7 +40327,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 34,
+        "total": 35,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -40297,6 +40409,10 @@
       "Stormy Storm Die Job": {
         "total": 1,
         "isDouble": false
+      },
+      "Scorching Flames Gangreen Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
       },
       "Chromatic Corruption Voices from Below": {
         "total": 4,
@@ -40725,7 +40841,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 86,
+        "total": 87,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -40833,7 +40949,7 @@
         "isDouble": true
       },
       "Team Spirit Footprints": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -40907,7 +41023,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 443,
+        "total": 445,
         "isDouble": false
       }
     }
@@ -41710,7 +41826,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 181,
+        "total": 182,
         "isDouble": false
       }
     }
@@ -41929,7 +42045,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1358,
+        "total": 1362,
         "isDouble": false
       }
     }
@@ -41952,7 +42068,7 @@
         "isDouble": true
       },
       "Chromatic Corruption": {
-        "total": 70,
+        "total": 71,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -42330,7 +42446,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 958,
+        "total": 960,
         "isDouble": false
       }
     }
@@ -42358,7 +42474,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 356,
+        "total": 357,
         "isDouble": false
       }
     }
@@ -42372,7 +42488,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1984,
+        "total": 1987,
         "isDouble": false
       }
     }
@@ -42400,7 +42516,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 165,
+        "total": 166,
         "isDouble": false
       }
     }
@@ -42414,7 +42530,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2494,
+        "total": 2500,
         "isDouble": false
       }
     }
@@ -42433,11 +42549,11 @@
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 806,
+        "total": 807,
         "isDouble": false
       },
       "Exorcism": {
-        "total": 574,
+        "total": 576,
         "isDouble": false
       }
     }
@@ -42451,7 +42567,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 822,
+        "total": 825,
         "isDouble": false
       }
     }
@@ -42493,7 +42609,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1025,
+        "total": 1028,
         "isDouble": false
       }
     }
@@ -42507,7 +42623,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 669,
+        "total": 670,
         "isDouble": false
       }
     }
@@ -42521,7 +42637,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1173,
+        "total": 1174,
         "isDouble": false
       }
     }
@@ -42535,7 +42651,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 569,
+        "total": 570,
         "isDouble": false
       }
     }
@@ -42554,7 +42670,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 108,
+        "total": 109,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -42704,7 +42820,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 269,
+        "total": 271,
         "isDouble": false
       }
     }
@@ -43029,6 +43145,10 @@
       },
       "Corpse Gray Footprints": {
         "total": 3,
+        "isDouble": false
+      },
+      "Headless Horseshoes": {
+        "total": 1,
         "isDouble": false
       },
       "Burning Flames Rotten Orange Footprints": {
@@ -43561,9 +43681,9 @@
         "total": 3,
         "isDouble": true
       },
-      "Green Energy Putrescent Pigmentation": {
+      "Green Energy Sinister Staining Headless Horseshoes": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Sinister Staining Voices from Below": {
         "total": 3,
@@ -43915,7 +44035,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 406,
+        "total": 408,
         "isDouble": false
       }
     }
@@ -44077,7 +44197,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 31,
+        "total": 32,
         "isDouble": false
       },
       "Cauldron Bubbles Gangreen Footprints Voices from Below": {
@@ -44354,7 +44474,7 @@
         "isDouble": true
       },
       "Violent Violet Footprints": {
-        "total": 21,
+        "total": 22,
         "isDouble": false
       },
       "Gangreen Footprints Voices from Below": {
@@ -44658,8 +44778,8 @@
         "total": 3,
         "isDouble": true
       },
-      "Spectral Spectrum Rotten Orange Footprints": {
-        "total": 5,
+      "Die Job Gangreen Footprints": {
+        "total": 1,
         "isDouble": true
       },
       "Rotten Orange Footprints Voices from Below": {
@@ -44676,6 +44796,10 @@
       },
       "Chromatic Corruption Voices from Below": {
         "total": 3,
+        "isDouble": true
+      },
+      "Spectral Spectrum Rotten Orange Footprints": {
+        "total": 4,
         "isDouble": true
       },
       "Spectral Spectrum Bruised Purple Footprints": {
@@ -44773,7 +44897,7 @@
         "isDouble": false
       },
       "Chromatic Corruption Voices from Below": {
-        "total": 5,
+        "total": 4,
         "isDouble": true
       },
       "Sinister Staining": {
@@ -44789,7 +44913,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 37,
+        "total": 38,
         "isDouble": false
       },
       "Die Job": {
@@ -44805,7 +44929,7 @@
         "isDouble": true
       },
       "Headless Horseshoes": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -44825,10 +44949,6 @@
         "isDouble": false
       },
       "Spectral Spectrum Rotten Orange Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Chromatic Corruption Headless Horseshoes": {
         "total": 1,
         "isDouble": true
       }
@@ -44989,7 +45109,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 8,
+        "total": 9,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -45477,7 +45597,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 649,
+        "total": 650,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -45485,7 +45605,7 @@
         "isDouble": true
       },
       "Exorcism": {
-        "total": 431,
+        "total": 432,
         "isDouble": false
       }
     }
@@ -45865,6 +45985,10 @@
         "isDouble": true
       },
       "Smoking Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Orbiting Planets Spectral Spectrum": {
         "total": 1,
         "isDouble": false
       },
@@ -46293,7 +46417,7 @@
         "isDouble": false
       },
       "Corpse Gray Footprints": {
-        "total": 22,
+        "total": 23,
         "isDouble": false
       },
       "Die Job": {
@@ -46305,7 +46429,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 411,
+        "total": 412,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -46325,7 +46449,7 @@
         "isDouble": true
       },
       "Chromatic Corruption": {
-        "total": 232,
+        "total": 234,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -46572,6 +46696,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Orbiting Planets Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      },
       "Putrescent Pigmentation Gangreen Footprints": {
         "total": 2,
         "isDouble": true
@@ -46590,10 +46718,6 @@
       },
       "Stormy Storm Corpse Gray Footprints": {
         "total": 2,
-        "isDouble": false
-      },
-      "Orbiting Planets Sinister Staining": {
-        "total": 1,
         "isDouble": false
       },
       "Smoking Headless Horseshoes Voices from Below": {
@@ -46784,7 +46908,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1599,
+        "total": 1601,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -46792,7 +46916,7 @@
         "isDouble": true
       },
       "Exorcism": {
-        "total": 1483,
+        "total": 1486,
         "isDouble": false
       }
     }
@@ -47070,7 +47194,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1440,
+        "total": 1444,
         "isDouble": false
       }
     }
@@ -47117,7 +47241,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 213,
+        "total": 214,
         "isDouble": false
       },
       "Corpse Gray Footprints": {
@@ -47183,7 +47307,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 699,
+        "total": 700,
         "isDouble": false
       }
     }
@@ -47214,7 +47338,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 25,
+        "total": 26,
         "isDouble": false
       },
       "Die Job": {
@@ -48134,19 +48258,19 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 307,
+        "total": 308,
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 148,
+        "total": 149,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 131,
+        "total": 132,
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 280,
+        "total": 281,
         "isDouble": false
       },
       "Spectral Spectrum Rotten Orange Footprints": {
@@ -48162,7 +48286,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Voices from Below": {
-        "total": 65,
+        "total": 66,
         "isDouble": true
       },
       "Sinister Staining Corpse Gray Footprints": {
@@ -48178,7 +48302,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 153,
+        "total": 154,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -48705,7 +48829,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 60,
+        "total": 61,
         "isDouble": false
       },
       "Voices from Below": {
@@ -48794,6 +48918,10 @@
       },
       "Team Spirit Footprints": {
         "total": 3,
+        "isDouble": false
+      },
+      "Circling Peace Sign Die Job": {
+        "total": 1,
         "isDouble": false
       },
       "Die Job Bruised Purple Footprints": {
@@ -50177,6 +50305,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Stormy Storm Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Kill-a-Watt Rotten Orange Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -51203,6 +51335,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Flaming Lantern Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      },
       "Spectral Spectrum Voices from Below": {
         "total": 12,
         "isDouble": true
@@ -51271,9 +51407,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Orbiting Planets Putrescent Pigmentation": {
+      "Orbiting Planets Die Job Bruised Purple Footprints": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Violent Violet Footprints": {
         "total": 11,
@@ -51296,6 +51432,10 @@
         "isDouble": false
       },
       "Vivid Plasma Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Nuts n' Bolts Gangreen Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -51539,7 +51679,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 73,
+        "total": 74,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -53262,6 +53402,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Green Confetti Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
       "Steaming Putrescent Pigmentation Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -53526,7 +53670,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 40,
+        "total": 41,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -53837,9 +53981,9 @@
         "total": 1,
         "isDouble": false
       },
-      "Disco Beat Down Gangreen Footprints": {
+      "Disco Beat Down Die Job Gangreen Footprints": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Dead Presidents Die Job": {
         "total": 1,
@@ -54012,6 +54156,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 3,
+        "isDouble": true
+      },
       "Spectral Spectrum": {
         "total": 3,
         "isDouble": false
@@ -54042,10 +54190,6 @@
       },
       "Cloud 9 Chromatic Corruption Violent Violet Footprints": {
         "total": 1,
-        "isDouble": true
-      },
-      "Putrescent Pigmentation Voices from Below": {
-        "total": 2,
         "isDouble": true
       },
       "Spellbound Chromatic Corruption Voices from Below": {
@@ -54977,7 +55121,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 90,
+        "total": 91,
         "isDouble": false
       },
       "Gangreen Footprints": {
@@ -55036,7 +55180,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 168,
+        "total": 169,
         "isDouble": false
       },
       "Violent Violet Footprints": {
@@ -55123,7 +55267,7 @@
         "isDouble": false
       },
       "Team Spirit Footprints": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -55149,7 +55293,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 369,
+        "total": 370,
         "isDouble": false
       }
     }
@@ -55223,7 +55367,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 162,
+        "total": 163,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -55343,7 +55487,7 @@
         "isDouble": true
       },
       "Gangreen Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       },
       "Putrescent Pigmentation Violent Violet Footprints": {
@@ -55383,10 +55527,6 @@
         "isDouble": false
       },
       "Putrescent Pigmentation Headless Horseshoes": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Putrescent Pigmentation Gangreen Footprints": {
         "total": 1,
         "isDouble": true
       },
@@ -55635,7 +55775,7 @@
         "isDouble": true
       },
       "Violent Violet Footprints": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       },
       "Headless Horseshoes Voices from Below": {
@@ -55651,7 +55791,7 @@
         "isDouble": true
       },
       "Bruised Purple Footprints": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       },
       "Rotten Orange Footprints Voices from Below": {
@@ -55822,7 +55962,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 156,
+        "total": 157,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -56235,7 +56375,7 @@
         "isDouble": true
       },
       "Gangreen Footprints": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       },
       "Bruised Purple Footprints": {
@@ -56267,7 +56407,7 @@
         "isDouble": false
       },
       "Gangreen Footprints Voices from Below": {
-        "total": 3,
+        "total": 2,
         "isDouble": true
       },
       "Team Spirit Footprints Voices from Below": {
@@ -56503,7 +56643,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 31,
+        "total": 32,
         "isDouble": false
       },
       "Violent Violet Footprints": {
@@ -56857,7 +56997,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       },
       "Headless Horseshoes": {
@@ -56873,7 +57013,7 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 276,
+        "total": 277,
         "isDouble": false
       },
       "Gangreen Footprints": {
@@ -56893,7 +57033,7 @@
         "isDouble": true
       },
       "Team Spirit Footprints Voices from Below": {
-        "total": 16,
+        "total": 15,
         "isDouble": true
       },
       "Corpse Gray Footprints": {
@@ -57049,7 +57189,7 @@
         "isDouble": false
       },
       "Team Spirit Footprints": {
-        "total": 11,
+        "total": 10,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -57124,16 +57264,16 @@
         "total": 1,
         "isDouble": true
       },
+      "Spectral Spectrum Team Spirit Footprints": {
+        "total": 5,
+        "isDouble": true
+      },
       "Spectral Spectrum Violent Violet Footprints": {
         "total": 2,
         "isDouble": true
       },
       "Sinister Staining Rotten Orange Footprints": {
         "total": 1,
-        "isDouble": true
-      },
-      "Spectral Spectrum Team Spirit Footprints": {
-        "total": 4,
         "isDouble": true
       },
       "Die Job Headless Horseshoes": {
@@ -57183,7 +57323,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1795,
+        "total": 1797,
         "isDouble": false
       }
     }
@@ -57247,7 +57387,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 617,
+        "total": 620,
         "isDouble": false
       }
     }
@@ -57276,11 +57416,11 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 169,
+        "total": 170,
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
-        "total": 540,
+        "total": 541,
         "isDouble": true
       },
       "Halloween Fire": {
@@ -57298,7 +57438,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 839,
+        "total": 842,
         "isDouble": false
       }
     }
@@ -57317,11 +57457,11 @@
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
-        "total": 1375,
+        "total": 1377,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 1526,
+        "total": 1528,
         "isDouble": false
       }
     }
@@ -57335,7 +57475,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 572,
+        "total": 575,
         "isDouble": false
       }
     }
@@ -57366,7 +57506,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 213,
+        "total": 214,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -57378,7 +57518,7 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 164,
+        "total": 165,
         "isDouble": false
       },
       "Gangreen Footprints": {
@@ -57394,11 +57534,11 @@
         "isDouble": true
       },
       "Spectral Spectrum Team Spirit Footprints": {
-        "total": 11,
+        "total": 12,
         "isDouble": true
       },
       "Rotten Orange Footprints": {
-        "total": 18,
+        "total": 19,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -57446,7 +57586,7 @@
         "isDouble": true
       },
       "Die Job Rotten Orange Footprints": {
-        "total": 5,
+        "total": 4,
         "isDouble": true
       },
       "Sinister Staining Gangreen Footprints": {
@@ -57592,7 +57732,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 329,
+        "total": 330,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -57831,7 +57971,7 @@
         "isDouble": true
       },
       "Exorcism": {
-        "total": 61,
+        "total": 62,
         "isDouble": false
       }
     }
@@ -58101,7 +58241,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 276,
+        "total": 277,
         "isDouble": false
       }
     }
@@ -59149,7 +59289,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2181,
+        "total": 2182,
         "isDouble": false
       }
     }
@@ -59236,6 +59376,10 @@
         "isDouble": false
       },
       "Stormy Storm Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Orbiting Planets Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -59480,7 +59624,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 582,
+        "total": 584,
         "isDouble": false
       }
     }
@@ -59610,9 +59754,9 @@
         "total": 3,
         "isDouble": false
       },
-      "Steaming Gangreen Footprints": {
+      "Steaming Sinister Staining Corpse Gray Footprints": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Orbiting Planets Bruised Purple Footprints": {
         "total": 1,
@@ -59791,7 +59935,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 173,
+        "total": 176,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -59887,15 +60031,11 @@
         "isDouble": true
       },
       "Violent Violet Footprints": {
-        "total": 19,
+        "total": 20,
         "isDouble": false
       },
       "Chromatic Corruption Bruised Purple Footprints": {
         "total": 3,
-        "isDouble": true
-      },
-      "Sinister Staining Violent Violet Footprints": {
-        "total": 2,
         "isDouble": true
       },
       "Violent Violet Footprints Voices from Below": {
@@ -59955,7 +60095,7 @@
         "isDouble": true
       },
       "Sinister Staining Voices from Below": {
-        "total": 5,
+        "total": 4,
         "isDouble": true
       },
       "Putrescent Pigmentation Violent Violet Footprints": {
@@ -59963,6 +60103,10 @@
         "isDouble": true
       },
       "Die Job Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sinister Staining Violent Violet Footprints": {
         "total": 1,
         "isDouble": true
       },
@@ -60172,6 +60316,10 @@
         "total": 8,
         "isDouble": false
       },
+      "Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      },
       "Gangreen Footprints": {
         "total": 1,
         "isDouble": false
@@ -60319,9 +60467,9 @@
         "total": 1,
         "isDouble": true
       },
-      "Scorching Flames Bruised Purple Footprints": {
+      "Scorching Flames Bruised Purple Footprints Voices from Below": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       }
     }
   },
@@ -60367,7 +60515,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Gangreen Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       },
       "Sinister Staining Voices from Below": {
@@ -60505,6 +60653,10 @@
         "total": 6,
         "isDouble": false
       },
+      "Chromatic Corruption Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
       "Team Spirit Footprints": {
         "total": 1,
         "isDouble": false
@@ -60525,7 +60677,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       },
       "Gangreen Footprints": {
@@ -60657,7 +60809,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 12,
+        "total": 13,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -60778,7 +60930,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 101,
+        "total": 103,
         "isDouble": false
       },
       "Corpse Gray Footprints": {
@@ -60952,7 +61104,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 126,
+        "total": 128,
         "isDouble": false
       },
       "Die Job": {
@@ -60960,15 +61112,15 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 333,
+        "total": 334,
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 431,
+        "total": 432,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 261,
+        "total": 262,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -61167,7 +61319,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 41,
+        "total": 42,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -61346,7 +61498,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -61361,16 +61513,16 @@
         "total": 3,
         "isDouble": true
       },
-      "Die Job": {
-        "total": 20,
-        "isDouble": false
-      },
       "Sinister Staining Voices from Below": {
         "total": 1,
         "isDouble": true
       },
       "Sinister Staining": {
         "total": 20,
+        "isDouble": false
+      },
+      "Die Job": {
+        "total": 19,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -61568,6 +61720,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Smoking Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
       "Dead Presidents Spectral Spectrum": {
         "total": 1,
         "isDouble": false
@@ -61680,7 +61836,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 20,
+        "total": 21,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -63166,10 +63322,14 @@
     "category": "all",
     "groupings": [
       "all",
-      "single",
-      "double"
+      "double",
+      "single"
     ],
     "combinations": {
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Die Job": {
         "total": 3,
         "isDouble": false
@@ -63273,7 +63433,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 28,
+        "total": 29,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -63327,7 +63487,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 7,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -63496,7 +63656,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 555,
+        "total": 556,
         "isDouble": false
       }
     }
@@ -63510,7 +63670,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 706,
+        "total": 708,
         "isDouble": false
       }
     }
@@ -63524,7 +63684,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2633,
+        "total": 2635,
         "isDouble": false
       }
     }
@@ -63583,7 +63743,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 79,
+        "total": 81,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -63937,7 +64097,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 68,
+        "total": 69,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -64225,11 +64385,11 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 610,
+        "total": 612,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 1275,
+        "total": 1281,
         "isDouble": false
       }
     }
@@ -64260,11 +64420,11 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 29,
+        "total": 28,
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -64353,7 +64513,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 154,
+        "total": 155,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -64370,10 +64530,6 @@
       },
       "Die Job Voices from Below": {
         "total": 16,
-        "isDouble": true
-      },
-      "Sinister Staining Voices from Below": {
-        "total": 11,
         "isDouble": true
       },
       "Voices from Below": {
@@ -64414,6 +64570,10 @@
       },
       "Spectral Spectrum Gangreen Footprints": {
         "total": 1,
+        "isDouble": true
+      },
+      "Sinister Staining Voices from Below": {
+        "total": 10,
         "isDouble": true
       },
       "Rotten Orange Footprints": {
@@ -64499,7 +64659,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 289,
+        "total": 290,
         "isDouble": false
       }
     }
@@ -64546,7 +64706,7 @@
         "isDouble": false
       },
       "Violent Violet Footprints": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -65594,7 +65754,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1225,
+        "total": 1226,
         "isDouble": false
       }
     }
@@ -65797,6 +65957,10 @@
         "total": 2,
         "isDouble": false
       },
+      "Stormy Storm Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
       "Smoking Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -65937,7 +66101,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 85,
+        "total": 86,
         "isDouble": false
       },
       "Voices from Below": {
@@ -66052,7 +66216,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 65,
+        "total": 66,
         "isDouble": false
       },
       "Chromatic Corruption Voices from Below": {
@@ -66223,7 +66387,7 @@
         "isDouble": false
       },
       "Violent Violet Footprints": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       },
       "Headless Horseshoes": {
@@ -66588,7 +66752,7 @@
         "isDouble": false
       },
       "Spectral Spectrum Team Spirit Footprints": {
-        "total": 7,
+        "total": 8,
         "isDouble": true
       },
       "Sinister Staining Rotten Orange Footprints": {
@@ -66644,7 +66808,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Voices from Below": {
-        "total": 5,
+        "total": 4,
         "isDouble": true
       },
       "Putrescent Pigmentation Team Spirit Footprints": {
@@ -66792,7 +66956,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2838,
+        "total": 2842,
         "isDouble": false
       }
     }
@@ -66806,7 +66970,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 660,
+        "total": 662,
         "isDouble": false
       }
     }
@@ -66821,11 +66985,11 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 162,
+        "total": 163,
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 488,
+        "total": 489,
         "isDouble": false
       },
       "Exorcism": {
@@ -66917,7 +67081,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 410,
+        "total": 411,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -66925,7 +67089,7 @@
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 308,
+        "total": 310,
         "isDouble": false
       }
     }
@@ -67029,7 +67193,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 203,
+        "total": 204,
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
@@ -67076,6 +67240,20 @@
     }
   },
   {
+    "name": "Silver Botkiller Sniper Rifle Mk.I",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 408,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Gold Botkiller Rocket Launcher Mk.I",
     "category": "all",
     "groupings": [
@@ -67108,29 +67286,15 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 225,
+        "total": 226,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 122,
+        "total": 123,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 162,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Silver Botkiller Sniper Rifle Mk.I",
-    "category": "all",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Exorcism": {
-        "total": 407,
+        "total": 163,
         "isDouble": false
       }
     }
@@ -67144,7 +67308,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 263,
+        "total": 265,
         "isDouble": false
       }
     }
@@ -67218,7 +67382,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 118,
+        "total": 120,
         "isDouble": false
       }
     }
@@ -67237,7 +67401,7 @@
         "isDouble": true
       },
       "Exorcism": {
-        "total": 41,
+        "total": 42,
         "isDouble": false
       },
       "Pumpkin Bombs": {
@@ -67393,7 +67557,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 120,
+        "total": 119,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -67421,7 +67585,7 @@
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
-        "total": 7,
+        "total": 8,
         "isDouble": true
       },
       "Chromatic Corruption Voices from Below": {
@@ -67488,11 +67652,11 @@
         "total": 3,
         "isDouble": true
       },
-      "Spectral Spectrum Gangreen Footprints": {
-        "total": 1,
+      "Sinister Staining Team Spirit Footprints": {
+        "total": 2,
         "isDouble": true
       },
-      "Sinister Staining Team Spirit Footprints": {
+      "Spectral Spectrum Gangreen Footprints": {
         "total": 1,
         "isDouble": true
       },
@@ -68247,7 +68411,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 33,
+        "total": 34,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -68342,7 +68506,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 78,
+        "total": 79,
         "isDouble": false
       },
       "Voices from Below": {
@@ -68779,7 +68943,7 @@
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
-        "total": 4,
+        "total": 5,
         "isDouble": true
       },
       "Spectral Spectrum Team Spirit Footprints": {
@@ -69062,11 +69226,11 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 123,
+        "total": 124,
         "isDouble": false
       },
       "Die Job": {
-        "total": 121,
+        "total": 122,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -69209,11 +69373,11 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 118,
+        "total": 119,
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 98,
+        "total": 99,
         "isDouble": false
       },
       "Die Job Voices from Below": {
@@ -69221,7 +69385,7 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 82,
+        "total": 83,
         "isDouble": false
       },
       "Voices from Below": {
@@ -69400,7 +69564,7 @@
         "isDouble": true
       },
       "Spectral Spectrum": {
-        "total": 57,
+        "total": 58,
         "isDouble": false
       },
       "Die Job Gangreen Footprints": {
@@ -69731,7 +69895,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 558,
+        "total": 559,
         "isDouble": false
       }
     }
@@ -69769,7 +69933,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 125,
+        "total": 126,
         "isDouble": true
       },
       "Pumpkin Bombs": {
@@ -69814,7 +69978,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 259,
+        "total": 260,
         "isDouble": true
       }
     }
@@ -69854,7 +70018,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 389,
+        "total": 392,
         "isDouble": false
       }
     }
@@ -69883,15 +70047,15 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 384,
+        "total": 387,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 486,
+        "total": 485,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 505,
+        "total": 506,
         "isDouble": false
       }
     }
@@ -69906,11 +70070,11 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 419,
+        "total": 422,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 159,
+        "total": 161,
         "isDouble": true
       },
       "Exorcism": {
@@ -69929,7 +70093,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 274,
+        "total": 276,
         "isDouble": true
       },
       "Pumpkin Bombs": {
@@ -69937,7 +70101,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 83,
+        "total": 84,
         "isDouble": false
       }
     }
@@ -69970,7 +70134,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 279,
+        "total": 281,
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
@@ -69988,7 +70152,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 605,
+        "total": 606,
         "isDouble": false
       }
     }
@@ -70003,7 +70167,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 252,
+        "total": 254,
         "isDouble": true
       },
       "Exorcism": {
@@ -70011,7 +70175,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs": {
-        "total": 331,
+        "total": 332,
         "isDouble": false
       }
     }
@@ -70026,7 +70190,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 208,
+        "total": 209,
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
@@ -70081,7 +70245,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 936,
+        "total": 940,
         "isDouble": false
       }
     }
@@ -70151,7 +70315,7 @@
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 96,
+        "total": 97,
         "isDouble": false
       },
       "Exorcism": {
@@ -70317,7 +70481,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 107,
+        "total": 108,
         "isDouble": false
       }
     }
@@ -70372,7 +70536,7 @@
         "isDouble": true
       },
       "Bruised Purple Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -70741,11 +70905,11 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 99,
+        "total": 100,
         "isDouble": false
       },
       "Die Job": {
-        "total": 124,
+        "total": 125,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -70809,7 +70973,7 @@
         "isDouble": true
       },
       "Chromatic Corruption Voices from Below": {
-        "total": 11,
+        "total": 12,
         "isDouble": true
       },
       "Spectral Spectrum Team Spirit Footprints": {
@@ -70920,7 +71084,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 568,
+        "total": 569,
         "isDouble": false
       },
       "Chromatic Corruption Headless Horseshoes": {
@@ -70928,7 +71092,7 @@
         "isDouble": true
       },
       "Sinister Staining Voices from Below": {
-        "total": 77,
+        "total": 76,
         "isDouble": true
       },
       "Sinister Staining": {
@@ -70944,7 +71108,7 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 539,
+        "total": 540,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -71008,7 +71172,7 @@
         "isDouble": true
       },
       "Sinister Staining Bruised Purple Footprints": {
-        "total": 8,
+        "total": 7,
         "isDouble": true
       },
       "Sinister Staining Team Spirit Footprints": {
@@ -71024,7 +71188,7 @@
         "isDouble": true
       },
       "Bruised Purple Footprints": {
-        "total": 51,
+        "total": 52,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -71060,7 +71224,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Rotten Orange Footprints": {
-        "total": 31,
+        "total": 32,
         "isDouble": true
       },
       "Chromatic Corruption Gangreen Footprints": {
@@ -71235,6 +71399,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Stormy Storm Headless Horseshoes": {
+        "total": 2,
+        "isDouble": false
+      },
       "Electrostatic Bruised Purple Footprints": {
         "total": 1,
         "isDouble": false
@@ -71284,10 +71452,6 @@
         "isDouble": true
       },
       "Nuts n' Bolts Spectral Spectrum": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Stormy Storm Headless Horseshoes": {
         "total": 1,
         "isDouble": false
       },
@@ -71554,7 +71718,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 845,
+        "total": 849,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -71625,7 +71789,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 110,
+        "total": 112,
         "isDouble": false
       },
       "Corpse Gray Footprints": {
@@ -71680,7 +71844,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Voices from Below": {
-        "total": 62,
+        "total": 63,
         "isDouble": true
       },
       "Voices from Below": {
@@ -71712,7 +71876,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 195,
+        "total": 196,
         "isDouble": false
       },
       "Violent Violet Footprints": {
@@ -72199,7 +72363,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 224,
+        "total": 225,
         "isDouble": false
       },
       "Sinister Staining Team Spirit Footprints": {
@@ -72354,7 +72518,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 818,
+        "total": 819,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -72433,7 +72597,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 208,
+        "total": 209,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -72441,7 +72605,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 212,
+        "total": 213,
         "isDouble": false
       },
       "Voices from Below": {
@@ -72604,7 +72768,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 77,
+        "total": 78,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -72612,7 +72776,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 114,
+        "total": 115,
         "isDouble": false
       },
       "Voices from Below": {
@@ -72620,7 +72784,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 90,
+        "total": 91,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -72950,7 +73114,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 79,
+        "total": 80,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -73281,7 +73445,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 132,
+        "total": 133,
         "isDouble": false
       },
       "Voices from Below": {
@@ -73408,11 +73572,11 @@
     ],
     "combinations": {
       "Headless Horseshoes Voices from Below": {
-        "total": 20,
+        "total": 21,
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 882,
+        "total": 883,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -73491,7 +73655,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 120,
+        "total": 121,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -73531,7 +73695,7 @@
         "isDouble": true
       },
       "Rotten Orange Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -73658,7 +73822,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 707,
+        "total": 710,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -73728,7 +73892,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1606,
+        "total": 1611,
         "isDouble": false
       }
     }
@@ -73775,7 +73939,7 @@
         "isDouble": false
       },
       "Team Spirit Footprints Voices from Below": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       },
       "Rotten Orange Footprints": {
@@ -73838,7 +74002,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -73992,7 +74156,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 863,
+        "total": 864,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -74130,7 +74294,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 811,
+        "total": 812,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -74197,7 +74361,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 824,
+        "total": 825,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -74229,7 +74393,7 @@
         "isDouble": false
       },
       "Violent Violet Footprints": {
-        "total": 20,
+        "total": 21,
         "isDouble": false
       },
       "Bruised Purple Footprints": {
@@ -74355,6 +74519,10 @@
         "isDouble": false
       },
       "Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Headless Horseshoes": {
         "total": 1,
         "isDouble": false
       },
@@ -74729,7 +74897,7 @@
         "isDouble": false
       },
       "Chromatic Corruption Voices from Below": {
-        "total": 16,
+        "total": 17,
         "isDouble": true
       },
       "Chromatic Corruption": {
@@ -75286,7 +75454,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 2400,
+        "total": 2407,
         "isDouble": false
       },
       "Exorcism": {
@@ -75294,7 +75462,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 758,
+        "total": 759,
         "isDouble": true
       }
     }
@@ -75322,7 +75490,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 564,
+        "total": 565,
         "isDouble": false
       }
     }
@@ -75337,7 +75505,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 353,
+        "total": 354,
         "isDouble": false
       },
       "Die Job": {
@@ -75345,7 +75513,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 320,
+        "total": 322,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -75385,7 +75553,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Voices from Below": {
-        "total": 53,
+        "total": 52,
         "isDouble": true
       },
       "Team Spirit Footprints": {
@@ -75405,7 +75573,7 @@
         "isDouble": true
       },
       "Rotten Orange Footprints": {
-        "total": 31,
+        "total": 32,
         "isDouble": false
       },
       "Corpse Gray Footprints": {
@@ -75569,7 +75737,7 @@
         "isDouble": true
       },
       "Rotten Orange Footprints Voices from Below": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       },
       "Die Job Team Spirit Footprints": {
@@ -75587,7 +75755,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 716,
+        "total": 718,
         "isDouble": false
       }
     }
@@ -75601,7 +75769,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1029,
+        "total": 1030,
         "isDouble": false
       }
     }
@@ -75616,7 +75784,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1182,
+        "total": 1186,
         "isDouble": false
       },
       "Exorcism": {
@@ -75624,7 +75792,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 883,
+        "total": 886,
         "isDouble": true
       }
     }
@@ -76064,7 +76232,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 827,
+        "total": 828,
         "isDouble": false
       }
     }
@@ -76360,7 +76528,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 495,
+        "total": 497,
         "isDouble": false
       }
     }
@@ -76664,7 +76832,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 89,
+        "total": 90,
         "isDouble": false
       },
       "Die Job": {
@@ -76676,7 +76844,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 60,
+        "total": 61,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -77368,7 +77536,7 @@
         "total": 1,
         "isDouble": false
       },
-      "Miami Nights Bruised Purple Footprints": {
+      "Miami Nights Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -77548,6 +77716,10 @@
         "isDouble": false
       },
       "Rotten Orange Footprints": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Corpse Gray Footprints": {
         "total": 2,
         "isDouble": false
       },
@@ -77738,10 +77910,6 @@
       "Spectral Spectrum Rotten Orange Footprints": {
         "total": 1,
         "isDouble": true
-      },
-      "Corpse Gray Footprints": {
-        "total": 1,
-        "isDouble": false
       },
       "Terror-Watt Gangreen Footprints": {
         "total": 1,
@@ -77970,7 +78138,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs": {
-        "total": 575,
+        "total": 578,
         "isDouble": false
       }
     }
@@ -77985,7 +78153,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 506,
+        "total": 508,
         "isDouble": false
       },
       "Pumpkin Bombs": {
@@ -78117,7 +78285,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 764,
+        "total": 767,
         "isDouble": false
       }
     }
@@ -78281,7 +78449,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 517,
+        "total": 518,
         "isDouble": false
       }
     }
@@ -78318,7 +78486,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 129,
+        "total": 130,
         "isDouble": false
       }
     }
@@ -78341,7 +78509,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       }
     }
@@ -78379,11 +78547,11 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 57,
+        "total": 58,
         "isDouble": true
       },
       "Exorcism": {
-        "total": 42,
+        "total": 43,
         "isDouble": false
       }
     }
@@ -78707,7 +78875,7 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 61,
+        "total": 62,
         "isDouble": false
       },
       "Spectral Spectrum Team Spirit Footprints": {
@@ -78719,7 +78887,7 @@
         "isDouble": true
       },
       "Gangreen Footprints": {
-        "total": 24,
+        "total": 25,
         "isDouble": false
       },
       "Spectral Spectrum Headless Horseshoes": {
@@ -78763,7 +78931,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Gangreen Footprints": {
-        "total": 9,
+        "total": 8,
         "isDouble": true
       },
       "Corpse Gray Footprints": {
@@ -78930,7 +79098,7 @@
         "isDouble": true
       },
       "Violent Violet Footprints": {
-        "total": 18,
+        "total": 19,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -79181,7 +79349,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 205,
+        "total": 206,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -79189,7 +79357,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 137,
+        "total": 138,
         "isDouble": false
       },
       "Chromatic Corruption Voices from Below": {
@@ -79201,11 +79369,11 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 130,
+        "total": 133,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 124,
+        "total": 125,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -79304,6 +79472,10 @@
         "total": 3,
         "isDouble": true
       },
+      "Putrescent Pigmentation Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
       "Chromatic Corruption Gangreen Footprints": {
         "total": 2,
         "isDouble": true
@@ -79372,7 +79544,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 14,
+        "total": 15,
         "isDouble": false
       },
       "Die Job": {
@@ -79392,7 +79564,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 18,
+        "total": 19,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -79601,7 +79773,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       },
       "Die Job": {
@@ -80133,7 +80305,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 284,
+        "total": 285,
         "isDouble": false
       },
       "Chromatic Corruption Violent Violet Footprints": {
@@ -80141,7 +80313,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 438,
+        "total": 437,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -80201,7 +80373,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Bruised Purple Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       },
       "Chromatic Corruption Rotten Orange Footprints": {
@@ -80332,7 +80504,7 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 60,
+        "total": 61,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -80744,6 +80916,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Miami Nights Team Spirit Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Vivid Plasma Die Job": {
         "total": 1,
         "isDouble": false
@@ -80791,6 +80967,10 @@
         "total": 49,
         "isDouble": false
       },
+      "Putrescent Pigmentation": {
+        "total": 22,
+        "isDouble": false
+      },
       "Voices from Below": {
         "total": 13,
         "isDouble": false
@@ -80825,10 +81005,6 @@
       },
       "Bruised Purple Footprints": {
         "total": 3,
-        "isDouble": false
-      },
-      "Putrescent Pigmentation": {
-        "total": 21,
         "isDouble": false
       },
       "Gangreen Footprints Voices from Below": {
@@ -80911,7 +81087,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 33,
+        "total": 34,
         "isDouble": false
       },
       "Violent Violet Footprints Voices from Below": {
@@ -81194,7 +81370,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 16,
+        "total": 17,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -81230,6 +81406,10 @@
         "isDouble": false
       },
       "Smoking Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Steaming Voices from Below": {
         "total": 1,
         "isDouble": false
       },
@@ -81598,6 +81778,10 @@
         "isDouble": false
       },
       "Anti-Freeze Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Nuts n' Bolts Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -82589,9 +82773,9 @@
         "total": 1,
         "isDouble": true
       },
-      "Sulphurous Rotten Orange Footprints": {
+      "Sulphurous Rotten Orange Footprints Voices from Below": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Corpse Gray Footprints": {
         "total": 2,
@@ -83167,7 +83351,7 @@
         "isDouble": false
       },
       "Kill-a-Watt Sinister Staining": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Bonzo The All-Gnawing Chromatic Corruption": {
@@ -83955,7 +84139,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       },
       "Headless Horseshoes": {
@@ -84351,16 +84535,16 @@
         "total": 1,
         "isDouble": true
       },
+      "Die Job": {
+        "total": 5,
+        "isDouble": false
+      },
       "Putrescent Pigmentation": {
         "total": 13,
         "isDouble": false
       },
       "Spectral Spectrum": {
         "total": 2,
-        "isDouble": false
-      },
-      "Die Job": {
-        "total": 4,
         "isDouble": false
       },
       "Putrescent Pigmentation Voices from Below": {
@@ -84872,6 +85056,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Aces High Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      },
       "Sulphurous Spectral Spectrum": {
         "total": 1,
         "isDouble": false
@@ -85098,7 +85286,7 @@
         "total": 1,
         "isDouble": false
       },
-      "Something Burning This Way Comes Team Spirit Footprints": {
+      "Something Burning This Way Comes Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -86977,7 +87165,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 27,
+        "total": 28,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -87432,7 +87620,7 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 24,
+        "total": 25,
         "isDouble": false
       },
       "Headless Horseshoes": {
@@ -87570,6 +87758,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Eerie Orbiting Fire Headless Horseshoes Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Darkblaze Chromatic Corruption": {
         "total": 1,
         "isDouble": false
@@ -87634,7 +87826,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 25,
+        "total": 26,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -87681,7 +87873,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 130,
+        "total": 131,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -87693,7 +87885,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 153,
+        "total": 154,
         "isDouble": false
       },
       "Voices from Below": {
@@ -88261,7 +88453,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 144,
+        "total": 145,
         "isDouble": false
       },
       "Die Job": {
@@ -88277,7 +88469,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Voices from Below": {
-        "total": 27,
+        "total": 26,
         "isDouble": true
       },
       "Spectral Spectrum": {
@@ -88755,7 +88947,7 @@
         "isDouble": true
       },
       "Putrescent Pigmentation": {
-        "total": 22,
+        "total": 23,
         "isDouble": false
       },
       "Spectral Spectrum Rotten Orange Footprints": {
@@ -89048,9 +89240,9 @@
         "total": 1,
         "isDouble": true
       },
-      "Putrescent Pigmentation Headless Horseshoes": {
+      "Headless Horseshoes": {
         "total": 1,
-        "isDouble": true
+        "isDouble": false
       },
       "Die Job Headless Horseshoes": {
         "total": 1,
@@ -89135,7 +89327,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 91,
+        "total": 92,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -89147,7 +89339,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 54,
+        "total": 55,
         "isDouble": false
       },
       "Corpse Gray Footprints": {
@@ -90453,7 +90645,7 @@
         "isDouble": true
       },
       "Putrescent Pigmentation": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -90925,7 +91117,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       },
       "Voices from Below": {
@@ -91230,9 +91422,9 @@
         "total": 1,
         "isDouble": true
       },
-      "Terror-Watt Putrescent Pigmentation Corpse Gray Footprints": {
+      "Terror-Watt Corpse Gray Footprints": {
         "total": 1,
-        "isDouble": true
+        "isDouble": false
       },
       "Aces High Voices from Below": {
         "total": 1,
@@ -91437,7 +91629,7 @@
         "isDouble": false
       },
       "Gangreen Footprints": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       },
       "Sinister Staining Violent Violet Footprints": {
@@ -91584,7 +91776,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 164,
+        "total": 165,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -91604,7 +91796,7 @@
         "isDouble": true
       },
       "Chromatic Corruption": {
-        "total": 198,
+        "total": 199,
         "isDouble": false
       },
       "Putrescent Pigmentation Corpse Gray Footprints": {
@@ -91628,7 +91820,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 157,
+        "total": 160,
         "isDouble": false
       },
       "Chromatic Corruption Bruised Purple Footprints": {
@@ -91972,7 +92164,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 40,
+        "total": 41,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -92702,7 +92894,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 71,
+        "total": 72,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -94561,6 +94753,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Cloud 9 Chromatic Corruption Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
       "Vivid Plasma Spectral Spectrum Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -95012,7 +95208,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 66,
+        "total": 67,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -95422,7 +95618,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 52,
+        "total": 53,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -95668,7 +95864,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 136,
+        "total": 137,
         "isDouble": false
       },
       "Die Job Voices from Below": {
@@ -95914,6 +96110,10 @@
         "total": 1,
         "isDouble": true
       },
+      "Terror-Watt Putrescent Pigmentation": {
+        "total": 3,
+        "isDouble": false
+      },
       "Miami Nights Spectral Spectrum": {
         "total": 1,
         "isDouble": false
@@ -95935,10 +96135,6 @@
         "isDouble": false
       },
       "Rotten Orange Footprints": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Terror-Watt Putrescent Pigmentation": {
         "total": 2,
         "isDouble": false
       },
@@ -96042,7 +96238,7 @@
         "isDouble": true
       },
       "Spectral Spectrum": {
-        "total": 62,
+        "total": 63,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -96763,7 +96959,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 53,
+        "total": 54,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -96779,7 +96975,7 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 25,
+        "total": 26,
         "isDouble": false
       },
       "Die Job Voices from Below": {
@@ -97052,7 +97248,7 @@
         "isDouble": false
       },
       "Headless Horseshoes": {
-        "total": 7,
+        "total": 8,
         "isDouble": false
       },
       "Gangreen Footprints": {
@@ -97408,7 +97604,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 61,
+        "total": 62,
         "isDouble": false
       },
       "Rotten Orange Footprints Voices from Below": {
@@ -97801,45 +97997,6 @@
     }
   },
   {
-    "name": "Pop-eyes",
-    "category": "all",
-    "groupings": [
-      "all",
-      "single",
-      "double"
-    ],
-    "combinations": {
-      "Die Job": {
-        "total": 5,
-        "isDouble": false
-      },
-      "Sinister Staining": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Die Job Voices from Below": {
-        "total": 2,
-        "isDouble": true
-      },
-      "Chromatic Corruption": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Putrescent Pigmentation": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Spectral Spectrum": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Voices from Below": {
-        "total": 3,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Ward",
     "category": "all",
     "groupings": [
@@ -97974,6 +98131,45 @@
     }
   },
   {
+    "name": "Pop-eyes",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Die Job Voices from Below": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Putrescent Pigmentation": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Die Job": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Ethereal Hood",
     "category": "all",
     "groupings": [
@@ -97995,7 +98191,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 98,
+        "total": 99,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -98015,7 +98211,7 @@
         "isDouble": false
       },
       "Die Job Voices from Below": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       },
       "Corpse Gray Footprints": {
@@ -98154,7 +98350,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 29,
+        "total": 30,
         "isDouble": false
       },
       "Putrescent Pigmentation Team Spirit Footprints": {
@@ -98392,7 +98588,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 55,
+        "total": 56,
         "isDouble": false
       },
       "Die Job Corpse Gray Footprints": {
@@ -98575,7 +98771,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 116,
+        "total": 117,
         "isDouble": false
       },
       "Spectral Spectrum Team Spirit Footprints": {
@@ -98583,7 +98779,7 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 125,
+        "total": 126,
         "isDouble": false
       },
       "Sinister Staining Corpse Gray Footprints": {
@@ -98603,7 +98799,7 @@
         "isDouble": false
       },
       "Violent Violet Footprints": {
-        "total": 22,
+        "total": 23,
         "isDouble": false
       },
       "Team Spirit Footprints": {
@@ -98913,7 +99109,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 108,
+        "total": 109,
         "isDouble": false
       },
       "Spectral Spectrum Corpse Gray Footprints": {
@@ -99830,12 +100026,12 @@
         "total": 12,
         "isDouble": false
       },
-      "Spectral Spectrum": {
-        "total": 21,
+      "Voices from Below": {
+        "total": 14,
         "isDouble": false
       },
-      "Voices from Below": {
-        "total": 13,
+      "Spectral Spectrum": {
+        "total": 21,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -100063,6 +100259,10 @@
         "total": 34,
         "isDouble": false
       },
+      "Spectral Spectrum": {
+        "total": 24,
+        "isDouble": false
+      },
       "Die Job": {
         "total": 19,
         "isDouble": false
@@ -100074,10 +100274,6 @@
       "Chromatic Corruption Headless Horseshoes": {
         "total": 2,
         "isDouble": true
-      },
-      "Spectral Spectrum": {
-        "total": 23,
-        "isDouble": false
       },
       "Chromatic Corruption Bruised Purple Footprints": {
         "total": 3,
@@ -100270,7 +100466,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 32,
+        "total": 31,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -100302,7 +100498,7 @@
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       },
       "Corpse Gray Footprints": {
@@ -100629,7 +100825,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 41,
+        "total": 42,
         "isDouble": false
       },
       "Spectral Spectrum Team Spirit Footprints": {
@@ -101479,7 +101675,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -102136,7 +102332,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 23,
+        "total": 24,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -102795,7 +102991,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 23,
+        "total": 24,
         "isDouble": false
       },
       "Bruised Purple Footprints": {
@@ -102843,7 +103039,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Voices from Below": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -103284,7 +103480,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -103391,7 +103587,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -104801,7 +104997,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       },
       "Putrescent Pigmentation Violent Violet Footprints": {
@@ -105313,7 +105509,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 208,
+        "total": 209,
         "isDouble": true
       },
       "Pumpkin Bombs": {
@@ -105373,7 +105569,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 171,
+        "total": 172,
         "isDouble": true
       },
       "Pumpkin Bombs": {
@@ -105381,7 +105577,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 56,
+        "total": 55,
         "isDouble": false
       }
     }
@@ -105409,7 +105605,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 339,
+        "total": 340,
         "isDouble": false
       }
     }
@@ -105423,7 +105619,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 287,
+        "total": 288,
         "isDouble": false
       }
     }
@@ -105442,7 +105638,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 213,
+        "total": 214,
         "isDouble": true
       },
       "Exorcism": {
@@ -105493,7 +105689,7 @@
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 159,
+        "total": 160,
         "isDouble": false
       },
       "Exorcism": {
@@ -105738,7 +105934,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 360,
+        "total": 362,
         "isDouble": false
       }
     }
@@ -105804,16 +106000,16 @@
         "total": 1,
         "isDouble": false
       },
+      "Sinister Staining Voices from Below": {
+        "total": 4,
+        "isDouble": true
+      },
       "Sinister Staining Gangreen Footprints": {
         "total": 1,
         "isDouble": true
       },
       "Spectral Spectrum Bruised Purple Footprints": {
         "total": 2,
-        "isDouble": true
-      },
-      "Sinister Staining Voices from Below": {
-        "total": 3,
         "isDouble": true
       },
       "Headless Horseshoes": {
@@ -105840,15 +106036,15 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 545,
+        "total": 549,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 723,
+        "total": 731,
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 619,
+        "total": 623,
         "isDouble": false
       }
     }
@@ -105876,7 +106072,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 884,
+        "total": 887,
         "isDouble": false
       }
     }
@@ -105899,7 +106095,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 104,
+        "total": 105,
         "isDouble": false
       },
       "Spectral Spectrum": {
@@ -105911,7 +106107,7 @@
         "isDouble": false
       },
       "Spectral Spectrum Headless Horseshoes": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       },
       "Spectral Spectrum Violent Violet Footprints": {
@@ -105939,7 +106135,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 95,
+        "total": 96,
         "isDouble": false
       },
       "Chromatic Corruption Voices from Below": {
@@ -106000,10 +106196,6 @@
       },
       "Spectral Spectrum Voices from Below": {
         "total": 19,
-        "isDouble": true
-      },
-      "Sinister Staining Violent Violet Footprints": {
-        "total": 1,
         "isDouble": true
       },
       "Die Job Rotten Orange Footprints": {
@@ -106113,7 +106305,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 459,
+        "total": 460,
         "isDouble": false
       }
     }
@@ -106178,7 +106370,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 721,
+        "total": 724,
         "isDouble": false
       }
     }
@@ -106585,7 +106777,7 @@
         "isDouble": true
       },
       "Voices from Below": {
-        "total": 52,
+        "total": 53,
         "isDouble": false
       },
       "Spectral Spectrum Corpse Gray Footprints": {
@@ -106671,6 +106863,10 @@
         "isDouble": false
       },
       "Blizzardy Storm Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Kill-a-Watt Corpse Gray Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -106790,7 +106986,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Corpse Gray Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       },
       "Chromatic Corruption Bruised Purple Footprints": {
@@ -106820,7 +107016,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 880,
+        "total": 885,
         "isDouble": false
       }
     }
@@ -106835,7 +107031,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 94,
+        "total": 95,
         "isDouble": false
       },
       "Die Job Team Spirit Footprints": {
@@ -107529,7 +107725,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 82,
+        "total": 83,
         "isDouble": false
       },
       "Spectral Spectrum Team Spirit Footprints": {
@@ -109422,9 +109618,9 @@
         "total": 1,
         "isDouble": true
       },
-      "Sunbeams Voices from Below": {
+      "Sunbeams Team Spirit Footprints Voices from Below": {
         "total": 1,
-        "isDouble": false
+        "isDouble": true
       },
       "Scorching Flames Voices from Below": {
         "total": 1,
@@ -109652,6 +109848,10 @@
       "Chromatic Corruption Corpse Gray Footprints": {
         "total": 1,
         "isDouble": true
+      },
+      "Kill-a-Watt Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
       },
       "Dead Presidents Spectral Spectrum Team Spirit Footprints": {
         "total": 1,
@@ -109992,7 +110192,7 @@
         "isDouble": false
       },
       "Violent Violet Footprints": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       },
       "Voices from Below": {
@@ -110286,7 +110486,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 22,
+        "total": 23,
         "isDouble": false
       },
       "Bruised Purple Footprints": {
@@ -110310,7 +110510,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       },
       "Corpse Gray Footprints Voices from Below": {
@@ -111312,6 +111512,10 @@
         "total": 8,
         "isDouble": false
       },
+      "Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Putrescent Pigmentation": {
         "total": 12,
         "isDouble": false
@@ -111422,6 +111626,10 @@
       "Chromatic Corruption": {
         "total": 15,
         "isDouble": false
+      },
+      "Chromatic Corruption Voices from Below": {
+        "total": 1,
+        "isDouble": true
       },
       "Putrescent Pigmentation Violent Violet Footprints": {
         "total": 1,
@@ -112277,7 +112485,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 85,
+        "total": 84,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -112289,7 +112497,7 @@
         "isDouble": true
       },
       "Spectral Spectrum": {
-        "total": 32,
+        "total": 33,
         "isDouble": false
       },
       "Gangreen Footprints": {
@@ -113399,7 +113607,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1456,
+        "total": 1459,
         "isDouble": false
       }
     }
@@ -113682,7 +113890,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 68,
+        "total": 69,
         "isDouble": false
       },
       "Gangreen Footprints Voices from Below": {
@@ -113733,7 +113941,7 @@
         "isDouble": true
       },
       "Chromatic Corruption": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       },
       "Sinister Staining Gangreen Footprints": {
@@ -113875,7 +114083,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 586,
+        "total": 587,
         "isDouble": false
       }
     }
@@ -113889,7 +114097,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 295,
+        "total": 296,
         "isDouble": false
       }
     }
@@ -114050,7 +114258,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 395,
+        "total": 396,
         "isDouble": false
       }
     }
@@ -114079,7 +114287,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 446,
+        "total": 447,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -114175,7 +114383,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 154,
+        "total": 155,
         "isDouble": false
       },
       "Headless Horseshoes": {
@@ -116160,7 +116368,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       },
       "Die Job": {
@@ -116913,7 +117121,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       },
       "Die Job Violent Violet Footprints": {
@@ -117866,7 +118074,7 @@
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
-        "total": 783,
+        "total": 784,
         "isDouble": true
       }
     }
@@ -117889,7 +118097,7 @@
         "isDouble": false
       },
       "Corpse Gray Footprints": {
-        "total": 17,
+        "total": 18,
         "isDouble": false
       },
       "Rotten Orange Footprints": {
@@ -118292,7 +118500,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 168,
+        "total": 169,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -118316,7 +118524,7 @@
         "isDouble": true
       },
       "Die Job": {
-        "total": 149,
+        "total": 150,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -118487,7 +118695,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 103,
+        "total": 104,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -118499,7 +118707,11 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 124,
+        "total": 125,
+        "isDouble": false
+      },
+      "Corpse Gray Footprints": {
+        "total": 15,
         "isDouble": false
       },
       "Circling TF Logo Spectral Spectrum": {
@@ -118523,16 +118735,12 @@
         "isDouble": true
       },
       "Spectral Spectrum": {
-        "total": 132,
+        "total": 133,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
         "total": 12,
         "isDouble": true
-      },
-      "Corpse Gray Footprints": {
-        "total": 14,
-        "isDouble": false
       },
       "Bruised Purple Footprints": {
         "total": 10,
@@ -119058,7 +119266,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 123,
+        "total": 125,
         "isDouble": false
       },
       "Corpse Gray Footprints": {
@@ -119217,7 +119425,7 @@
         "isDouble": true
       },
       "Spectral Spectrum": {
-        "total": 112,
+        "total": 113,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -119360,7 +119568,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 87,
+        "total": 88,
         "isDouble": false
       },
       "Headless Horseshoes": {
@@ -119388,11 +119596,11 @@
         "isDouble": true
       },
       "Sinister Staining": {
-        "total": 106,
+        "total": 107,
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 88,
+        "total": 89,
         "isDouble": false
       },
       "Violent Violet Footprints": {
@@ -119654,7 +119862,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       },
       "Putrescent Pigmentation": {
@@ -119728,101 +119936,6 @@
     }
   },
   {
-    "name": "Unshaved Bear",
-    "category": "all",
-    "groupings": [
-      "all",
-      "single",
-      "double"
-    ],
-    "combinations": {
-      "Sinister Staining": {
-        "total": 32,
-        "isDouble": false
-      },
-      "Voices from Below": {
-        "total": 164,
-        "isDouble": false
-      },
-      "Chromatic Corruption Voices from Below": {
-        "total": 7,
-        "isDouble": true
-      },
-      "Putrescent Pigmentation": {
-        "total": 47,
-        "isDouble": false
-      },
-      "Putrescent Pigmentation Voices from Below": {
-        "total": 4,
-        "isDouble": true
-      },
-      "Chromatic Corruption": {
-        "total": 53,
-        "isDouble": false
-      },
-      "Die Job": {
-        "total": 41,
-        "isDouble": false
-      },
-      "Spectral Spectrum": {
-        "total": 67,
-        "isDouble": false
-      },
-      "Die Job Voices from Below": {
-        "total": 10,
-        "isDouble": true
-      },
-      "Corpse Gray Footprints": {
-        "total": 6,
-        "isDouble": false
-      },
-      "Sinister Staining Rotten Orange Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Sinister Staining Voices from Below": {
-        "total": 3,
-        "isDouble": true
-      },
-      "Gangreen Footprints": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Bruised Purple Footprints": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Violent Violet Footprints": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Spectral Spectrum Voices from Below": {
-        "total": 7,
-        "isDouble": true
-      },
-      "Headless Horseshoes": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Gangreen Footprints Voices from Below": {
-        "total": 2,
-        "isDouble": true
-      },
-      "Chromatic Corruption Violent Violet Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Team Spirit Footprints": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Headless Horseshoes Voices from Below": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
     "name": "Lone Survivor",
     "category": "all",
     "groupings": [
@@ -119831,8 +119944,12 @@
       "double"
     ],
     "combinations": {
+      "Voices from Below": {
+        "total": 128,
+        "isDouble": false
+      },
       "Die Job": {
-        "total": 39,
+        "total": 40,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -119842,10 +119959,6 @@
       "Corpse Gray Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
-      },
-      "Voices from Below": {
-        "total": 126,
-        "isDouble": false
       },
       "Corpse Gray Footprints": {
         "total": 4,
@@ -119948,6 +120061,101 @@
         "isDouble": true
       },
       "Chromatic Corruption Gangreen Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Unshaved Bear",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 32,
+        "isDouble": false
+      },
+      "Voices from Below": {
+        "total": 164,
+        "isDouble": false
+      },
+      "Chromatic Corruption Voices from Below": {
+        "total": 7,
+        "isDouble": true
+      },
+      "Putrescent Pigmentation": {
+        "total": 47,
+        "isDouble": false
+      },
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 4,
+        "isDouble": true
+      },
+      "Chromatic Corruption": {
+        "total": 53,
+        "isDouble": false
+      },
+      "Die Job": {
+        "total": 41,
+        "isDouble": false
+      },
+      "Spectral Spectrum": {
+        "total": 67,
+        "isDouble": false
+      },
+      "Die Job Voices from Below": {
+        "total": 10,
+        "isDouble": true
+      },
+      "Corpse Gray Footprints": {
+        "total": 6,
+        "isDouble": false
+      },
+      "Sinister Staining Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sinister Staining Voices from Below": {
+        "total": 3,
+        "isDouble": true
+      },
+      "Gangreen Footprints": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Bruised Purple Footprints": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Violent Violet Footprints": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Spectral Spectrum Voices from Below": {
+        "total": 7,
+        "isDouble": true
+      },
+      "Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Gangreen Footprints Voices from Below": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Chromatic Corruption Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Team Spirit Footprints": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Headless Horseshoes Voices from Below": {
         "total": 1,
         "isDouble": true
       }
@@ -120142,7 +120350,7 @@
         "isDouble": false
       },
       "Gangreen Footprints": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       },
       "Bruised Purple Footprints Voices from Below": {
@@ -120393,7 +120601,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 8,
+        "total": 9,
         "isDouble": false
       },
       "Bruised Purple Footprints": {
@@ -120420,7 +120628,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 35,
+        "total": 36,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -120700,7 +120908,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 125,
+        "total": 126,
         "isDouble": false
       },
       "Die Job": {
@@ -121393,7 +121601,7 @@
         "isDouble": true
       },
       "Spectral Spectrum": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       },
       "Spectral Spectrum Voices from Below": {
@@ -121699,6 +121907,109 @@
     }
   },
   {
+    "name": "Soul of 'Spensers Past",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 28,
+        "isDouble": false
+      },
+      "Chromatic Corruption": {
+        "total": 14,
+        "isDouble": false
+      },
+      "Sinister Staining": {
+        "total": 20,
+        "isDouble": false
+      },
+      "Putrescent Pigmentation": {
+        "total": 17,
+        "isDouble": false
+      },
+      "Die Job": {
+        "total": 14,
+        "isDouble": false
+      },
+      "Voices from Below": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Putrescent Pigmentation Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sinister Staining Gangreen Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Rotten Orange Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Putrescent Pigmentation Gangreen Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Sinister Staining Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Spectral Spectrum Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Chromatic Corruption Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Die Job Voices from Below": {
+        "total": 4,
+        "isDouble": true
+      },
+      "Chromatic Corruption Voices from Below": {
+        "total": 3,
+        "isDouble": true
+      },
+      "Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Spectral Spectrum Gangreen Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sinister Staining Voices from Below": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Spectral Spectrum Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Chromatic Corruption Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Creature's Grin",
     "category": "all",
     "groupings": [
@@ -121819,7 +122130,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 21,
+        "total": 22,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -121890,7 +122201,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       },
       "Rotten Orange Footprints Voices from Below": {
@@ -122130,7 +122441,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       },
       "Sinister Staining": {
@@ -122181,10 +122492,6 @@
         "total": 2,
         "isDouble": true
       },
-      "Putrescent Pigmentation Voices from Below": {
-        "total": 1,
-        "isDouble": true
-      },
       "Corpse Gray Footprints": {
         "total": 2,
         "isDouble": false
@@ -122230,109 +122537,6 @@
         "isDouble": true
       },
       "Sinister Staining Violent Violet Footprints": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Soul of 'Spensers Past",
-    "category": "all",
-    "groupings": [
-      "all",
-      "single",
-      "double"
-    ],
-    "combinations": {
-      "Chromatic Corruption": {
-        "total": 14,
-        "isDouble": false
-      },
-      "Sinister Staining": {
-        "total": 20,
-        "isDouble": false
-      },
-      "Spectral Spectrum": {
-        "total": 26,
-        "isDouble": false
-      },
-      "Putrescent Pigmentation": {
-        "total": 17,
-        "isDouble": false
-      },
-      "Die Job": {
-        "total": 14,
-        "isDouble": false
-      },
-      "Voices from Below": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Putrescent Pigmentation Corpse Gray Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Sinister Staining Gangreen Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Rotten Orange Footprints Voices from Below": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Putrescent Pigmentation Gangreen Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Putrescent Pigmentation Voices from Below": {
-        "total": 2,
-        "isDouble": true
-      },
-      "Sinister Staining Team Spirit Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Spectral Spectrum Team Spirit Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Rotten Orange Footprints": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Chromatic Corruption Rotten Orange Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Die Job Voices from Below": {
-        "total": 4,
-        "isDouble": true
-      },
-      "Chromatic Corruption Voices from Below": {
-        "total": 3,
-        "isDouble": true
-      },
-      "Corpse Gray Footprints": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Spectral Spectrum Gangreen Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Bruised Purple Footprints": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sinister Staining Voices from Below": {
-        "total": 2,
-        "isDouble": true
-      },
-      "Spectral Spectrum Voices from Below": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Chromatic Corruption Bruised Purple Footprints": {
         "total": 1,
         "isDouble": true
       }
@@ -122443,7 +122647,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       },
       "Chromatic Corruption Voices from Below": {
@@ -122847,7 +123051,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
@@ -125004,12 +125208,12 @@
         "total": 1,
         "isDouble": true
       },
-      "Die Job": {
+      "Sinister Staining": {
         "total": 3,
         "isDouble": false
       },
-      "Sinister Staining": {
-        "total": 2,
+      "Die Job": {
+        "total": 3,
         "isDouble": false
       }
     }
@@ -125204,6 +125408,20 @@
     }
   },
   {
+    "name": "Commissar's Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Outta' Sight",
     "category": "allpostlife",
     "groupings": [
@@ -125335,20 +125553,6 @@
     }
   },
   {
-    "name": "Commissar's Coat",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Voices from Below": {
-        "total": 8,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Vascular Vestment",
     "category": "allpostlife",
     "groupings": [
@@ -125403,7 +125607,8 @@
     "category": "allpostlife",
     "groupings": [
       "all",
-      "single"
+      "single",
+      "double"
     ],
     "combinations": {
       "Voices from Below": {
@@ -125413,6 +125618,10 @@
       "Die Job": {
         "total": 1,
         "isDouble": false
+      },
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
       },
       "Sinister Staining": {
         "total": 1,

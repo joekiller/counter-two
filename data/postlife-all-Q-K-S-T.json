@@ -8962,7 +8962,7 @@
     ],
     "combinations": {
       "Night Terror (Minimal Wear) Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       }
     }
@@ -9992,7 +9992,7 @@
     ],
     "combinations": {
       "Night Terror (Minimal Wear) Exorcism": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -11088,7 +11088,7 @@
     }
   },
   {
-    "name": "Black Dahlia (Minimal Wear) Exorcism Pistol",
+    "name": "Black Dahlia (Minimal Wear) Professional Killstreak Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -11111,6 +11111,20 @@
     "combinations": {
       "Chromatic Corruption": {
         "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Commissar's Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 5,
         "isDouble": false
       }
     }
@@ -11405,6 +11419,20 @@
     "combinations": {
       "Sinister Staining": {
         "total": 12,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Sinister Staining Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -11885,20 +11913,6 @@
     "combinations": {
       "Spectral Spectrum": {
         "total": 3,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Voices from Below Commissar's Coat",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Voices from Below": {
-        "total": 4,
         "isDouble": false
       }
     }
@@ -13216,6 +13230,20 @@
       "Spectral Spectrum": {
         "total": 1,
         "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Sinister Staining Voices from Below Graylien",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
       }
     }
   },

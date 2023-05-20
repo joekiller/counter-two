@@ -3746,12 +3746,12 @@
         "total": 1,
         "isDouble": true
       },
-      "Die Job": {
+      "Sinister Staining": {
         "total": 3,
         "isDouble": false
       },
-      "Sinister Staining": {
-        "total": 2,
+      "Die Job": {
+        "total": 3,
         "isDouble": false
       }
     }
@@ -3946,6 +3946,20 @@
     }
   },
   {
+    "name": "Commissar's Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Outta' Sight",
     "category": "allpostlife",
     "groupings": [
@@ -4077,20 +4091,6 @@
     }
   },
   {
-    "name": "Commissar's Coat",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Voices from Below": {
-        "total": 8,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Vascular Vestment",
     "category": "allpostlife",
     "groupings": [
@@ -4145,7 +4145,8 @@
     "category": "allpostlife",
     "groupings": [
       "all",
-      "single"
+      "single",
+      "double"
     ],
     "combinations": {
       "Voices from Below": {
@@ -4155,6 +4156,10 @@
       "Die Job": {
         "total": 1,
         "isDouble": false
+      },
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
       },
       "Sinister Staining": {
         "total": 1,

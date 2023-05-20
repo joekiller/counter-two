@@ -9160,6 +9160,20 @@
     }
   },
   {
+    "name": "Voices from Below Commissar's Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Strange Die Job Voices from Below Rotation Sensation",
     "category": "allpostlife",
     "groupings": [
@@ -9421,6 +9435,20 @@
     "combinations": {
       "Sinister Staining": {
         "total": 12,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Sinister Staining Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -9845,20 +9873,6 @@
     "combinations": {
       "Spectral Spectrum": {
         "total": 3,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Voices from Below Commissar's Coat",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Voices from Below": {
-        "total": 4,
         "isDouble": false
       }
     }
@@ -10924,6 +10938,20 @@
       "Spectral Spectrum": {
         "total": 1,
         "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Sinister Staining Voices from Below Graylien",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
       }
     }
   },

@@ -5742,6 +5742,20 @@
     }
   },
   {
+    "name": "Voices from Below Commissar's Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Die Job Voices from Below Rotation Sensation",
     "category": "allpostlife",
     "groupings": [
@@ -5954,6 +5968,20 @@
     }
   },
   {
+    "name": "Sinister Staining Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Putrescent Pigmentation Rotation Sensation",
     "category": "allpostlife",
     "groupings": [
@@ -6020,20 +6048,6 @@
       "Chromatic Corruption Voices from Below": {
         "total": 1,
         "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Voices from Below Commissar's Coat",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Voices from Below": {
-        "total": 8,
-        "isDouble": false
       }
     }
   },
@@ -6270,20 +6284,6 @@
       "Team Spirit Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Sinister Staining Wild West Waistcoat",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sinister Staining": {
-        "total": 2,
-        "isDouble": false
       }
     }
   },
@@ -6718,6 +6718,20 @@
       "Spectral Spectrum": {
         "total": 1,
         "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Voices from Below Graylien",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
       }
     }
   },
