@@ -8,6 +8,7 @@ import {handleSearchChange, options} from "../pages/[category]/render/index.html
 import {LinkSrcAndLicenses} from "./LinkSrcAndLicenses";
 import {LinkPostLifeIndex} from "./LinkPostLifeIndex";
 import {LinkAllIndex} from "./LinkAllIndex";
+import SearchForm from "./SearchForm";
 
 
 export interface ProcessedParams {
@@ -48,10 +49,8 @@ function keywords(category: Category) {
 }
 
 const Processed: NextPage<ProcessedParams> = ({ category, sets, total }) => {
+  const [loaded, setLoaded] = useState(false);
   const [displayTotal, setDisplayTotal] = useState(total);
-  const handleChange = useCallback((e: ChangeEvent<HTMLInputElement>) => {
-    handleSearchChange(e.target.value, false, {total, displayTotal, setDisplayTotal})
-  }, [total, displayTotal, setDisplayTotal])
   const title = `All ${options(category, 'Spells', 'PostLife Spells')} Index`
   return (
     <div>
@@ -62,11 +61,17 @@ const Processed: NextPage<ProcessedParams> = ({ category, sets, total }) => {
         <link rel="icon" type="image/png" href="/static/key-solid.svg" />
       </Head>
 
-      <main className="spell-list">
+      <h2 style={{display: !loaded ? 'block' : 'none'}}>Loading...</h2>
+      <main className="spell-list" style={{visibility: loaded ? 'visible' : 'hidden', display: loaded ? 'block': 'none'}}>
         <h2>Estimated Total: {total}</h2>
-        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={handleChange} placeholder={"Press enter to search for names..."}/>
-        {displayTotal != total && <h3>Found: {displayTotal}</h3>}
-        <ul id="spellList">
+        <SearchForm
+          loaded={loaded}
+          handleLoaded={setLoaded}
+          handleSearchChange={(s: string) => handleSearchChange({searchText : s, withLinks : false, stats : {total, displayTotal, setDisplayTotal}})}
+          disableInstant={true}
+        />
+        <h3 style={{visibility: loaded ? 'visible' : 'hidden', display: displayTotal != total ? 'block' : 'none'}}>Found: {displayTotal}</h3>
+        <ul id="spellList" style={{visibility: loaded ? 'visible' : 'hidden'}}>
           {sets.map((item, i) =>
             <li data-name={item.name} data-total={item.total} key={i}>
               {item.name}: {item.total}

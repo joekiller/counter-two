@@ -10,6 +10,7 @@ import {deLinkName, linkName} from "../../../../components/ItemLink";
 import fsp from "fs/promises";
 import path from "path";
 import {ItemFooter} from "../../../../components/ItemFooter";
+import SearchForm from "../../../../components/SearchForm";
 
 
 interface ItemParams {
@@ -76,10 +77,8 @@ function keywords(category: Category) {
 }
 
 const Name: NextPage<ItemParams> = ({ category, name, sets, total }) => {
+  const [loaded, setLoaded] = useState(false);
   const [displayTotal, setDisplayTotal] = useState(total);
-  const handleChange = useCallback((e: ChangeEvent<HTMLInputElement>) => {
-    handleSearchChange(e.target.value, false, {total, displayTotal, setDisplayTotal})
-  }, [total, displayTotal, setDisplayTotal])
   const title = `All ${options(category, 'Spells', 'PostLife Spells')} Index`
   return (
     <div>
@@ -90,12 +89,17 @@ const Name: NextPage<ItemParams> = ({ category, name, sets, total }) => {
         <link rel="icon" type="image/png" href="/static/key-solid.svg" />
       </Head>
 
-      <main className="spell-list">
+      <h2 style={{display: !loaded ? 'block' : 'none'}}>Loading...</h2>
+      <main className="spell-list" style={{visibility: loaded ? 'visible' : 'hidden', display: loaded ? 'block': 'none'}}>
         <h1>{name}</h1>
         <h2>Estimated Total: {total}</h2>
-        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={handleChange} placeholder={"Press enter to search for names..."}/>
-        {displayTotal != total && <h3>Found: {displayTotal}</h3>}
-        <ul id="spellList">
+        <SearchForm
+          loaded={loaded}
+          handleLoaded={setLoaded}
+          handleSearchChange={(s: string) => handleSearchChange({searchText : s, withLinks : false, stats : {total, displayTotal, setDisplayTotal}})}
+        />
+        <h3 style={{display: loaded && displayTotal !== total ? 'block': 'none'}}>Found: {displayTotal}</h3>
+        <ul id="spellList" style={{visibility: loaded ? 'visible' : 'hidden'}}>
           {sets.map((item, i) =>
             <li data-name={item.name} data-total={item.total} key={i}>
               {item.name}: {item.total}

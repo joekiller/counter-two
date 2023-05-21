@@ -1,5 +1,5 @@
 import Category from "../../../components/Category";
-import React from "react";
+import React, {useCallback, useEffect, useState} from "react";
 import {GetStaticPaths, GetStaticProps, NextPage} from "next";
 import Head from "next/head";
 import {ItemLink} from "../../../components/ItemLink";
@@ -10,6 +10,10 @@ import fsp from "fs/promises";
 import path from "path";
 import Grouping from "../../../components/Grouping";
 import Link from "next/link";
+import {NextRouter, Router, useRouter} from "next/router";
+import useMobileDetect from "../../../components/UseMobileDetect";
+import SearchForm from "../../../components/SearchForm";
+import {ItemFooter} from "../../../components/ItemFooter";
 
 
 export interface CategoryQuery extends ParsedUrlQuery {
@@ -63,7 +67,13 @@ function keywords(category: Category) {
   return `tf2 ${fill} index, tf2 ${fill} total, tf2 ${fill} count, counter, trading, team fortress 2`
 }
 
-export function handleSearchChange(searchText: string, withLinks: boolean, stats?: {total: number, displayTotal: number, setDisplayTotal: React.Dispatch<React.SetStateAction<number>>}): void {
+interface HandleSearchChangeParams {
+  searchText: string;
+  withLinks: boolean;
+  stats?: { total: number; displayTotal: number; setDisplayTotal: React.Dispatch<React.SetStateAction<number>> };
+}
+
+export function handleSearchChange({searchText, withLinks, stats}: HandleSearchChangeParams): void {
   const filter = searchText.toUpperCase();
   const included = (text: string) => (text.toUpperCase().indexOf(filter) > -1)
   const ul = document.getElementById("spellList");
@@ -79,7 +89,7 @@ export function handleSearchChange(searchText: string, withLinks: boolean, stats
       a = li[i];
     }
     const txtValue = a.textContent || a.innerText;
-    if (included(txtValue)) {
+    if (included(txtValue) || !txtValue) {
       if(a.dataset.total) {
         newTotal += parseInt(a.dataset.total);
       }
@@ -102,6 +112,7 @@ function processedLink(category: Category, s: string) {
 }
 
 const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
+  const [loaded, setLoaded] = useState(false);
   const title = `All ${options(category, 'Spells', 'PostLife Spells')} Index`
   return (
     <div>
@@ -112,13 +123,14 @@ const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
         <link rel="icon" type="image/png" href="/static/key-solid.svg" />
       </Head>
 
-      <main className="spell-list">
-        <input enterKeyHint={"search"} type={"search"} id={"spellSearch"} onChange={(e) => handleSearchChange(e.target.value, false)} placeholder={"Press enter to search for names..."}/>
-        <ul id="spellList">
-          {summaryItems.map(i =>
-            <li data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total} key={`${i.name}${i.grouping}${i.category}`}>
-              <ItemLink data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total}/>
-            </li>)}
+      <h2 style={{display: !loaded ? 'block' : 'none'}}>Loading...</h2>
+      <main className="spell-list" style={{visibility: loaded ? 'visible' : 'hidden', display: loaded ? 'block': 'none'}}>
+        <SearchForm
+          loaded={loaded}
+          handleLoaded={setLoaded}
+          handleSearchChange={(searchText: string) => handleSearchChange({searchText : searchText, withLinks : false})}
+        />
+        <ul id="spellList" style={{visibility: loaded ? 'visible' : 'hidden'}}>
           <li>{processedLink(category, 'processed-Q-K-C-S')}</li>
           <li>{processedLink(category, 'processed-K-C-S')}</li>
           <li>{processedLink(category, 'processed-Q-C-S')}</li>
@@ -127,10 +139,14 @@ const SpellIndex: NextPage<CategoryParams> = ({ category , summaryItems}) => {
           <li>{processedLink(category, 'processed-Q-S')}</li>
           <li>{processedLink(category, 'processed-S')}</li>
           <li>{processedLink(category, 'processed-Empty')}</li>
+          {summaryItems.map(i =>
+            <li data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total} key={`${i.name}${i.grouping}${i.category}`}>
+              <ItemLink data-category={i.category} data-grouping={i.grouping} data-name={i.name} data-fullname={i.fullName} data-total={i.total}/>
+            </li>)}
         </ul>
       </main>
       <footer>
-        <CountFooter />
+        <ItemFooter />
       </footer>
     </div>
   )
