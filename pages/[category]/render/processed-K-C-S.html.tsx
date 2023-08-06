@@ -5,7 +5,7 @@ import {genGetStaticProps} from "../../../utils";
 
 export {getStaticPaths} from "../../../components/Processed";
 
-export const getStaticProps = genGetStaticProps('K-C-S-T')
+export const getStaticProps = genGetStaticProps('K-C-S-E-T')
 
 const ProcessedKCS: NextPage<ProcessedParams> = (props) => {
   return (

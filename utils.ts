@@ -1,8 +1,9 @@
 import {GetStaticProps} from "next";
 import {BundledItemQuery, ProcessedParams} from "./components/Processed";
-import BundledItem from "./components/BundledItem";
+import BundledItem, {GroupingStats} from "./components/BundledItem";
 import fsp from "fs/promises";
 import path from "path";
+import Grouping from "./components/Grouping";
 
 export async function parseInputs(items: BundledItem[]) {
   const sets = new Map<string, number>()
@@ -37,5 +38,16 @@ export function genGetStaticProps(target: string): GetStaticProps<ProcessedParam
         category, sets, total
       }
     }
+  }
+}
+
+export function isInGrouping(grouping: Grouping, stats: GroupingStats) {
+  switch (grouping) {
+    case "all":
+      return true;
+    case "double":
+      return stats.isDouble;
+    case "single":
+      return !stats.isDouble;
   }
 }

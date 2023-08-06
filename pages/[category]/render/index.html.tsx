@@ -1,19 +1,17 @@
 import Category from "../../../components/Category";
-import React, {useCallback, useEffect, useState} from "react";
+import React, {useState} from "react";
 import {GetStaticPaths, GetStaticProps, NextPage} from "next";
 import Head from "next/head";
 import {ItemLink} from "../../../components/ItemLink";
-import {CountFooter} from "../../../components/CountFooter";
 import {ParsedUrlQuery} from "querystring";
 import BundledItem from "../../../components/BundledItem";
 import fsp from "fs/promises";
 import path from "path";
 import Grouping from "../../../components/Grouping";
 import Link from "next/link";
-import {NextRouter, Router, useRouter} from "next/router";
-import useMobileDetect from "../../../components/UseMobileDetect";
 import SearchForm from "../../../components/SearchForm";
 import {ItemFooter} from "../../../components/ItemFooter";
+import {isInGrouping} from "../../../utils";
 
 
 export interface CategoryQuery extends ParsedUrlQuery {
@@ -37,7 +35,7 @@ export const getStaticProps: GetStaticProps<CategoryParams, CategoryQuery> = asy
   const {category} = context.params!;
   const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'all-Q.json'].join(path.sep), "utf8"));
   const summaryItems = items.filter((item) => category === 'all' ? true : item.category === 'allpostlife').flatMap(item => item.groupings.map(grouping => ({item, grouping, fullItemName: fullItemName(grouping, category, item.name)})))
-    .sort((a,b) => a.fullItemName.localeCompare(b.fullItemName)).map(v => ({category, grouping: v.grouping, name: v.item.name, fullName: v.fullItemName, total: Object.entries(v.item.combinations).reduce((p, c) => p + c[1].total, 0)}));
+    .sort((a,b) => a.fullItemName.localeCompare(b.fullItemName)).map(v => ({category, grouping: v.grouping, name: v.item.name, fullName: v.fullItemName, total: Object.entries(v.item.combinations).reduce((p, c) => isInGrouping(v.grouping, c[1]) ? p + c[1].total : p, 0)}));
   return {
     // Passed to the page component as props
     props: {

@@ -1,6 +1,6 @@
 import {GetStaticPaths, GetStaticProps, NextPage} from "next";
 import Head from "next/head";
-import React, {useState, useCallback, ChangeEvent} from "react";
+import React, {useState} from "react";
 import {ParsedUrlQuery} from "querystring";
 import Category from "../../../../components/Category";
 import BundledItem from "../../../../components/BundledItem";
@@ -11,13 +11,15 @@ import fsp from "fs/promises";
 import path from "path";
 import {ItemFooter} from "../../../../components/ItemFooter";
 import SearchForm from "../../../../components/SearchForm";
+import {isInGrouping} from "../../../../utils";
 
 
 interface ItemParams {
   name: string,
   category: Category,
   sets: {name: string, total: number}[],
-  total: number
+  total: number,
+  spellNames: string[]
 }
 
 export interface BundledItemQuery extends ParsedUrlQuery {
@@ -52,40 +54,42 @@ export const getStaticPaths: GetStaticPaths<BundledItemQuery> = async () => {
 
 export const getStaticProps: GetStaticProps<ItemParams, BundledItemQuery> = async (context) => {
   const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'all-Q.json'].join(path.sep), "utf8"));
-  const {category, name: _name} = context.params!;
+  const {category, name: _name, grouping} = context.params!;
   const name = deLinkName(_name);
   const item = items[items.findIndex((v) => v.name.toLowerCase() === name)];
-  const sets = Object.keys(item.combinations).map((c) => ({name: c, total: item.combinations[c].total})).sort((a,b) => a.total - b.total === 0 ? a.name.localeCompare(b.name) : a.total - b.total).map((item) =>({name: item.name, total: item.total}))
+  const sets = Object.keys(item.combinations).map((c) => ({name: c, total: item.combinations[c].total, isDouble: item.combinations[c].isDouble})).sort((a,b) => a.total - b.total === 0 ? a.name.localeCompare(b.name) : a.total - b.total).map((item) =>({name: item.name, total: item.total, isDouble: item.isDouble})).filter(i => isInGrouping(grouping, i));
+  const spellNames = Array.from(new Set<string>(sets.map((s) => s.name)));
   const total = sets.reduce((p, c) => p + c.total, 0)
   return {
     // Passed to the page component as props
     props: {
-      category, name: name, item, sets, total
+      category, name: name, item, sets, total, spellNames: spellNames
     }
   }
 }
 
 
-function description(category: Category) {
+function description(category: Category, itemName: string, total: number) {
   const fill = options(category, 'Spell', 'PostLife Spell');
-  return `All ${fill} Combinations in TF2`
+  return `${itemName} ${fill} Combinations: ${total}`
 }
 
-function keywords(category: Category) {
+function keywords(category: Category, itemName: string, total: number, spellNames: string[]) {
   const fill = options(category, 'spells', 'postlife spells');
-  return `tf2 ${fill} index, tf2 ${fill} total, tf2 ${fill} count, counter, trading, team fortress 2`
+  return  `tf2 ${itemName} ${fill}, tf2 ${itemName} ${fill} total, tf2 ${itemName} ${fill} ${total} count, spell counter, spell trading, team fortress 2, `
+    + `${spellNames.map((s) => `${s} ${itemName}`).join(', ')}`
 }
 
-const Name: NextPage<ItemParams> = ({ category, name, sets, total }) => {
+const Name: NextPage<ItemParams> = ({ category, name, sets, total, spellNames }) => {
   const [loaded, setLoaded] = useState(false);
   const [displayTotal, setDisplayTotal] = useState(total);
-  const title = `All ${options(category, 'Spells', 'PostLife Spells')} Index`
+  const title = `${name} ${options(category, 'Spells', 'PostLife Spells')}`
   return (
     <div>
       <Head>
         <title>{title}</title>
-        <meta name="description" content={description(category)} />
-        <meta name="keywords" content={keywords(category)}/>
+        <meta name="description" content={description(category, name, total)} />
+        <meta name="keywords" content={keywords(category, name, total, spellNames)}/>
         <link rel="icon" type="image/png" href="/static/key-solid.svg" />
       </Head>
 

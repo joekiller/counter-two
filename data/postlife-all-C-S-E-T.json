@@ -1,0 +1,7060 @@
+[
+  {
+    "name": "Voices from Below Brimstone",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Tomb Readers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Crown of the Old Kingdom",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Tomb Readers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Tomb Readers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 6,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Crown of the Old Kingdom",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Headless Horseshoes Brimstone",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Flashdance Footies",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Double Dynamite",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Boxcar Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Mistaken Movember",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Snow Sleeves",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints North Polar Fleece",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum North Polar Fleece",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Crossing Guard",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 18,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Snow Sleeves",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Headless Horseshoes One-Man Army",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Morning Glory Chromatic Corruption Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Fur-Lined Fighter",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Snow Sleeves",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Winter Woodsman",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Boxcar Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Coldfront Curbstompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Troublemaker's Tossle Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Thermal Tracker",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Sleeveless in Siberia",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Vintage Tyrolean",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Thermal Tracker",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Insulated Inventor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Winter Woodsman",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Voices from Below Sleeveless in Siberia",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Wartime Warmth",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Headless Horseshoes Law",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Double Dynamite",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Snow Stompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Flashdance Footies",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Thermal Tracker",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Flashdance Footies",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Coldsnap Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Coldsnap Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Insulated Inventor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Snow Stompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Hunter Heavy",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Bruised Purple Footprints": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Winter Woodsman",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Gangreen Footprints Killer's Kabuto",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Thermal Tracker",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Fur-Lined Fighter",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Screamin' Eagle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Hunter Heavy",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Das Ubersternmann",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Frostbite Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Coldfront Curbstompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Insulated Inventor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Screamin' Eagle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Condor Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Flashdance Footies",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 6,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Voices from Below Nanobalaclava",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Frostbite Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining North Polar Fleece",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job North Polar Fleece",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Winter Woodsman",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Headless Horseshoes Texas Ten Gallon",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Morning Glory Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Insulated Inventor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Voices from Below Buckaroo's Hat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Death at Dusk Spectral Spectrum Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Insulated Inventor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Voices from Below Insulated Inventor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Gangreen Footprints Coldsnap Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Gangreen Footprints": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Wartime Warmth",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Hunter Heavy",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Voices from Below Condor Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Brooklyn Booties",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Toy Tailor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Molten Mallard Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Nunhood",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Snow Stompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Grimm Hatte",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Winter Woodsman",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Snow Sleeves",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Screamin' Eagle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Condor Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Headless Horseshoes Modest Metal Pile of Scrap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Frostbite Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Voices from Below Winter Woodsman",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Flashdance Footies",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Condor Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Boxcar Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Coldsnap Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Mistaken Movember",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Boxcar Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Coldsnap Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Vintage Tyrolean",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Molten Mallard Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Winter Woodsman",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sunbeams Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Screamin' Eagle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Voices from Below Boxcar Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Die Job Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Killer Exclusive",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Molten Mallard Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Voices from Below Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Chromatic Corruption Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Die Job Bomber's Bucket Hat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Tipped Lid",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Molten Mallard Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Brooklyn Booties",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Backbiter's Billycock",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Frostbite Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Sleeveless in Siberia",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Corpse Gray Footprints Voices from Below Anger",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Molten Mallard Corpse Gray Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Die Job Snow Sleeves",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Charmer's Chapeau",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Frostbite Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints Voices from Below Otolaryngologist's Mirror",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Frostbite Team Spirit Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Snow Sleeves",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Rimmed Raincatcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Molten Mallard Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Head Warmer",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints North Polar Fleece",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Voices from Below Brown Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Death at Dusk Bruised Purple Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Wartime Warmth",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Hunter Heavy",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Mistaken Movember",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Team Spirit Footprints Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Die Job Coldsnap Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Wartime Warmth",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Coldfront Curbstompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Thermal Tracker",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Flashdance Footies",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Coldfront Curbstompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Pyromancer's Mask",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Voices from Below Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Exorcism Iron Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Pyromancer's Hood",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Festive Shotgun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 52,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Courtier's Collar",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Festive SMG",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 21,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Halloween Fire Exorcism Festive Backburner",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Halloween Fire Exorcism": {
+        "total": 11,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Halloween Fire Festive Backburner",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Halloween Fire": {
+        "total": 30,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Torcher's Tabard",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Festive Chargin' Targe",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 7,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Non-Craftable Pumpkin Bombs Iron Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Pumpkin Bombs": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Festive Revolver",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 13,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Conagher's Combover",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Surgeon's Shako",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Festive Backburner",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Puffy Provocateur",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Panic Attack",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Quickiebomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Mountebank's Masque",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Pyromancer's Raiments",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Quickiebomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Pumpkin Bombs": {
+        "total": 6,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Stealthy Scarf",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Festive Bonesaw",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 15,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Exorcism Iron Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Pumpkin Bombs Exorcism": {
+        "total": 4,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Die Job Puffy Provocateur",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Exorcism Quickiebomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Pumpkin Bombs Exorcism": {
+        "total": 6,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Pyromancer's Raiments",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Voices from Below Mistaken Movember",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Black Knight's Bascinet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Puffy Provocateur",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Bushman's Bristles",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Iron Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Pumpkin Bombs": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Voices from Below Surgeon's Shako",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Scot Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Skullcap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Bushman's Bristles",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Courtier's Collar",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Marksman's Mohair",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Marksman's Mohair",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Scot Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Co-Pilot",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Wally Pocket",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Boxcar Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Siberian Facehugger",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Co-Pilot",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Pyromancer's Hood",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Marksman's Mohair",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Gangreen Footprints Charred Chainmail",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Puffy Provocateur",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Co-Pilot",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Professional's Ushanka",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Voices from Below Double Dynamite",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Chromatic Corruption Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Professional's Ushanka",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Teutonic Toque",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Bushman's Bristles",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Skullcap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Conagher's Combover",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Violent Violet Footprints": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Voices from Below Sleeveless in Siberia",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Chromatic Corruption Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Corpse Gray Footprints Pyromancer's Raiments",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Charred Chainmail",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints Boxcar Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Disco Beat Down Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Pyromancer's Raiments",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Voices from Below Siberian Facehugger",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Skullcap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Voices from Below Valhalla Helm",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Die Job Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Marksman's Mohair",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Bomber's Bucket Hat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Burning Flames Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Hat With No Name",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Frostbite Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Scot Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Corpse Gray Footprints Charred Chainmail",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Voices from Below Wartime Warmth",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Unknown Mann",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Fruit Shoot",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Stealthy Scarf",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Mountebank's Masque",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Old Man Frost",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Antlers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Frostbite Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Coldsnap Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Bushman's Bristles",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Co-Pilot",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Coldfront Curbstompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Pyromancer's Hood",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Law",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Skullcap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Scot Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Barnstormer",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Surgeon's Shako",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Professional's Ushanka",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Pyromancer's Hood",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Professional's Ushanka",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Storm Stompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Courtier's Collar",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Capo's Capper",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Molten Mallard Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Insulated Inventor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Mistaken Movember",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Puffy Provocateur",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Snow Sleeves",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Holstered Heaters",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Hong Kong Cone",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Wally Pocket",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Unknown Mann",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Harlequin's Hooves",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Mistaken Movember",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Double Dynamite",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Holstered Heaters",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Skullcap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Gilded Guard",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Brimstone",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Barnstormer",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Pyromancer's Hood",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Skullcap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Chieftain's Challenge",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Dr's Dapper Topper",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Frostbite Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Thermal Tracker",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Corpse Gray Footprints Carouser's Capotain",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Old Man Frost",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Pyromancer's Raiments",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Conagher's Combover",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Vivid Plasma Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Violent Violet Footprints Base Metal Billycock",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Morning Glory Chromatic Corruption Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Crown of the Old Kingdom",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Voices from Below Head Warmer",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Death at Dusk Violent Violet Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Voices from Below North Polar Fleece",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Clubsy The Seal",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Valhalla Helm",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Purple Energy Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Flashdance Footies",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Tomb Readers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Backwards Ballcap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Holstered Heaters",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Cop Caller",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Bushman's Bristles",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Headless Horseshoes Voices from Below Puffy Provocateur",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Headless Horseshoes Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Pyromancer's Hood",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Marksman's Mohair",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Marksman's Mohair",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Crown of the Old Kingdom",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Winger",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism AWPer Hand",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 32,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Texas Ten Gallon",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Condor Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Circling Peace Sign Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Searing Plasma Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Wrangler",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 7,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Warrior's Spirit",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Apoco-Fists",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Shahanshah",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 10,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Candy Cane",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Claidheamh Mòr",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 12,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Tough Guy's Toque",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Gangreen Footprints Sleeveless in Siberia",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Tomb Readers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Private Eye",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Tomb Readers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Voices from Below Mistaken Movember",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Die Job Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation North Polar Fleece",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Texas Ten Gallon",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints Thermal Tracker",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Boxcar Bomber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Voices from Below Janissary Ketche",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Frostbite Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Valley Forge",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Molten Mallard Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Cold Snap Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Texas Ten Gallon",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Virtual Reality Headset",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Pistol",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Homemade Heater (Factory New) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Energy Orb - Black Dahlia (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Black Dahlia (Field-Tested) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Black Dahlia (Minimal Wear) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Sandstone Special (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Black Dahlia (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Red Rock Roscoe (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Sandstone Special (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Sandstone Special (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Black Dahlia (Factory New) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Energy Orb - Sandstone Special (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Black Dahlia (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Black Dahlia (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Black Dahlia (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sandstone Special (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Red Rock Roscoe (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sandstone Special (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sandstone Special (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Sniper Rifle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Shot in the Dark (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Shot in the Dark (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Night Owl (Field-Tested) Exorcism": {
+        "total": 5,
+        "isDouble": false
+      },
+      "Night Owl (Battle Scarred) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Thunderbolt (Field-Tested) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Night Owl (Minimal Wear) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Night Owl (Factory New) Exorcism": {
+        "total": 8,
+        "isDouble": false
+      },
+      "Purple Range (Minimal Wear) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Purple Range (Factory New) Exorcism": {
+        "total": 6,
+        "isDouble": false
+      },
+      "Thunderbolt (Minimal Wear) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Energy Orb - Purple Range (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Night Owl (Field-Tested) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Cool - Night Owl (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Purple Range (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Night Owl (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Lumber From Down Under (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Night Owl (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Night Owl (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Lumber From Down Under (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Minigun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Iron Wood (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Citizen Pain (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Citizen Pain (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Brick House (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "King of the Jungle (Factory New) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Citizen Pain (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Brick House (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "War Room (Minimal Wear) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "King of the Jungle (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "War Room (Factory New) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Cool - Brick House (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Brick House (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "King of the Jungle (Field-Tested) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Brick House (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "King of the Jungle (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - King of the Jungle (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - King of the Jungle (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "King of the Jungle (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Brick House (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Brick House (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Scattergun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 8,
+        "isDouble": false
+      },
+      "Current Event (Field-Tested) Exorcism": {
+        "total": 6,
+        "isDouble": false
+      },
+      "Current Event (Minimal Wear) Exorcism": {
+        "total": 7,
+        "isDouble": false
+      },
+      "Current Event (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Backcountry Blaster (Minimal Wear) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Current Event (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Country Crusher (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Night Terror (Field-Tested) Exorcism": {
+        "total": 12,
+        "isDouble": false
+      },
+      "Current Event (Factory New) Exorcism": {
+        "total": 5,
+        "isDouble": false
+      },
+      "Night Terror (Minimal Wear) Exorcism": {
+        "total": 7,
+        "isDouble": false
+      },
+      "Night Terror (Well-Worn) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Night Terror (Factory New) Exorcism": {
+        "total": 8,
+        "isDouble": false
+      },
+      "Backcountry Blaster (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Backcountry Blaster (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Night Terror (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Night Terror (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Tartan Torpedo (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism SMG",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Plaid Potshotter (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Low Profile (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Woodsy Widowmaker (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Woodsy Widowmaker (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Low Profile (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Woodsy Widowmaker (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Energy Orb - Turbine Torcher (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Bovine Blazemaker (Minimal Wear) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Flash Fryer (Battle Scarred) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Forest Fire (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Earth, Sky and Fire (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Flash Fryer (Factory New) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Flash Fryer (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Turbine Torcher (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Turbine Torcher (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Flash Fryer (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Turbine Torcher (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Forest Fire (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Turbine Torcher (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Forest Fire (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Forest Fire (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Turbine Torcher (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Flash Fryer (Minimal Wear) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Exorcism Grenade Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Pumpkin Bombs Exorcism": {
+        "total": 2,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Exorcism Grenade Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Stickybomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Blasted Bombardier (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Pink Elephant (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sudden Flurry (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Carpet Bomber (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Halloween Fire Exorcism Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Halloween Fire Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Energy Orb - Forest Fire (Minimal Wear) Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Forest Fire (Minimal Wear) Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Turbine Torcher (Factory New) Halloween Fire Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Hot - Turbine Torcher (Well-Worn) Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Energy Orb - Turbine Torcher (Battle Scarred) Halloween Fire Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Energy Orb - Turbine Torcher (Factory New) Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Turbine Torcher (Well-Worn) Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Flash Fryer (Well-Worn) Halloween Fire Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Turbine Torcher (Battle Scarred) Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Hot - Turbine Torcher (Minimal Wear) Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Flash Fryer (Minimal Wear) Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Stickybomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Liquid Asset (Field-Tested) Pumpkin Bombs": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Carpet Bomber (Well-Worn) Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Pink Elephant (Factory New) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Blasted Bombardier (Factory New) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Carpet Bomber (Well-Worn) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sudden Flurry (Minimal Wear) Pumpkin Bombs": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Pink Elephant (Minimal Wear) Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Rooftop Wrangler (Battle Scarred) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Blasted Bombardier (Minimal Wear) Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Blasted Bombardier (Battle Scarred) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Blasted Bombardier (Field-Tested) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Pink Elephant (Well-Worn) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Pink Elephant (Field-Tested) Pumpkin Bombs": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Carpet Bomber (Minimal Wear) Pumpkin Bombs": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Rooftop Wrangler (Field-Tested) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Blasted Bombardier (Well-Worn) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Carpet Bomber (Factory New) Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Sudden Flurry (Field-Tested) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Carpet Bomber (Field-Tested) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Liquid Asset (Minimal Wear) Pumpkin Bombs": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Carpet Bomber (Battle Scarred) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sudden Flurry (Factory New) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Carpet Bomber (Minimal Wear) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Australium Halloween Fire Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Pumpkin Bombs Exorcism": {
+        "total": 3,
+        "isDouble": true
+      },
+      "Hot - Pink Elephant (Well-Worn) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Pink Elephant (Battle Scarred) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sudden Flurry (Factory New) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Carpet Bomber (Factory New) Pumpkin Bombs Exorcism": {
+        "total": 5,
+        "isDouble": true
+      },
+      "Carpet Bomber (Field-Tested) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Liquid Asset (Field-Tested) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Liquid Asset (Minimal Wear) Pumpkin Bombs Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Pink Elephant (Field-Tested) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sudden Flurry (Field-Tested) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Liquid Asset (Factory New) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Pink Elephant (Minimal Wear) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Isotope - Carpet Bomber (Field-Tested) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Grenade Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Rocket Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Shell Shocker (Factory New) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Isotope - Woodland Warrior (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Shell Shocker (Field-Tested) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Woodland Warrior (Field-Tested) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Aqua Marine (Well-Worn) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Aqua Marine (Factory New) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Sand Cannon (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Shell Shocker (Minimal Wear) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Sand Cannon (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Aqua Marine (Field-Tested) Exorcism": {
+        "total": 5,
+        "isDouble": false
+      },
+      "Woodland Warrior (Factory New) Exorcism": {
+        "total": 7,
+        "isDouble": false
+      },
+      "Sand Cannon (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sand Cannon (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "American Pastoral (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Woodland Warrior (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Aqua Marine (Minimal Wear) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Aqua Marine (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Shell Shocker (Battle Scarred) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Woodland Warrior (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Rocket Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Shell Shocker (Minimal Wear) Pumpkin Bombs": {
+        "total": 9,
+        "isDouble": false
+      },
+      "Energy Orb - Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Woodland Warrior (Field-Tested) Pumpkin Bombs": {
+        "total": 7,
+        "isDouble": false
+      },
+      "Smalltown Bringdown (Battle Scarred) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Woodland Warrior (Factory New) Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Aqua Marine (Battle Scarred) Pumpkin Bombs": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Aqua Marine (Field-Tested) Pumpkin Bombs": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
+        "total": 7,
+        "isDouble": false
+      },
+      "Cool - Aqua Marine (Field-Tested) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Aqua Marine (Battle Scarred) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Shell Shocker (Well-Worn) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Aqua Marine (Battle Scarred) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sand Cannon (Well-Worn) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Woodland Warrior (Well-Worn) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Aqua Marine (Factory New) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Aqua Marine (Factory New) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Shell Shocker (Battle Scarred) Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Shell Shocker (Factory New) Pumpkin Bombs": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Isotope - Aqua Marine (Minimal Wear) Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Energy Orb - Aqua Marine (Well-Worn) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Shell Shocker (Field-Tested) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Aqua Marine (Factory New) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Aqua Marine (Field-Tested) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "American Pastoral (Battle Scarred) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Smalltown Bringdown (Factory New) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sand Cannon (Battle Scarred) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Aqua Marine (Field-Tested) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Woodland Warrior (Well-Worn) Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Revolver",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Mayor (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Psychedelic Slugger (Minimal Wear) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Psychedelic Slugger (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Dead Reckoner (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Dead Reckoner (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Dead Reckoner (Factory New) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Psychedelic Slugger (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Exorcism Rocket Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Isotope - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Shell Shocker (Well-Worn) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Woodland Warrior (Field-Tested) Pumpkin Bombs Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Shell Shocker (Factory New) Pumpkin Bombs Exorcism": {
+        "total": 8,
+        "isDouble": true
+      },
+      "Sand Cannon (Factory New) Pumpkin Bombs Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Woodland Warrior (Factory New) Pumpkin Bombs Exorcism": {
+        "total": 4,
+        "isDouble": true
+      },
+      "Woodland Warrior (Battle Scarred) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sand Cannon (Well-Worn) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Aqua Marine (Field-Tested) Pumpkin Bombs Exorcism": {
+        "total": 3,
+        "isDouble": true
+      },
+      "Shell Shocker (Minimal Wear) Pumpkin Bombs Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Isotope - Woodland Warrior (Minimal Wear) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Hot - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Shell Shocker (Field-Tested) Pumpkin Bombs Exorcism": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Energy Orb - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Hot - Woodland Warrior (Well-Worn) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Isotope Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Aqua Marine (Factory New) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Shell Shocker (Battle Scarred) Pumpkin Bombs Exorcism": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Exorcism Shotgun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Backwoods Boomstick (Well-Worn) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Cool Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Backwoods Boomstick (Battle Scarred) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Hot - Lightning Rod (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Cool - Backwoods Boomstick (Well-Worn) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Backwoods Boomstick (Field-Tested) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Rustic Ruiner (Factory New) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Lightning Rod (Well-Worn) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Backwoods Boomstick (Factory New) Exorcism": {
+        "total": 7,
+        "isDouble": false
+      },
+      "Lightning Rod (Factory New) Exorcism": {
+        "total": 5,
+        "isDouble": false
+      },
+      "Hot - Backwoods Boomstick (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Lightning Rod (Minimal Wear) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Lightning Rod (Field-Tested) Exorcism": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Hot - Lightning Rod (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Lightning Rod (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Backwoods Boomstick (Minimal Wear) Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Isotope - Lightning Rod (Field-Tested) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Lightning Rod (Minimal Wear) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Backwoods Boomstick (Field-Tested) Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Hot - Lightning Rod (Battle Scarred) Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Halloween Fire Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Forest Fire (Field-Tested) Halloween Fire": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Isotope - Turbine Torcher (Field-Tested) Halloween Fire": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Bovine Blazemaker (Factory New) Halloween Fire": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Halloween Fire": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Isotope - Turbine Torcher (Minimal Wear) Halloween Fire": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Isotope - Forest Fire (Field-Tested) Halloween Fire": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Forest Fire (Factory New) Halloween Fire": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Flash Fryer (Field-Tested) Halloween Fire": {
+        "total": 5,
+        "isDouble": false
+      },
+      "Energy Orb - Forest Fire (Well-Worn) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Flash Fryer (Factory New) Halloween Fire": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Isotope - Forest Fire (Well-Worn) Halloween Fire": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Hot - Turbine Torcher (Factory New) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Forest Fire (Minimal Wear) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Forest Fire (Minimal Wear) Halloween Fire": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Energy Orb - Turbine Torcher (Minimal Wear) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Forest Fire (Factory New) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Forest Fire (Battle Scarred) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Turbine Torcher (Factory New) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Bovine Blazemaker (Minimal Wear) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Forest Fire (Factory New) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Flash Fryer (Minimal Wear) Halloween Fire": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Energy Orb - Flash Fryer (Well-Worn) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Turbine Torcher (Field-Tested) Halloween Fire": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Turbine Torcher (Factory New) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Turbine Torcher (Field-Tested) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Flash Fryer (Battle Scarred) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Turbine Torcher (Field-Tested) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Turbine Torcher (Battle Scarred) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Forest Fire (Field-Tested) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Turbine Torcher (Well-Worn) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Barn Burner (Minimal Wear) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Flash Fryer (Field-Tested) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Flash Fryer (Battle Scarred) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Flash Fryer (Well-Worn) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Forest Fire (Field-Tested) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Flash Fryer (Battle Scarred) Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Fur-Lined Fighter",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Engineer's Cap",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Morning Glory Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Snow Stompers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Gangreen Footprints Double Dog Dare Demo Pants",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Conquistador",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Death at Dusk Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Voices from Below White Russian",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Burning Flames Violent Violet Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Die Job Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Flak Jack",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 7,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 14,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 8,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job White Russian",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Voices from Below Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 11,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 6,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Support Spurs",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Physician's Protector",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Commissar's Coat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Voices from Below Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Die Job Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Outta' Sight",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Fortunate Son",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Purple Energy Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Green Energy Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Sheriff's Stetson",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Support Spurs",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Team Spirit Footprints": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Sheriff's Stetson",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Captain Cardbeard Cutthroat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 7,
+        "isDouble": false
+      },
+      "Massed Flies Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints Voices from Below Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Team Spirit Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining White Russian",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below White Russian",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Blizzardy Storm Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 12,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 10,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job El Duderino",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Support Spurs",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Sheriff's Stetson",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Voices from Below Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Chromatic Corruption Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Circling TF Logo Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Gangreen Footprints Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 9,
+        "isDouble": false
+      },
+      "Stormy Storm Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Orbiting Fire Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Captain Cardbeard Cutthroat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Fortunate Son",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation White Russian",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Terror-Watt Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Vascular Vestment",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Outta' Sight",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Wild West Waistcoat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Bruce's Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Purple Energy Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Lurker's Leathers",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Voices from Below Captain Cardbeard Cutthroat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints Voices from Below Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Team Spirit Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum White Russian",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Captain Cardbeard Cutthroat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Outta' Sight",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Purple Energy Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Headless Horseshoes Captain Cardbeard Cutthroat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Voices from Below Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Violent Violet Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Support Spurs",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Bruce's Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Team Spirit Footprints Physician's Protector",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sunbeams Spectral Spectrum Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Physician's Protector",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Headless Horseshoes Potassium Bonnet",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining El Duderino",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Voices from Below Rotation Sensation",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Thermal Tracker",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Captain Cardbeard Cutthroat",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Physician's Protector",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Phobos Filter",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Graylien",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Cadet Visor",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Captain Space Mann",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Graylien",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation El Duderino",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job Sucker Slug",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Batsaber",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Shooting Star",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints Phobos Filter",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Gangreen Footprints Space Diver",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Corona Australis",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Voices from Below Graylien",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Exorcism C.A.P.P.E.R",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Corona Australis",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Giger Counter",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Corpse Gray Footprints Sucker Slug",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Subatomic Spectral Spectrum Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Sucker Slug",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Jupiter Jetpack",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Universal Translator",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Nebula Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining A Head Full of Hot Air",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Atomic Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Graylien",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Headless Horseshoes Voices from Below Captain Space Mann",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Nebula Headless Horseshoes Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Graylien",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Space Diver",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Team Spirit Footprints Corona Australis",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Jupiter Jetpack",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Corpse Gray Footprints Voices from Below Neptune's Nightmare",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Corpse Gray Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation Crusader's Getup",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Duck Billed Hatypus",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Prehistoric Pullover",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Putrescent Pigmentation El Patron",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Arthropod's Aspect",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Chromatic Corruption Catastrophic Companions",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Catastrophic Companions",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Voices from Below Smokey Sombrero",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  }
+]

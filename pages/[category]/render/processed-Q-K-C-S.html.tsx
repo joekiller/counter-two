@@ -5,7 +5,7 @@ import React from "react";
 
 export {getStaticPaths} from "../../../components/Processed";
 
-export const getStaticProps = genGetStaticProps('Q-K-C-S-T')
+export const getStaticProps = genGetStaticProps('Q-K-C-S-E-T')
 
 //Q-K-C-S was mislabeled b/c we added -T for skin texture
 const ProcessedQKCST: NextPage<ProcessedParams> = (props) => {
