@@ -1,45 +1,13 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
-import Image from 'next/image'
-import React, {useCallback, useEffect, useState} from "react";
-import CounterMain from "../components/CounterMain";
+import React from "react";
 import {HomeFooter} from "../components/HomeFooter";
-
-const KEY = /Mann Co\. Supply Crate Key/g;
-const REF = /Refined Metal/g;
-const REC = /Reclaimed Metal/g;
-const SCRAP = /Scrap Metal/g;
+import {LinkAllIndex} from "../components/LinkAllIndex";
+import {LinkPostLifeIndex} from "../components/LinkPostLifeIndex";
+import {LinkSplackDiscord} from "../components/LinkSplackDiscord";
+import CounterHome from "../components/CounterHome";
 
 const Home: NextPage = () => {
-  const [input, setInput] = useState('');
-  const [key, setKey] = useState(0);
-  const [ref, setRef] = useState(0);
-  const matches = (v: string, m: RegExp) => {
-    const result = v.match(m);
-    return result ? result.length : 0;
-  }
-  const calcRef = (scrap = 0, reclaimed = 0): number => {
-    const sr = scrap === 0 ? 0 : Math.trunc(scrap / 9) + (scrap % 9 * 0.11);
-    const rr = reclaimed === 0 ? 0 : Math.trunc(reclaimed / 3) + (reclaimed % 3 * 0.33);
-    return rr + sr;
-  }
-  useEffect(() => {
-    const newKey = matches(input, KEY);
-    const newRef = matches(input, REF)+ calcRef(matches(input, SCRAP), matches(input, REC));
-    if(newKey !== key) {
-      setKey(newKey);
-    }
-    if(newRef !== ref) {
-      setRef(newRef)
-    }
-  }, [input, key, ref])
-
-  const handleInputChange = useCallback((event: React.ChangeEvent<HTMLTextAreaElement>) => {
-    if(event.target.value !== input) {
-      setInput(event.target.value);
-    }
-  }, [input])
-
   return (
     <div>
       <Head>
@@ -49,20 +17,23 @@ const Home: NextPage = () => {
         <link rel="icon" type="image/png" href="/static/key-solid.svg" />
       </Head>
 
-      <CounterMain>
+      <CounterHome>
         <h1>
-          TF2 Key and Refined Counter
+          TF2 Spelled Item Counts
         </h1>
 
-        <p>
-          {key} Key{key === 1 ? '' : 's'}, {ref} Refined
-        </p>
-
-        <textarea value={input} placeholder="Mann Co. Supply Crate Key" onChange={handleInputChange} />
-
-        <Image src="/static/example.PNG" alt="Steam Inventory History Screenshot with an Unusual and TF2 Key and Metal Text" width="724" height="225"/>
-        <p>Paste the text of a trade from <a href="https://steamcommunity.com/id/joekiller/inventoryhistory/">steam inventory history</a> above to count the total Mann Co. Supply Crate Key and Refined Metal items from Team Fortress 2 were included in the trade.</p>
-      </CounterMain>
+        <div>
+          <h2><LinkAllIndex/></h2>
+        </div>
+        <div>
+          <h2><LinkPostLifeIndex/></h2>
+        </div>
+        <div className="discord">
+          <h3>Join <LinkSplackDiscord/></h3>
+          <p>Splack Discord is the, &quot;<b>House Of Spells: A TF2 Spell Trading Community</b>&quot;</p>
+          <p>Get the most up to date backpack.tf classifieds spelled item listings. The discord features: a bot that tells you the latest item price changes, description changes, owner changes and more! You can price check spelled items using the price check bot.</p>
+        </div>
+      </CounterHome>
       <footer>
         <HomeFooter/>
       </footer>

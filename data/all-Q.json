@@ -36333,6 +36333,89 @@
     }
   },
   {
+    "name": "The Superfan",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double",
+      "single"
+    ],
+    "combinations": {
+      "Spectral Spectrum Voices from Below": {
+        "total": 5,
+        "isDouble": true
+      },
+      "Die Job": {
+        "total": 10,
+        "isDouble": false
+      },
+      "Sinister Staining Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sinister Staining": {
+        "total": 8,
+        "isDouble": false
+      },
+      "Spectral Spectrum Gangreen Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Voices from Below": {
+        "total": 7,
+        "isDouble": false
+      },
+      "Spectral Spectrum": {
+        "total": 16,
+        "isDouble": false
+      },
+      "Putrescent Pigmentation": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Chromatic Corruption": {
+        "total": 8,
+        "isDouble": false
+      },
+      "Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Headless Horseshoes Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Die Job Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Chromatic Corruption Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Unusual Otolaryngologist's Mirror",
     "category": "all",
     "groupings": [
@@ -36855,6 +36938,20 @@
     "combinations": {
       "Exorcism": {
         "total": 424,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "The Athletic Supporter",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Voices from Below": {
+        "total": 6,
         "isDouble": false
       }
     }
