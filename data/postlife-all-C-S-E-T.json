@@ -1878,7 +1878,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 11,
+        "total": 12,
         "isDouble": true
       }
     }
@@ -2228,7 +2228,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -3734,7 +3734,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 32,
+        "total": 33,
         "isDouble": false
       }
     }
@@ -4073,75 +4073,39 @@
       "single"
     ],
     "combinations": {
-      "Homemade Heater (Factory New) Exorcism": {
+      "Homemade Heater Exorcism": {
         "total": 2,
         "isDouble": false
       },
-      "Energy Orb - Black Dahlia (Minimal Wear) Exorcism": {
-        "total": 1,
+      "Energy Orb - Black Dahlia Exorcism": {
+        "total": 2,
         "isDouble": false
       },
-      "Black Dahlia (Field-Tested) Exorcism": {
-        "total": 3,
+      "Black Dahlia Exorcism": {
+        "total": 11,
         "isDouble": false
       },
-      "Black Dahlia (Minimal Wear) Exorcism": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Sandstone Special (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Black Dahlia (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Red Rock Roscoe (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Sandstone Special (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Sandstone Special (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Black Dahlia (Factory New) Exorcism": {
+      "Sandstone Special Exorcism": {
         "total": 4,
         "isDouble": false
       },
-      "Energy Orb - Sandstone Special (Well-Worn) Exorcism": {
+      "Isotope - Black Dahlia Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Cool - Black Dahlia (Factory New) Exorcism": {
+      "Red Rock Roscoe Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Energy Orb - Sandstone Special Exorcism": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Hot - Sandstone Special Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Black Dahlia (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Black Dahlia (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sandstone Special (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Red Rock Roscoe (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sandstone Special (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sandstone Special (Field-Tested) Exorcism": {
+      "Cool - Black Dahlia Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -4155,84 +4119,40 @@
       "single"
     ],
     "combinations": {
-      "Shot in the Dark (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Shot in the Dark (Field-Tested) Exorcism": {
-        "total": 1,
+      "Shot in the Dark Exorcism": {
+        "total": 2,
         "isDouble": false
       },
       "Exorcism": {
         "total": 4,
         "isDouble": false
       },
-      "Night Owl (Field-Tested) Exorcism": {
-        "total": 5,
+      "Night Owl Exorcism": {
+        "total": 20,
         "isDouble": false
       },
-      "Night Owl (Battle Scarred) Exorcism": {
-        "total": 3,
+      "Thunderbolt Exorcism": {
+        "total": 7,
         "isDouble": false
       },
-      "Thunderbolt (Field-Tested) Exorcism": {
-        "total": 4,
+      "Purple Range Exorcism": {
+        "total": 11,
         "isDouble": false
       },
-      "Night Owl (Minimal Wear) Exorcism": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Night Owl (Factory New) Exorcism": {
-        "total": 8,
-        "isDouble": false
-      },
-      "Purple Range (Minimal Wear) Exorcism": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Purple Range (Factory New) Exorcism": {
-        "total": 6,
-        "isDouble": false
-      },
-      "Thunderbolt (Minimal Wear) Exorcism": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Energy Orb - Purple Range (Battle Scarred) Exorcism": {
+      "Energy Orb - Purple Range Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Night Owl (Field-Tested) Exorcism": {
+      "Energy Orb - Night Owl Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Cool - Night Owl Exorcism": {
         "total": 2,
         "isDouble": false
       },
-      "Cool - Night Owl (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Purple Range (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool - Night Owl (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Lumber From Down Under (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Night Owl (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Night Owl (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Lumber From Down Under (Factory New) Exorcism": {
-        "total": 1,
+      "Lumber From Down Under Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -4245,87 +4165,51 @@
       "single"
     ],
     "combinations": {
-      "Iron Wood (Factory New) Exorcism": {
+      "Iron Wood Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Citizen Pain (Factory New) Exorcism": {
-        "total": 1,
+      "Citizen Pain Exorcism": {
+        "total": 3,
         "isDouble": false
       },
       "Exorcism": {
         "total": 2,
         "isDouble": false
       },
-      "Citizen Pain (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Brick House (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "King of the Jungle (Factory New) Exorcism": {
+      "Hot - Brick House Exorcism": {
         "total": 2,
         "isDouble": false
       },
-      "Citizen Pain (Field-Tested) Exorcism": {
-        "total": 1,
+      "King of the Jungle Exorcism": {
+        "total": 9,
         "isDouble": false
       },
-      "Brick House (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "War Room (Minimal Wear) Exorcism": {
+      "Brick House Exorcism": {
         "total": 2,
         "isDouble": false
       },
-      "King of the Jungle (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "War Room (Factory New) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Cool - Brick House (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Brick House (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "King of the Jungle (Field-Tested) Exorcism": {
+      "War Room Exorcism": {
         "total": 4,
         "isDouble": false
       },
-      "Brick House (Factory New) Exorcism": {
+      "Cool - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "King of the Jungle (Minimal Wear) Exorcism": {
+      "Energy Orb - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Hot - King of the Jungle (Well-Worn) Exorcism": {
+      "Hot - King of the Jungle Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Cool - King of the Jungle (Field-Tested) Exorcism": {
+      "Cool - King of the Jungle Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "King of the Jungle (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Brick House (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Brick House (Battle Scarred) Exorcism": {
+      "Isotope - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -4343,67 +4227,27 @@
         "total": 8,
         "isDouble": false
       },
-      "Current Event (Field-Tested) Exorcism": {
-        "total": 6,
+      "Current Event Exorcism": {
+        "total": 20,
         "isDouble": false
       },
-      "Current Event (Minimal Wear) Exorcism": {
-        "total": 7,
+      "Backcountry Blaster Exorcism": {
+        "total": 4,
         "isDouble": false
       },
-      "Current Event (Battle Scarred) Exorcism": {
+      "Country Crusher Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Backcountry Blaster (Minimal Wear) Exorcism": {
-        "total": 2,
+      "Night Terror Exorcism": {
+        "total": 31,
         "isDouble": false
       },
-      "Current Event (Well-Worn) Exorcism": {
+      "Energy Orb - Night Terror Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Country Crusher (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Night Terror (Field-Tested) Exorcism": {
-        "total": 12,
-        "isDouble": false
-      },
-      "Current Event (Factory New) Exorcism": {
-        "total": 5,
-        "isDouble": false
-      },
-      "Night Terror (Minimal Wear) Exorcism": {
-        "total": 7,
-        "isDouble": false
-      },
-      "Night Terror (Well-Worn) Exorcism": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Night Terror (Factory New) Exorcism": {
-        "total": 8,
-        "isDouble": false
-      },
-      "Backcountry Blaster (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Backcountry Blaster (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Night Terror (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Night Terror (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Tartan Torpedo (Minimal Wear) Exorcism": {
+      "Tartan Torpedo Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -4417,7 +4261,7 @@
       "single"
     ],
     "combinations": {
-      "Plaid Potshotter (Field-Tested) Exorcism": {
+      "Plaid Potshotter Exorcism": {
         "total": 1,
         "isDouble": false
       },
@@ -4425,11 +4269,11 @@
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Low Profile (Field-Tested) Exorcism": {
-        "total": 1,
+      "Energy Orb - Low Profile Exorcism": {
+        "total": 2,
         "isDouble": false
       },
-      "Isotope - Woodsy Widowmaker (Field-Tested) Exorcism": {
+      "Isotope - Woodsy Widowmaker Exorcism": {
         "total": 1,
         "isDouble": false
       },
@@ -4437,15 +4281,11 @@
         "total": 1,
         "isDouble": false
       },
-      "Woodsy Widowmaker (Well-Worn) Exorcism": {
+      "Woodsy Widowmaker Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Low Profile (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool - Woodsy Widowmaker (Well-Worn) Exorcism": {
+      "Cool - Woodsy Widowmaker Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -4463,72 +4303,44 @@
         "total": 3,
         "isDouble": false
       },
-      "Energy Orb - Turbine Torcher (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Bovine Blazemaker (Minimal Wear) Exorcism": {
+      "Energy Orb - Turbine Torcher Exorcism": {
         "total": 2,
         "isDouble": false
       },
-      "Flash Fryer (Battle Scarred) Exorcism": {
+      "Bovine Blazemaker Exorcism": {
         "total": 2,
         "isDouble": false
       },
-      "Forest Fire (Field-Tested) Exorcism": {
-        "total": 1,
+      "Flash Fryer Exorcism": {
+        "total": 9,
         "isDouble": false
       },
-      "Earth, Sky and Fire (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Flash Fryer (Factory New) Exorcism": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Flash Fryer (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Turbine Torcher (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Turbine Torcher (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Flash Fryer (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Turbine Torcher (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Forest Fire (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Turbine Torcher (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Forest Fire (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Forest Fire (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Turbine Torcher (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Flash Fryer (Minimal Wear) Exorcism": {
+      "Forest Fire Exorcism": {
         "total": 2,
+        "isDouble": false
+      },
+      "Earth, Sky and Fire Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Turbine Torcher Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Hot - Flash Fryer Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Turbine Torcher Exorcism": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Hot - Forest Fire Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Forest Fire Exorcism": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -4573,19 +4385,19 @@
         "total": 2,
         "isDouble": false
       },
-      "Blasted Bombardier (Well-Worn) Exorcism": {
+      "Blasted Bombardier Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Pink Elephant (Well-Worn) Exorcism": {
+      "Pink Elephant Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Sudden Flurry (Minimal Wear) Exorcism": {
+      "Sudden Flurry Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Carpet Bomber (Minimal Wear) Exorcism": {
+      "Carpet Bomber Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -4603,48 +4415,28 @@
         "total": 2,
         "isDouble": true
       },
-      "Energy Orb - Forest Fire (Minimal Wear) Halloween Fire Exorcism": {
+      "Energy Orb - Forest Fire Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       },
-      "Forest Fire (Minimal Wear) Halloween Fire Exorcism": {
+      "Forest Fire Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       },
-      "Turbine Torcher (Factory New) Halloween Fire Exorcism": {
+      "Turbine Torcher Halloween Fire Exorcism": {
+        "total": 4,
+        "isDouble": true
+      },
+      "Hot - Turbine Torcher Halloween Fire Exorcism": {
         "total": 2,
         "isDouble": true
       },
-      "Hot - Turbine Torcher (Well-Worn) Halloween Fire Exorcism": {
-        "total": 1,
+      "Energy Orb - Turbine Torcher Halloween Fire Exorcism": {
+        "total": 3,
         "isDouble": true
       },
-      "Energy Orb - Turbine Torcher (Battle Scarred) Halloween Fire Exorcism": {
-        "total": 2,
-        "isDouble": true
-      },
-      "Energy Orb - Turbine Torcher (Factory New) Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Turbine Torcher (Well-Worn) Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Flash Fryer (Well-Worn) Halloween Fire Exorcism": {
-        "total": 2,
-        "isDouble": true
-      },
-      "Turbine Torcher (Battle Scarred) Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Hot - Turbine Torcher (Minimal Wear) Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Flash Fryer (Minimal Wear) Halloween Fire Exorcism": {
-        "total": 1,
+      "Flash Fryer Halloween Fire Exorcism": {
+        "total": 3,
         "isDouble": true
       }
     }
@@ -4661,95 +4453,35 @@
         "total": 2,
         "isDouble": false
       },
-      "Liquid Asset (Field-Tested) Pumpkin Bombs": {
-        "total": 3,
+      "Liquid Asset Pumpkin Bombs": {
+        "total": 6,
         "isDouble": false
       },
-      "Carpet Bomber (Well-Worn) Pumpkin Bombs": {
+      "Carpet Bomber Pumpkin Bombs": {
+        "total": 9,
+        "isDouble": false
+      },
+      "Pink Elephant Pumpkin Bombs": {
+        "total": 6,
+        "isDouble": false
+      },
+      "Blasted Bombardier Pumpkin Bombs": {
+        "total": 6,
+        "isDouble": false
+      },
+      "Cool - Carpet Bomber Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       },
-      "Pink Elephant (Factory New) Pumpkin Bombs": {
-        "total": 1,
+      "Sudden Flurry Pumpkin Bombs": {
+        "total": 5,
         "isDouble": false
       },
-      "Blasted Bombardier (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool - Carpet Bomber (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sudden Flurry (Minimal Wear) Pumpkin Bombs": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Pink Elephant (Minimal Wear) Pumpkin Bombs": {
+      "Rooftop Wrangler Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       },
-      "Rooftop Wrangler (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Blasted Bombardier (Minimal Wear) Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Blasted Bombardier (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Blasted Bombardier (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Pink Elephant (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Pink Elephant (Field-Tested) Pumpkin Bombs": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Carpet Bomber (Minimal Wear) Pumpkin Bombs": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Rooftop Wrangler (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Blasted Bombardier (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Carpet Bomber (Factory New) Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Sudden Flurry (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Carpet Bomber (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Liquid Asset (Minimal Wear) Pumpkin Bombs": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Carpet Bomber (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sudden Flurry (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool - Carpet Bomber (Minimal Wear) Pumpkin Bombs": {
+      "Hot - Pink Elephant Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -4778,54 +4510,30 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 3,
-        "isDouble": true
-      },
-      "Hot - Pink Elephant (Well-Worn) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Pink Elephant (Battle Scarred) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Sudden Flurry (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Carpet Bomber (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 5,
-        "isDouble": true
-      },
-      "Carpet Bomber (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Liquid Asset (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Liquid Asset (Minimal Wear) Pumpkin Bombs Exorcism": {
         "total": 2,
         "isDouble": true
       },
-      "Pink Elephant (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Hot - Pink Elephant Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       },
-      "Sudden Flurry (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Pink Elephant Pumpkin Bombs Exorcism": {
+        "total": 3,
         "isDouble": true
       },
-      "Liquid Asset (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Sudden Flurry Pumpkin Bombs Exorcism": {
+        "total": 2,
         "isDouble": true
       },
-      "Pink Elephant (Minimal Wear) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Carpet Bomber Pumpkin Bombs Exorcism": {
+        "total": 7,
         "isDouble": true
       },
-      "Isotope - Carpet Bomber (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Liquid Asset Pumpkin Bombs Exorcism": {
+        "total": 4,
+        "isDouble": true
+      },
+      "Isotope - Carpet Bomber Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -4853,79 +4561,27 @@
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Factory New) Exorcism": {
+      "Shell Shocker Exorcism": {
+        "total": 13,
+        "isDouble": false
+      },
+      "Isotope - Woodland Warrior Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Woodland Warrior Exorcism": {
+        "total": 13,
+        "isDouble": false
+      },
+      "Aqua Marine Exorcism": {
+        "total": 14,
+        "isDouble": false
+      },
+      "Sand Cannon Exorcism": {
         "total": 4,
         "isDouble": false
       },
-      "Isotope - Woodland Warrior (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Shell Shocker (Field-Tested) Exorcism": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Woodland Warrior (Field-Tested) Exorcism": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Aqua Marine (Well-Worn) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Aqua Marine (Factory New) Exorcism": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Sand Cannon (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Shell Shocker (Minimal Wear) Exorcism": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Sand Cannon (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Aqua Marine (Field-Tested) Exorcism": {
-        "total": 5,
-        "isDouble": false
-      },
-      "Woodland Warrior (Factory New) Exorcism": {
-        "total": 7,
-        "isDouble": false
-      },
-      "Sand Cannon (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sand Cannon (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "American Pastoral (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Woodland Warrior (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Aqua Marine (Minimal Wear) Exorcism": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Aqua Marine (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Shell Shocker (Battle Scarred) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Woodland Warrior (Battle Scarred) Exorcism": {
+      "American Pastoral Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -4939,119 +4595,55 @@
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Minimal Wear) Pumpkin Bombs": {
-        "total": 9,
+      "Shell Shocker Pumpkin Bombs": {
+        "total": 16,
         "isDouble": false
       },
-      "Energy Orb - Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
+      "Energy Orb - Woodland Warrior Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       },
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs": {
-        "total": 7,
+      "Woodland Warrior Pumpkin Bombs": {
+        "total": 17,
         "isDouble": false
       },
-      "Smalltown Bringdown (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Woodland Warrior (Factory New) Pumpkin Bombs": {
+      "Smalltown Bringdown Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       },
-      "Aqua Marine (Battle Scarred) Pumpkin Bombs": {
+      "Aqua Marine Pumpkin Bombs": {
+        "total": 8,
+        "isDouble": false
+      },
+      "Cool - Aqua Marine Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Energy Orb - Aqua Marine Pumpkin Bombs": {
         "total": 3,
         "isDouble": false
       },
-      "Aqua Marine (Field-Tested) Pumpkin Bombs": {
+      "Hot - Aqua Marine Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sand Cannon Pumpkin Bombs": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Isotope - Woodland Warrior Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Aqua Marine Pumpkin Bombs": {
         "total": 4,
-        "isDouble": false
-      },
-      "Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
-        "total": 7,
-        "isDouble": false
-      },
-      "Cool - Aqua Marine (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Aqua Marine (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Shell Shocker (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Aqua Marine (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sand Cannon (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Woodland Warrior (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Aqua Marine (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Aqua Marine (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Shell Shocker (Battle Scarred) Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Shell Shocker (Factory New) Pumpkin Bombs": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Isotope - Aqua Marine (Minimal Wear) Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Energy Orb - Aqua Marine (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
         "isDouble": false
       },
       "Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       },
-      "Shell Shocker (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool - Aqua Marine (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Aqua Marine (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "American Pastoral (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Smalltown Bringdown (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Sand Cannon (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Aqua Marine (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Woodland Warrior (Well-Worn) Pumpkin Bombs": {
+      "American Pastoral Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -5065,32 +4657,16 @@
       "single"
     ],
     "combinations": {
-      "Mayor (Factory New) Exorcism": {
+      "Mayor Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Psychedelic Slugger (Minimal Wear) Exorcism": {
-        "total": 2,
+      "Psychedelic Slugger Exorcism": {
+        "total": 4,
         "isDouble": false
       },
-      "Psychedelic Slugger (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Dead Reckoner (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Dead Reckoner (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Dead Reckoner (Factory New) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Psychedelic Slugger (Field-Tested) Exorcism": {
-        "total": 1,
+      "Dead Reckoner Exorcism": {
+        "total": 4,
         "isDouble": false
       }
     }
@@ -5103,63 +4679,39 @@
       "double"
     ],
     "combinations": {
-      "Isotope - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Isotope - Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       },
-      "Shell Shocker (Well-Worn) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Shell Shocker Pumpkin Bombs Exorcism": {
+        "total": 14,
         "isDouble": true
       },
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 2,
+      "Woodland Warrior Pumpkin Bombs Exorcism": {
+        "total": 7,
         "isDouble": true
       },
-      "Shell Shocker (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 8,
-        "isDouble": true
-      },
-      "Sand Cannon (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 2,
-        "isDouble": true
-      },
-      "Woodland Warrior (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 4,
-        "isDouble": true
-      },
-      "Woodland Warrior (Battle Scarred) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Sand Cannon (Well-Worn) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Aqua Marine (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Sand Cannon Pumpkin Bombs Exorcism": {
         "total": 3,
         "isDouble": true
       },
-      "Shell Shocker (Minimal Wear) Pumpkin Bombs Exorcism": {
-        "total": 2,
+      "Aqua Marine Pumpkin Bombs Exorcism": {
+        "total": 4,
         "isDouble": true
       },
-      "Isotope - Woodland Warrior (Minimal Wear) Pumpkin Bombs Exorcism": {
+      "Isotope - Woodland Warrior Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       },
-      "Hot - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Hot - Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       },
-      "Shell Shocker (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 2,
-        "isDouble": true
-      },
-      "Energy Orb - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Energy Orb - Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       },
-      "Hot - Woodland Warrior (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Hot - Woodland Warrior Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       },
@@ -5168,14 +4720,6 @@
         "isDouble": true
       },
       "Isotope Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Aqua Marine (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Shell Shocker (Battle Scarred) Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -5189,88 +4733,52 @@
       "single"
     ],
     "combinations": {
-      "Backwoods Boomstick (Well-Worn) Exorcism": {
-        "total": 2,
+      "Backwoods Boomstick Exorcism": {
+        "total": 18,
         "isDouble": false
       },
       "Cool Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Backwoods Boomstick (Battle Scarred) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Hot - Lightning Rod (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Cool - Backwoods Boomstick (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Backwoods Boomstick (Field-Tested) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Rustic Ruiner (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Lightning Rod (Well-Worn) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Backwoods Boomstick (Factory New) Exorcism": {
-        "total": 7,
-        "isDouble": false
-      },
-      "Lightning Rod (Factory New) Exorcism": {
-        "total": 5,
-        "isDouble": false
-      },
-      "Hot - Backwoods Boomstick (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Lightning Rod (Minimal Wear) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Lightning Rod (Field-Tested) Exorcism": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Hot - Lightning Rod (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Lightning Rod (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Backwoods Boomstick (Minimal Wear) Exorcism": {
+      "Hot - Lightning Rod Exorcism": {
         "total": 3,
         "isDouble": false
       },
-      "Isotope - Lightning Rod (Field-Tested) Exorcism": {
+      "Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Cool - Lightning Rod (Minimal Wear) Exorcism": {
+      "Cool - Backwoods Boomstick Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Backwoods Boomstick (Field-Tested) Exorcism": {
+      "Rustic Ruiner Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Lightning Rod Exorcism": {
+        "total": 13,
+        "isDouble": false
+      },
+      "Hot - Backwoods Boomstick Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Energy Orb - Lightning Rod Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Lightning Rod Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Lightning Rod Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Isotope - Backwoods Boomstick Exorcism": {
         "total": 2,
-        "isDouble": false
-      },
-      "Hot - Lightning Rod (Battle Scarred) Exorcism": {
-        "total": 1,
         "isDouble": false
       }
     }
@@ -5283,152 +4791,68 @@
       "single"
     ],
     "combinations": {
-      "Forest Fire (Field-Tested) Halloween Fire": {
-        "total": 3,
+      "Forest Fire Halloween Fire": {
+        "total": 10,
         "isDouble": false
       },
-      "Isotope - Turbine Torcher (Field-Tested) Halloween Fire": {
-        "total": 3,
+      "Isotope - Turbine Torcher Halloween Fire": {
+        "total": 8,
         "isDouble": false
       },
-      "Bovine Blazemaker (Factory New) Halloween Fire": {
-        "total": 3,
+      "Bovine Blazemaker Halloween Fire": {
+        "total": 4,
         "isDouble": false
       },
       "Halloween Fire": {
         "total": 2,
         "isDouble": false
       },
-      "Isotope - Turbine Torcher (Minimal Wear) Halloween Fire": {
+      "Isotope - Forest Fire Halloween Fire": {
+        "total": 9,
+        "isDouble": false
+      },
+      "Flash Fryer Halloween Fire": {
+        "total": 13,
+        "isDouble": false
+      },
+      "Energy Orb - Forest Fire Halloween Fire": {
         "total": 3,
         "isDouble": false
       },
-      "Isotope - Forest Fire (Field-Tested) Halloween Fire": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Forest Fire (Factory New) Halloween Fire": {
-        "total": 4,
-        "isDouble": false
-      },
-      "Flash Fryer (Field-Tested) Halloween Fire": {
-        "total": 5,
-        "isDouble": false
-      },
-      "Energy Orb - Forest Fire (Well-Worn) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Flash Fryer (Factory New) Halloween Fire": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Isotope - Forest Fire (Well-Worn) Halloween Fire": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Hot - Turbine Torcher (Factory New) Halloween Fire": {
-        "total": 1,
+      "Hot - Turbine Torcher Halloween Fire": {
+        "total": 2,
         "isDouble": false
       },
       "Cool Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Forest Fire (Minimal Wear) Halloween Fire": {
+      "Energy Orb - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Forest Fire (Minimal Wear) Halloween Fire": {
+      "Energy Orb - Flash Fryer Halloween Fire": {
         "total": 2,
         "isDouble": false
       },
-      "Energy Orb - Turbine Torcher (Minimal Wear) Halloween Fire": {
+      "Turbine Torcher Halloween Fire": {
+        "total": 4,
+        "isDouble": false
+      },
+      "Cool - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Forest Fire (Factory New) Halloween Fire": {
+      "Cool - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Forest Fire (Battle Scarred) Halloween Fire": {
+      "Barn Burner Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Turbine Torcher (Factory New) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Bovine Blazemaker (Minimal Wear) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Forest Fire (Factory New) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Flash Fryer (Minimal Wear) Halloween Fire": {
-        "total": 3,
-        "isDouble": false
-      },
-      "Energy Orb - Flash Fryer (Well-Worn) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Turbine Torcher (Field-Tested) Halloween Fire": {
+      "Isotope - Flash Fryer Halloween Fire": {
         "total": 2,
-        "isDouble": false
-      },
-      "Turbine Torcher (Factory New) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool - Turbine Torcher (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Flash Fryer (Battle Scarred) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Turbine Torcher (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Turbine Torcher (Battle Scarred) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool - Forest Fire (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Turbine Torcher (Well-Worn) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Barn Burner (Minimal Wear) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Flash Fryer (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Flash Fryer (Battle Scarred) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Flash Fryer (Well-Worn) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Forest Fire (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Flash Fryer (Battle Scarred) Halloween Fire": {
-        "total": 1,
         "isDouble": false
       }
     }
@@ -5890,6 +5314,20 @@
     }
   },
   {
+    "name": "Die Job El Duderino",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Voices from Below Captain Cardbeard Cutthroat",
     "category": "allpostlife",
     "groupings": [
@@ -5991,20 +5429,6 @@
     "combinations": {
       "Putrescent Pigmentation": {
         "total": 10,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Die Job El Duderino",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Die Job": {
-        "total": 1,
         "isDouble": false
       }
     }
@@ -6190,7 +5614,7 @@
     }
   },
   {
-    "name": "Voices from Below Outta' Sight",
+    "name": "Voices from Below Outta Sight",
     "category": "allpostlife",
     "groupings": [
       "all",

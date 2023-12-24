@@ -2206,7 +2206,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 9,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -2234,7 +2234,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 4,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -2248,7 +2248,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 6,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -2360,7 +2360,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -2388,7 +2388,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -2444,7 +2444,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 8,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -2570,7 +2570,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -2752,7 +2752,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 23,
+        "total": 25,
         "isDouble": false
       }
     }
@@ -2850,7 +2850,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 4,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -3144,7 +3144,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       }
     }
@@ -4830,20 +4830,6 @@
     }
   },
   {
-    "name": "Pumpkin Bombs Quickiebomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Die Job Crown of the Old Kingdom",
     "category": "allpostlife",
     "groupings": [
@@ -5230,7 +5216,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -5272,7 +5258,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       }
     }
@@ -5418,7 +5404,7 @@
     }
   },
   {
-    "name": "Strange Exorcism Candy Cane",
+    "name": "Strange Professional Killstreak Exorcism Candy Cane",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -5426,7 +5412,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -5469,20 +5455,6 @@
     "combinations": {
       "Exorcism": {
         "total": 8,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Professional Killstreak Exorcism Candy Cane",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Exorcism": {
-        "total": 4,
         "isDouble": false
       }
     }
@@ -5566,7 +5538,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       }
     }
@@ -5608,6 +5580,20 @@
     ],
     "combinations": {
       "Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Pumpkin Bombs Quickiebomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -5810,42 +5796,42 @@
     }
   },
   {
-    "name": "Homemade Heater (Factory New) Professional Killstreak Exorcism Pistol",
+    "name": "Homemade Heater Professional Killstreak Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Homemade Heater (Factory New) Exorcism": {
+      "Homemade Heater Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Shot in the Dark (Minimal Wear) Exorcism Sniper Rifle",
+    "name": "Shot in the Dark Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shot in the Dark (Minimal Wear) Exorcism": {
-        "total": 1,
+      "Shot in the Dark Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Iron Wood (Factory New) Specialized Killstreak Exorcism Minigun",
+    "name": "Iron Wood Specialized Killstreak Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Iron Wood (Factory New) Exorcism": {
+      "Iron Wood Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -5863,21 +5849,21 @@
         "total": 4,
         "isDouble": false
       },
-      "Current Event (Minimal Wear) Exorcism": {
+      "Current Event Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Plaid Potshotter (Field-Tested) Exorcism SMG",
+    "name": "Plaid Potshotter Exorcism SMG",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Plaid Potshotter (Field-Tested) Exorcism": {
+      "Plaid Potshotter Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -5895,7 +5881,7 @@
         "total": 1,
         "isDouble": false
       },
-      "Night Terror (Field-Tested) Exorcism": {
+      "Night Terror Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -5926,20 +5912,6 @@
       "Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Shot in the Dark (Field-Tested) Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Shot in the Dark (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
       }
     }
   },
@@ -6000,15 +5972,15 @@
     }
   },
   {
-    "name": "Strange Citizen Pain (Factory New) Exorcism Minigun",
+    "name": "Strange Citizen Pain Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Citizen Pain (Factory New) Exorcism": {
-        "total": 1,
+      "Citizen Pain Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -6067,7 +6039,7 @@
         "total": 2,
         "isDouble": false
       },
-      "Night Owl (Field-Tested) Exorcism": {
+      "Night Owl Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -6158,43 +6130,43 @@
     }
   },
   {
-    "name": "Strange Current Event (Field-Tested) Specialized Killstreak Exorcism Scattergun",
+    "name": "Strange Current Event Specialized Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Current Event (Field-Tested) Exorcism": {
-        "total": 3,
+      "Current Event Exorcism": {
+        "total": 4,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Liquid Asset (Field-Tested) Pumpkin Bombs Stickybomb Launcher",
+    "name": "Liquid Asset Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Liquid Asset (Field-Tested) Pumpkin Bombs": {
+      "Liquid Asset Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Current Event (Minimal Wear) Professional Killstreak Exorcism Scattergun",
+    "name": "Strange Current Event Professional Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Current Event (Minimal Wear) Exorcism": {
-        "total": 1,
+      "Current Event Exorcism": {
+        "total": 6,
         "isDouble": false
       }
     }
@@ -6207,71 +6179,67 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Turbine Torcher (Well-Worn) Exorcism": {
-        "total": 1,
+      "Energy Orb - Turbine Torcher Exorcism": {
+        "total": 2,
         "isDouble": false
       },
-      "Energy Orb - Turbine Torcher (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Forest Fire (Field-Tested) Exorcism": {
+      "Energy Orb - Forest Fire Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Shell Shocker (Factory New) Specialized Killstreak Exorcism Rocket Launcher",
+    "name": "Shell Shocker Specialized Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Factory New) Exorcism": {
+      "Shell Shocker Exorcism": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Shell Shocker Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Shell Shocker Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Shell Shocker (Minimal Wear) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Shell Shocker Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Minimal Wear) Pumpkin Bombs": {
+      "Shell Shocker Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Shell Shocker (Minimal Wear) Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Mayor Killstreak Exorcism Revolver",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Mayor (Factory New) Killstreak Exorcism Revolver",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Mayor (Factory New) Exorcism": {
+      "Mayor Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -6285,11 +6253,11 @@
       "double"
     ],
     "combinations": {
-      "Isotope - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Isotope - Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       },
-      "Isotope - Woodland Warrior (Minimal Wear) Pumpkin Bombs Exorcism": {
+      "Isotope - Woodland Warrior Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       },
@@ -6307,194 +6275,180 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
+      "Energy Orb - Woodland Warrior Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Aqua Marine (Battle Scarred) Pumpkin Bombs": {
+      "Energy Orb - Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Liquid Asset (Field-Tested) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "name": "Liquid Asset Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Liquid Asset (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
+      "Liquid Asset Pumpkin Bombs": {
+        "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Field-Tested) Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Woodland Warrior Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
+      "Woodland Warrior Pumpkin Bombs": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Shell Shocker (Well-Worn) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Shell Shocker Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Shell Shocker (Well-Worn) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Shell Shocker Pumpkin Bombs Exorcism": {
+        "total": 8,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Smalltown Bringdown (Battle Scarred) Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Smalltown Bringdown Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Smalltown Bringdown (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
+      "Smalltown Bringdown Pumpkin Bombs": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Field-Tested) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Woodland Warrior Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Woodland Warrior Pumpkin Bombs Exorcism": {
+        "total": 3,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Shell Shocker (Factory New) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Woodland Warrior Professional Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
-      "double"
+      "single"
     ],
     "combinations": {
-      "Shell Shocker (Factory New) Pumpkin Bombs Exorcism": {
+      "Woodland Warrior Pumpkin Bombs": {
         "total": 4,
-        "isDouble": true
+        "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Factory New) Professional Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Citizen Pain Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Factory New) Pumpkin Bombs": {
+      "Citizen Pain Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Citizen Pain (Minimal Wear) Exorcism Minigun",
+    "name": "Current Event Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Citizen Pain (Minimal Wear) Exorcism": {
+      "Current Event Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Current Event (Battle Scarred) Killstreak Exorcism Scattergun",
+    "name": "Carpet Bomber Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Current Event (Battle Scarred) Exorcism": {
+      "Carpet Bomber Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Carpet Bomber (Well-Worn) Pumpkin Bombs Stickybomb Launcher",
+    "name": "Strange Night Owl Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Carpet Bomber (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
+      "Night Owl Exorcism": {
+        "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Night Owl (Battle Scarred) Exorcism Sniper Rifle",
+    "name": "Strange Thunderbolt Specialized Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Owl (Battle Scarred) Exorcism": {
-        "total": 2,
+      "Thunderbolt Exorcism": {
+        "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Thunderbolt (Field-Tested) Specialized Killstreak Exorcism Sniper Rifle",
+    "name": "Strange Backwoods Boomstick Professional Killstreak Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Thunderbolt (Field-Tested) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Backwoods Boomstick (Well-Worn) Specialized Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backwoods Boomstick (Well-Worn) Exorcism": {
-        "total": 2,
+      "Backwoods Boomstick Exorcism": {
+        "total": 7,
         "isDouble": false
       }
     }
@@ -6507,58 +6461,54 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Black Dahlia (Minimal Wear) Exorcism": {
+      "Energy Orb - Black Dahlia Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Sandstone Special (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Sandstone Special (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Aqua Marine (Battle Scarred) Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Aqua Marine (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Owl (Minimal Wear) Professional Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Minimal Wear) Exorcism": {
+      "Energy Orb - Sandstone Special Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Forest Fire (Field-Tested) Halloween Fire Flame Thrower",
+    "name": "Strange Aqua Marine Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Forest Fire (Field-Tested) Halloween Fire": {
-        "total": 2,
+      "Aqua Marine Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Night Owl Professional Killstreak Exorcism Sniper Rifle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Night Owl Exorcism": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Forest Fire Halloween Fire Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Forest Fire Halloween Fire": {
+        "total": 3,
         "isDouble": false
       }
     }
@@ -6578,42 +6528,42 @@
     }
   },
   {
-    "name": "Strange Black Dahlia (Field-Tested) Professional Killstreak Exorcism Pistol",
+    "name": "Strange Black Dahlia Professional Killstreak Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Black Dahlia (Field-Tested) Exorcism": {
+      "Black Dahlia Exorcism": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Backcountry Blaster Specialized Killstreak Exorcism Scattergun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Backcountry Blaster Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Backcountry Blaster (Minimal Wear) Specialized Killstreak Exorcism Scattergun",
+    "name": "Bovine Blazemaker Killstreak Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Backcountry Blaster (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Bovine Blazemaker (Minimal Wear) Killstreak Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Bovine Blazemaker (Minimal Wear) Exorcism": {
+      "Bovine Blazemaker Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -6634,29 +6584,15 @@
     }
   },
   {
-    "name": "Strange Woodland Warrior (Field-Tested) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Woodland Warrior Specialized Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Current Event (Well-Worn) Professional Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Current Event (Well-Worn) Exorcism": {
-        "total": 1,
+      "Woodland Warrior Pumpkin Bombs": {
+        "total": 4,
         "isDouble": false
       }
     }
@@ -6669,57 +6605,53 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Turbine Torcher (Field-Tested) Halloween Fire": {
+      "Isotope - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Forest Fire (Minimal Wear) Halloween Fire": {
-        "total": 1,
+      "Isotope - Forest Fire Halloween Fire": {
+        "total": 3,
         "isDouble": false
-      },
-      "Isotope - Forest Fire (Field-Tested) Halloween Fire": {
+      }
+    }
+  },
+  {
+    "name": "Night Owl Specialized Killstreak Exorcism Sniper Rifle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Night Owl Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Night Owl (Factory New) Specialized Killstreak Exorcism Sniper Rifle",
+    "name": "Strange Flash Fryer Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Owl (Factory New) Exorcism": {
+      "Flash Fryer Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Flash Fryer (Battle Scarred) Exorcism Flame Thrower",
+    "name": "Pink Elephant Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Pink Elephant (Factory New) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Pink Elephant (Factory New) Pumpkin Bombs": {
+      "Pink Elephant Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -6733,35 +6665,35 @@
       "double"
     ],
     "combinations": {
-      "Hot - Pink Elephant (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Hot - Pink Elephant Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Blasted Bombardier (Factory New) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "name": "Blasted Bombardier Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Blasted Bombardier (Factory New) Pumpkin Bombs": {
-        "total": 1,
+      "Blasted Bombardier Pumpkin Bombs": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Bovine Blazemaker (Factory New) Halloween Fire Flame Thrower",
+    "name": "Bovine Blazemaker Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Bovine Blazemaker (Factory New) Halloween Fire": {
+      "Bovine Blazemaker Halloween Fire": {
         "total": 2,
         "isDouble": false
       }
@@ -6775,7 +6707,7 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Woodland Warrior (Field-Tested) Exorcism": {
+      "Isotope - Woodland Warrior Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -6789,92 +6721,64 @@
       "double"
     ],
     "combinations": {
-      "Energy Orb - Forest Fire (Minimal Wear) Halloween Fire Exorcism": {
+      "Energy Orb - Forest Fire Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Forest Fire (Field-Tested) Exorcism Flame Thrower",
+    "name": "Forest Fire Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Forest Fire (Field-Tested) Exorcism": {
+      "Forest Fire Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Night Owl (Field-Tested) Professional Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Sand Cannon (Factory New) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Sand Cannon Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Sand Cannon (Factory New) Pumpkin Bombs Exorcism": {
+      "Sand Cannon Pumpkin Bombs Exorcism": {
         "total": 2,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Current Event (Field-Tested) Specialized Killstreak Exorcism Scattergun",
+    "name": "Current Event Specialized Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Current Event (Field-Tested) Exorcism": {
-        "total": 2,
+      "Current Event Exorcism": {
+        "total": 5,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Factory New) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Woodland Warrior (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 2,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Shell Shocker (Field-Tested) Exorcism Rocket Launcher",
+    "name": "Shell Shocker Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Field-Tested) Exorcism": {
-        "total": 2,
+      "Shell Shocker Exorcism": {
+        "total": 3,
         "isDouble": false
       }
     }
@@ -6887,36 +6791,36 @@
       "double"
     ],
     "combinations": {
-      "Woodland Warrior (Battle Scarred) Pumpkin Bombs Exorcism": {
+      "Woodland Warrior Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Purple Range (Minimal Wear) Specialized Killstreak Exorcism Sniper Rifle",
+    "name": "Strange Purple Range Specialized Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Purple Range (Minimal Wear) Exorcism": {
-        "total": 1,
+      "Purple Range Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Purple Range (Factory New) Specialized Killstreak Exorcism Sniper Rifle",
+    "name": "Purple Range Specialized Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Purple Range (Factory New) Exorcism": {
-        "total": 3,
+      "Purple Range Exorcism": {
+        "total": 6,
         "isDouble": false
       }
     }
@@ -6943,35 +6847,35 @@
       "single"
     ],
     "combinations": {
-      "Hot - Brick House (Field-Tested) Exorcism": {
+      "Hot - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Field-Tested) Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Woodland Warrior Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Field-Tested) Exorcism": {
+      "Woodland Warrior Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Forest Fire (Minimal Wear) Halloween Fire Exorcism Flame Thrower",
+    "name": "Strange Forest Fire Halloween Fire Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Forest Fire (Minimal Wear) Halloween Fire Exorcism": {
+      "Forest Fire Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -6985,7 +6889,7 @@
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Well-Worn) Exorcism": {
+      "Aqua Marine Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -6999,54 +6903,54 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Turbine Torcher (Minimal Wear) Halloween Fire": {
+      "Isotope - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Flash Fryer (Field-Tested) Halloween Fire": {
+      "Isotope - Flash Fryer Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Factory New) Specialized Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Aqua Marine Specialized Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Factory New) Exorcism": {
-        "total": 1,
+      "Aqua Marine Exorcism": {
+        "total": 4,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Shell Shocker (Minimal Wear) Professional Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Shell Shocker Professional Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Minimal Wear) Pumpkin Bombs": {
-        "total": 3,
+      "Shell Shocker Pumpkin Bombs": {
+        "total": 5,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange King of the Jungle (Factory New) Professional Killstreak Exorcism Minigun",
+    "name": "Strange King of the Jungle Professional Killstreak Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "King of the Jungle (Factory New) Exorcism": {
-        "total": 1,
+      "King of the Jungle Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -7059,59 +6963,29 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Forest Fire (Field-Tested) Halloween Fire": {
-        "total": 2,
+      "Isotope - Forest Fire Halloween Fire": {
+        "total": 5,
         "isDouble": false
       },
-      "Isotope - Forest Fire (Well-Worn) Halloween Fire": {
-        "total": 2,
+      "Isotope - Turbine Torcher Halloween Fire": {
+        "total": 4,
         "isDouble": false
       },
-      "Isotope - Forest Fire (Factory New) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Turbine Torcher (Minimal Wear) Halloween Fire": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Isotope - Turbine Torcher (Factory New) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Turbine Torcher (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Flash Fryer (Battle Scarred) Halloween Fire": {
+      "Isotope - Flash Fryer Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Country Crusher (Factory New) Specialized Killstreak Exorcism Scattergun",
+    "name": "Country Crusher Specialized Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Country Crusher (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Aqua Marine (Well-Worn) Specialized Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Aqua Marine (Well-Worn) Exorcism": {
+      "Country Crusher Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -7146,20 +7020,6 @@
     }
   },
   {
-    "name": "Strange Black Dahlia (Minimal Wear) Professional Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Black Dahlia (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Cool Unusual Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
@@ -7167,67 +7027,63 @@
       "single"
     ],
     "combinations": {
-      "Cool - Carpet Bomber (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool - Carpet Bomber (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
+      "Cool - Carpet Bomber Pumpkin Bombs": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Shell Shocker (Factory New) Specialized Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Shell Shocker Specialized Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Shell Shocker (Factory New) Pumpkin Bombs Exorcism": {
+      "Shell Shocker Pumpkin Bombs Exorcism": {
         "total": 2,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Field-Tested) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Aqua Marine Specialized Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Field-Tested) Pumpkin Bombs": {
-        "total": 3,
+      "Aqua Marine Pumpkin Bombs": {
+        "total": 4,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Pink Elephant (Battle Scarred) Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Strange Pink Elephant Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Pink Elephant (Battle Scarred) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Pink Elephant Pumpkin Bombs Exorcism": {
+        "total": 3,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Forest Fire (Factory New) Specialized Killstreak Halloween Fire Flame Thrower",
+    "name": "Strange Forest Fire Specialized Killstreak Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Forest Fire (Factory New) Halloween Fire": {
+      "Forest Fire Halloween Fire": {
         "total": 3,
         "isDouble": false
       }
@@ -7248,113 +7104,85 @@
     }
   },
   {
-    "name": "Strange Citizen Pain (Field-Tested) Exorcism Minigun",
+    "name": "Woodland Warrior Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Citizen Pain (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Woodland Warrior (Field-Tested) Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Woodland Warrior (Minimal Wear) Professional Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
+      "Woodland Warrior Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Night Terror (Field-Tested) Professional Killstreak Exorcism Scattergun",
+    "name": "Strange Night Terror Professional Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Terror (Field-Tested) Exorcism": {
+      "Night Terror Exorcism": {
+        "total": 9,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Forest Fire Halloween Fire Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Forest Fire Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Flash Fryer Professional Killstreak Halloween Fire Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Flash Fryer Halloween Fire": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Backwoods Boomstick Specialized Killstreak Exorcism Shotgun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Backwoods Boomstick Exorcism": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Sandstone Special Specialized Killstreak Exorcism Pistol",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Sandstone Special Exorcism": {
         "total": 3,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Forest Fire (Field-Tested) Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Forest Fire (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Flash Fryer (Field-Tested) Professional Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Flash Fryer (Field-Tested) Halloween Fire": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Backwoods Boomstick (Battle Scarred) Specialized Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backwoods Boomstick (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Sandstone Special (Minimal Wear) Specialized Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sandstone Special (Minimal Wear) Exorcism": {
-        "total": 1,
         "isDouble": false
       }
     }
@@ -7367,61 +7195,53 @@
       "single"
     ],
     "combinations": {
-      "Hot - Lightning Rod (Well-Worn) Exorcism": {
-        "total": 1,
+      "Hot - Lightning Rod Exorcism": {
+        "total": 3,
         "isDouble": false
       },
-      "Hot - Backwoods Boomstick (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Lightning Rod (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Hot - Lightning Rod (Battle Scarred) Exorcism": {
+      "Hot - Backwoods Boomstick Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Factory New) Specialized Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Woodland Warrior Specialized Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Woodland Warrior (Factory New) Pumpkin Bombs Exorcism": {
+      "Woodland Warrior Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Sudden Flurry (Minimal Wear) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "name": "Sudden Flurry Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Sudden Flurry (Minimal Wear) Pumpkin Bombs": {
+      "Sudden Flurry Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Brick House (Well-Worn) Specialized Killstreak Exorcism Minigun",
+    "name": "Strange Brick House Specialized Killstreak Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Brick House (Well-Worn) Exorcism": {
+      "Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -7435,22 +7255,22 @@
       "single"
     ],
     "combinations": {
-      "Cool - Aqua Marine (Field-Tested) Pumpkin Bombs": {
+      "Cool - Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Current Event (Factory New) Professional Killstreak Exorcism Scattergun",
+    "name": "Current Event Professional Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Current Event (Factory New) Exorcism": {
-        "total": 1,
+      "Current Event Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -7463,137 +7283,123 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Forest Fire (Well-Worn) Halloween Fire": {
+      "Energy Orb - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Flash Fryer (Battle Scarred) Halloween Fire": {
+      "Energy Orb - Flash Fryer Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Flash Fryer (Factory New) Professional Killstreak Halloween Fire Flame Thrower",
+    "name": "War Room Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Factory New) Halloween Fire": {
-        "total": 2,
+      "War Room Exorcism": {
+        "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "War Room (Minimal Wear) Exorcism Minigun",
+    "name": "Woodland Warrior Specialized Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "War Room (Minimal Wear) Exorcism": {
-        "total": 2,
+      "Woodland Warrior Pumpkin Bombs": {
+        "total": 4,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Woodland Warrior (Minimal Wear) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Earth, Sky and Fire Killstreak Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
+      "Earth, Sky and Fire Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Earth, Sky and Fire (Factory New) Killstreak Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Earth, Sky and Fire (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Turbine Torcher (Factory New) Killstreak Halloween Fire Exorcism Flame Thrower",
+    "name": "Strange Turbine Torcher Killstreak Halloween Fire Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Turbine Torcher (Factory New) Halloween Fire Exorcism": {
+      "Turbine Torcher Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Woodland Warrior (Field-Tested) Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Woodland Warrior Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Night Terror (Minimal Wear) Professional Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Owl (Field-Tested) Specialized Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Field-Tested) Exorcism": {
+      "Woodland Warrior Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Thunderbolt (Minimal Wear) Professional Killstreak Exorcism Sniper Rifle",
+    "name": "Night Terror Professional Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Thunderbolt (Minimal Wear) Exorcism": {
+      "Night Terror Exorcism": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Night Owl Specialized Killstreak Exorcism Sniper Rifle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Night Owl Exorcism": {
+        "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Thunderbolt Professional Killstreak Exorcism Sniper Rifle",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Thunderbolt Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -7614,43 +7420,29 @@
     }
   },
   {
-    "name": "Flash Fryer (Factory New) Exorcism Flame Thrower",
+    "name": "Flash Fryer Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Factory New) Exorcism": {
-        "total": 1,
+      "Flash Fryer Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Sand Cannon (Minimal Wear) Exorcism Rocket Launcher",
+    "name": "Strange Sand Cannon Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Sand Cannon (Minimal Wear) Exorcism": {
+      "Sand Cannon Exorcism": {
         "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Current Event (Factory New) Professional Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Current Event (Factory New) Exorcism": {
-        "total": 4,
         "isDouble": false
       }
     }
@@ -7670,99 +7462,85 @@
     }
   },
   {
-    "name": "Strange Shell Shocker (Minimal Wear) Professional Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Shell Shocker Professional Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Minimal Wear) Exorcism": {
-        "total": 1,
+      "Shell Shocker Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Sand Cannon (Well-Worn) Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Sand Cannon Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Sand Cannon (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Sand Cannon Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Night Terror (Field-Tested) Killstreak Exorcism Scattergun",
+    "name": "Night Terror Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Terror (Field-Tested) Exorcism": {
+      "Night Terror Exorcism": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Night Terror Exorcism Scattergun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Night Terror Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Night Terror (Well-Worn) Exorcism Scattergun",
+    "name": "Strange Night Terror Specialized Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Terror (Well-Worn) Exorcism": {
-        "total": 1,
+      "Night Terror Exorcism": {
+        "total": 7,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Night Terror (Field-Tested) Specialized Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Field-Tested) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange King of the Jungle (Well-Worn) Professional Killstreak Exorcism Minigun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "King of the Jungle (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Sudden Flurry (Factory New) Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Strange Sudden Flurry Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Sudden Flurry (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Sudden Flurry Pumpkin Bombs Exorcism": {
+        "total": 2,
         "isDouble": true
       }
     }
@@ -7775,11 +7553,11 @@
       "single"
     ],
     "combinations": {
-      "Cool - Backwoods Boomstick (Well-Worn) Exorcism": {
+      "Cool - Backwoods Boomstick Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Cool - Lightning Rod (Minimal Wear) Exorcism": {
+      "Cool - Lightning Rod Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -7793,26 +7571,26 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Purple Range (Battle Scarred) Exorcism": {
+      "Energy Orb - Purple Range Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Night Owl (Field-Tested) Exorcism": {
+      "Energy Orb - Night Owl Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Sand Cannon (Field-Tested) Specialized Killstreak Exorcism Rocket Launcher",
+    "name": "Sand Cannon Specialized Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Sand Cannon (Field-Tested) Exorcism": {
-        "total": 1,
+      "Sand Cannon Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -7825,36 +7603,36 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Black Dahlia (Minimal Wear) Exorcism": {
+      "Isotope - Black Dahlia Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Shell Shocker (Well-Worn) Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Shell Shocker Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Well-Worn) Pumpkin Bombs": {
+      "Shell Shocker Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Backwoods Boomstick (Field-Tested) Exorcism Shotgun",
+    "name": "Strange Backwoods Boomstick Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Backwoods Boomstick (Field-Tested) Exorcism": {
-        "total": 1,
+      "Backwoods Boomstick Exorcism": {
+        "total": 3,
         "isDouble": false
       }
     }
@@ -7867,7 +7645,7 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Low Profile (Field-Tested) Exorcism": {
+      "Energy Orb - Low Profile Exorcism": {
         "total": 1,
         "isDouble": false
       },
@@ -7878,169 +7656,99 @@
     }
   },
   {
-    "name": "Strange Night Terror (Factory New) Professional Killstreak Exorcism Scattergun",
+    "name": "Rustic Ruiner Specialized Killstreak Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Terror (Factory New) Exorcism": {
-        "total": 4,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Rustic Ruiner (Factory New) Specialized Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Rustic Ruiner (Factory New) Exorcism": {
+      "Rustic Ruiner Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Field-Tested) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Aqua Marine Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Aqua Marine (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Current Event (Minimal Wear) Specialized Killstreak Exorcism Scattergun",
+    "name": "Strange Red Rock Roscoe Professional Killstreak Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Current Event (Minimal Wear) Exorcism": {
-        "total": 3,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Red Rock Roscoe (Minimal Wear) Professional Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Red Rock Roscoe (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "War Room (Factory New) Exorcism Minigun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "War Room (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Owl (Factory New) Professional Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Factory New) Exorcism": {
+      "Red Rock Roscoe Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Shell Shocker (Minimal Wear) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Shell Shocker (Minimal Wear) Pumpkin Bombs Exorcism": {
-        "total": 2,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Woodland Warrior (Minimal Wear) Pumpkin Bombs Rocket Launcher",
+    "name": "Woodland Warrior Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
+      "Woodland Warrior Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Carpet Bomber (Factory New) Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Strange Carpet Bomber Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Carpet Bomber (Factory New) Pumpkin Bombs Exorcism": {
+      "Carpet Bomber Pumpkin Bombs Exorcism": {
         "total": 3,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Field-Tested) Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Aqua Marine Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Field-Tested) Exorcism": {
+      "Aqua Marine Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Lightning Rod (Well-Worn) Professional Killstreak Exorcism Shotgun",
+    "name": "Strange Lightning Rod Professional Killstreak Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Lightning Rod (Well-Worn) Exorcism": {
-        "total": 1,
+      "Lightning Rod Exorcism": {
+        "total": 6,
         "isDouble": false
       }
     }
@@ -8053,22 +7761,22 @@
       "single"
     ],
     "combinations": {
-      "Hot - Aqua Marine (Battle Scarred) Pumpkin Bombs": {
+      "Hot - Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Flash Fryer (Field-Tested) Specialized Killstreak Halloween Fire Flame Thrower",
+    "name": "Flash Fryer Specialized Killstreak Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Field-Tested) Halloween Fire": {
-        "total": 1,
+      "Flash Fryer Halloween Fire": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -8081,49 +7789,35 @@
       "single"
     ],
     "combinations": {
-      "Hot - Turbine Torcher (Factory New) Halloween Fire": {
+      "Hot - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Battle Scarred) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Backwoods Boomstick Specialized Killstreak Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
+      "Backwoods Boomstick Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Backwoods Boomstick (Factory New) Specialized Killstreak Exorcism Shotgun",
+    "name": "Sand Cannon Specialized Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Backwoods Boomstick (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Sand Cannon (Well-Worn) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sand Cannon (Well-Worn) Pumpkin Bombs": {
+      "Sand Cannon Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -8137,16 +7831,12 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Woodland Warrior (Well-Worn) Pumpkin Bombs": {
+      "Isotope - Woodland Warrior Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Aqua Marine (Minimal Wear) Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
-      },
-      "Isotope - Aqua Marine (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
+      "Isotope - Aqua Marine Pumpkin Bombs": {
+        "total": 3,
         "isDouble": false
       }
     }
@@ -8173,12 +7863,8 @@
       "double"
     ],
     "combinations": {
-      "Hot - Turbine Torcher (Well-Worn) Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Hot - Turbine Torcher (Minimal Wear) Halloween Fire Exorcism": {
-        "total": 1,
+      "Hot - Turbine Torcher Halloween Fire Exorcism": {
+        "total": 2,
         "isDouble": true
       }
     }
@@ -8191,92 +7877,64 @@
       "single"
     ],
     "combinations": {
-      "Cool - Brick House (Field-Tested) Exorcism": {
+      "Cool - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Flash Fryer (Field-Tested) Exorcism Flame Thrower",
+    "name": "Strange Pink Elephant Professional Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Pink Elephant (Minimal Wear) Professional Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Pink Elephant (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Flash Fryer (Battle Scarred) Killstreak Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Flash Fryer (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Psychedelic Slugger (Minimal Wear) Professional Killstreak Exorcism Revolver",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Psychedelic Slugger (Minimal Wear) Exorcism": {
+      "Pink Elephant Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Lightning Rod (Factory New) Professional Killstreak Exorcism Shotgun",
+    "name": "Flash Fryer Killstreak Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Lightning Rod (Factory New) Exorcism": {
-        "total": 3,
+      "Flash Fryer Exorcism": {
+        "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Factory New) Professional Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Psychedelic Slugger Professional Killstreak Exorcism Revolver",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Factory New) Exorcism": {
-        "total": 3,
+      "Psychedelic Slugger Exorcism": {
+        "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Woodland Warrior Professional Killstreak Exorcism Rocket Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Woodland Warrior Exorcism": {
+        "total": 4,
         "isDouble": false
       }
     }
@@ -8289,7 +7947,7 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Turbine Torcher (Field-Tested) Halloween Fire": {
+      "Isotope - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
@@ -8303,49 +7961,35 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Brick House (Battle Scarred) Exorcism": {
+      "Energy Orb - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Night Owl (Factory New) Killstreak Exorcism Sniper Rifle",
+    "name": "Strange Night Owl Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Owl (Factory New) Exorcism": {
-        "total": 1,
+      "Night Owl Exorcism": {
+        "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Current Event (Minimal Wear) Specialized Killstreak Exorcism Scattergun",
+    "name": "War Room Professional Killstreak Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Current Event (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "War Room (Factory New) Professional Killstreak Exorcism Minigun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "War Room (Factory New) Exorcism": {
+      "War Room Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -8359,35 +8003,21 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Night Owl (Field-Tested) Exorcism": {
+      "Energy Orb - Night Owl Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Woodland Warrior (Factory New) Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Aqua Marine (Field-Tested) Specialized Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Aqua Marine Specialized Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Aqua Marine (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -8408,112 +8038,70 @@
     }
   },
   {
-    "name": "Homemade Heater (Factory New) Exorcism Pistol",
+    "name": "Homemade Heater Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Homemade Heater (Factory New) Exorcism": {
+      "Homemade Heater Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Blasted Bombardier (Well-Worn) Professional Killstreak Exorcism Stickybomb Launcher",
+    "name": "Blasted Bombardier Professional Killstreak Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Blasted Bombardier (Well-Worn) Exorcism": {
+      "Blasted Bombardier Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Shell Shocker (Factory New) Professional Killstreak Exorcism Rocket Launcher",
+    "name": "Shell Shocker Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Factory New) Exorcism": {
-        "total": 1,
+      "Shell Shocker Exorcism": {
+        "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Shell Shocker (Factory New) Killstreak Exorcism Rocket Launcher",
+    "name": "Rooftop Wrangler Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Rooftop Wrangler (Battle Scarred) Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Rooftop Wrangler (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Owl (Minimal Wear) Specialized Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Owl (Factory New) Specialized Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Factory New) Exorcism": {
+      "Rooftop Wrangler Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Factory New) Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Aqua Marine Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Factory New) Pumpkin Bombs": {
+      "Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -8527,21 +8115,21 @@
       "double"
     ],
     "combinations": {
-      "Energy Orb - Turbine Torcher (Battle Scarred) Halloween Fire Exorcism": {
+      "Energy Orb - Turbine Torcher Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Aqua Marine (Battle Scarred) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Aqua Marine Specialized Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Battle Scarred) Pumpkin Bombs": {
+      "Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -8562,70 +8150,56 @@
     }
   },
   {
-    "name": "Thunderbolt (Field-Tested) Exorcism Sniper Rifle",
+    "name": "Thunderbolt Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Thunderbolt (Field-Tested) Exorcism": {
+      "Thunderbolt Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Psychedelic Slugger (Factory New) Professional Killstreak Exorcism Revolver",
+    "name": "Strange Aqua Marine Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Psychedelic Slugger (Factory New) Exorcism": {
+      "Aqua Marine Exorcism": {
+        "total": 6,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Backcountry Blaster Killstreak Exorcism Scattergun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Backcountry Blaster Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Field-Tested) Exorcism Rocket Launcher",
+    "name": "Strange Backcountry Blaster Specialized Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Field-Tested) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Backcountry Blaster (Battle Scarred) Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backcountry Blaster (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Backcountry Blaster (Factory New) Specialized Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backcountry Blaster (Factory New) Exorcism": {
+      "Backcountry Blaster Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -8646,99 +8220,43 @@
     }
   },
   {
-    "name": "Blasted Bombardier (Minimal Wear) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "name": "Shell Shocker Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Blasted Bombardier (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Sand Cannon (Factory New) Specialized Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sand Cannon (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Lightning Rod (Minimal Wear) Professional Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Lightning Rod (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Night Terror (Factory New) Professional Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Shell Shocker (Minimal Wear) Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Shell Shocker (Minimal Wear) Pumpkin Bombs": {
+      "Shell Shocker Pumpkin Bombs": {
         "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Lightning Rod (Field-Tested) Specialized Killstreak Exorcism Shotgun",
+    "name": "Strange Lightning Rod Specialized Killstreak Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Lightning Rod (Field-Tested) Exorcism": {
-        "total": 2,
+      "Lightning Rod Exorcism": {
+        "total": 4,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange King of the Jungle (Factory New) Exorcism Minigun",
+    "name": "Strange King of the Jungle Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "King of the Jungle (Factory New) Exorcism": {
-        "total": 1,
+      "King of the Jungle Exorcism": {
+        "total": 5,
         "isDouble": false
       }
     }
@@ -8751,7 +8269,7 @@
       "single"
     ],
     "combinations": {
-      "Cool - Night Owl (Field-Tested) Exorcism": {
+      "Cool - Night Owl Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -8765,64 +8283,36 @@
       "double"
     ],
     "combinations": {
-      "Hot - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Hot - Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Blasted Bombardier (Battle Scarred) Pumpkin Bombs Stickybomb Launcher",
+    "name": "Blasted Bombardier Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Blasted Bombardier (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Forest Fire (Minimal Wear) Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Forest Fire (Minimal Wear) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Shell Shocker (Minimal Wear) Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Shell Shocker (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Backwoods Boomstick (Factory New) Professional Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backwoods Boomstick (Factory New) Exorcism": {
+      "Blasted Bombardier Pumpkin Bombs": {
         "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Forest Fire Killstreak Halloween Fire Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Forest Fire Halloween Fire": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -8835,25 +8325,25 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Turbine Torcher (Minimal Wear) Halloween Fire": {
+      "Energy Orb - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Forest Fire (Factory New) Halloween Fire": {
+      "Energy Orb - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Carpet Bomber (Field-Tested) Specialized Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Strange Carpet Bomber Specialized Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Carpet Bomber (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Carpet Bomber Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -8867,231 +8357,133 @@
       "double"
     ],
     "combinations": {
-      "Energy Orb - Turbine Torcher (Factory New) Halloween Fire Exorcism": {
+      "Energy Orb - Turbine Torcher Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Dead Reckoner (Field-Tested) Specialized Killstreak Exorcism Revolver",
+    "name": "Strange Dead Reckoner Specialized Killstreak Exorcism Revolver",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Dead Reckoner (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Sand Cannon (Well-Worn) Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sand Cannon (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Shell Shocker (Field-Tested) Pumpkin Bombs Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Shell Shocker (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Woodland Warrior (Field-Tested) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Turbine Torcher (Well-Worn) Specialized Killstreak Halloween Fire Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Turbine Torcher (Well-Worn) Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Purple Range (Minimal Wear) Specialized Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Purple Range (Minimal Wear) Exorcism": {
+      "Dead Reckoner Exorcism": {
         "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Night Terror (Field-Tested) Exorcism Scattergun",
+    "name": "Sand Cannon Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Terror (Field-Tested) Exorcism": {
+      "Sand Cannon Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Liquid Asset (Field-Tested) Specialized Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Shell Shocker Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Liquid Asset (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Shell Shocker Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange King of the Jungle (Field-Tested) Killstreak Exorcism Minigun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "King of the Jungle (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Terror (Minimal Wear) Professional Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Purple Range (Field-Tested) Specialized Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Purple Range (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Shell Shocker (Minimal Wear) Specialized Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Shell Shocker (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Night Terror (Factory New) Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Blasted Bombardier (Field-Tested) Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Blasted Bombardier (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Woodland Warrior (Minimal Wear) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Flash Fryer (Well-Worn) Halloween Fire Exorcism Flame Thrower",
+    "name": "Strange Turbine Torcher Specialized Killstreak Halloween Fire Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Flash Fryer (Well-Worn) Halloween Fire Exorcism": {
+      "Turbine Torcher Halloween Fire Exorcism": {
+        "total": 2,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Liquid Asset Specialized Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Liquid Asset Pumpkin Bombs Exorcism": {
+        "total": 2,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Strange King of the Jungle Killstreak Exorcism Minigun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "King of the Jungle Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Night Terror Exorcism Scattergun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Night Terror Exorcism": {
+        "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Blasted Bombardier Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Blasted Bombardier Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Flash Fryer Halloween Fire Exorcism Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Flash Fryer Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -9112,15 +8504,15 @@
     }
   },
   {
-    "name": "Black Dahlia (Field-Tested) Exorcism Pistol",
+    "name": "Black Dahlia Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Black Dahlia (Field-Tested) Exorcism": {
-        "total": 1,
+      "Black Dahlia Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -9133,35 +8525,7 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Aqua Marine (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Backwoods Boomstick (Factory New) Specialized Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backwoods Boomstick (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Flash Fryer (Factory New) Specialized Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Flash Fryer (Factory New) Halloween Fire": {
+      "Isotope - Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -9175,21 +8539,7 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Woodsy Widowmaker (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Dead Reckoner (Minimal Wear) Specialized Killstreak Exorcism Revolver",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Dead Reckoner (Minimal Wear) Exorcism": {
+      "Isotope - Woodsy Widowmaker Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -9203,81 +8553,53 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Forest Fire (Well-Worn) Halloween Fire": {
+      "Isotope - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Turbine Torcher (Battle Scarred) Halloween Fire": {
+      "Isotope - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Turbine Torcher (Battle Scarred) Specialized Killstreak Halloween Fire Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Turbine Torcher (Battle Scarred) Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Strange Forest Fire (Battle Scarred) Halloween Fire Flame Thrower",
+    "name": "Aqua Marine Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Forest Fire (Battle Scarred) Halloween Fire": {
+      "Aqua Marine Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Aqua Marine (Factory New) Exorcism Rocket Launcher",
+    "name": "Strange Brick House Professional Killstreak Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Factory New) Exorcism": {
+      "Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Brick House (Factory New) Professional Killstreak Exorcism Minigun",
+    "name": "Strange American Pastoral Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Brick House (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange American Pastoral (Factory New) Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "American Pastoral (Factory New) Exorcism": {
+      "American Pastoral Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -9291,22 +8613,22 @@
       "single"
     ],
     "combinations": {
-      "Hot - Sandstone Special (Field-Tested) Exorcism": {
+      "Hot - Sandstone Special Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Shell Shocker (Battle Scarred) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Shell Shocker Specialized Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Battle Scarred) Pumpkin Bombs": {
-        "total": 2,
+      "Shell Shocker Pumpkin Bombs": {
+        "total": 3,
         "isDouble": false
       }
     }
@@ -9326,28 +8648,14 @@
     }
   },
   {
-    "name": "Strange Flash Fryer (Factory New) Exorcism Flame Thrower",
+    "name": "Purple Range Professional Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Purple Range (Factory New) Professional Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Purple Range (Factory New) Exorcism": {
+      "Purple Range Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -9361,65 +8669,37 @@
       "single"
     ],
     "combinations": {
-      "Hot - Pink Elephant (Well-Worn) Pumpkin Bombs": {
+      "Hot - Pink Elephant Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Field-Tested) Specialized Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Woodland Warrior Specialized Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Field-Tested) Exorcism": {
-        "total": 1,
+      "Woodland Warrior Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Liquid Asset (Minimal Wear) Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Strange Liquid Asset Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Liquid Asset (Minimal Wear) Pumpkin Bombs Exorcism": {
+      "Liquid Asset Pumpkin Bombs Exorcism": {
         "total": 2,
         "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Strange Pink Elephant (Field-Tested) Professional Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Pink Elephant (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Shell Shocker (Factory New) Professional Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Shell Shocker (Factory New) Pumpkin Bombs": {
-        "total": 2,
-        "isDouble": false
       }
     }
   },
@@ -9431,22 +8711,22 @@
       "double"
     ],
     "combinations": {
-      "Energy Orb - Aqua Marine (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Energy Orb - Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Black Dahlia (Factory New) Professional Killstreak Exorcism Pistol",
+    "name": "Black Dahlia Professional Killstreak Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Black Dahlia (Factory New) Exorcism": {
-        "total": 1,
+      "Black Dahlia Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -9459,36 +8739,22 @@
       "single"
     ],
     "combinations": {
-      "Cool - Night Owl (Well-Worn) Exorcism": {
+      "Cool - Night Owl Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Flash Fryer (Factory New) Specialized Killstreak Exorcism Flame Thrower",
+    "name": "Flash Fryer Specialized Killstreak Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Factory New) Exorcism": {
+      "Flash Fryer Exorcism": {
         "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Woodland Warrior (Minimal Wear) Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
         "isDouble": false
       }
     }
@@ -9501,36 +8767,36 @@
       "double"
     ],
     "combinations": {
-      "Hot - Woodland Warrior (Well-Worn) Pumpkin Bombs Exorcism": {
+      "Hot - Woodland Warrior Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Carpet Bomber (Minimal Wear) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "name": "Strange Carpet Bomber Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Carpet Bomber (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
+      "Carpet Bomber Pumpkin Bombs": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Strange Carpet Bomber Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Carpet Bomber Pumpkin Bombs Exorcism": {
+        "total": 2,
         "isDouble": true
       }
     }
@@ -9543,78 +8809,22 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Aqua Marine (Well-Worn) Pumpkin Bombs": {
+      "Energy Orb - Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Backwoods Boomstick (Field-Tested) Professional Killstreak Exorcism Shotgun",
+    "name": "Bovine Blazemaker Specialized Killstreak Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Backwoods Boomstick (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Bovine Blazemaker (Minimal Wear) Specialized Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Bovine Blazemaker (Minimal Wear) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Lightning Rod (Well-Worn) Specialized Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Lightning Rod (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Thunderbolt (Minimal Wear) Specialized Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Thunderbolt (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Woodland Warrior (Minimal Wear) Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
+      "Bovine Blazemaker Halloween Fire": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -9627,35 +8837,35 @@
       "single"
     ],
     "combinations": {
-      "Hot - Turbine Torcher (Factory New) Exorcism": {
+      "Hot - Turbine Torcher Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Factory New) Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Woodland Warrior Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Woodland Warrior (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 1,
+      "Woodland Warrior Pumpkin Bombs Exorcism": {
+        "total": 2,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Strange Turbine Torcher (Factory New) Professional Killstreak Halloween Fire Exorcism Flame Thrower",
+    "name": "Strange Turbine Torcher Professional Killstreak Halloween Fire Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Turbine Torcher (Factory New) Halloween Fire Exorcism": {
+      "Turbine Torcher Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -9676,56 +8886,28 @@
     }
   },
   {
-    "name": "Strange Aqua Marine (Field-Tested) Specialized Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Flash Fryer Specialized Killstreak Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Field-Tested) Exorcism": {
-        "total": 1,
+      "Flash Fryer Halloween Fire": {
+        "total": 4,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Pink Elephant (Field-Tested) Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Shell Shocker Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Pink Elephant (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Strange Flash Fryer (Minimal Wear) Specialized Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Flash Fryer (Minimal Wear) Halloween Fire": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Shell Shocker (Factory New) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Shell Shocker (Factory New) Pumpkin Bombs Exorcism": {
+      "Shell Shocker Pumpkin Bombs Exorcism": {
         "total": 2,
         "isDouble": true
       }
@@ -9746,28 +8928,14 @@
     }
   },
   {
-    "name": "Strange Dead Reckoner (Factory New) Specialized Killstreak Exorcism Revolver",
+    "name": "Current Event Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Dead Reckoner (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Current Event (Field-Tested) Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Current Event (Field-Tested) Exorcism": {
+      "Current Event Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -9781,81 +8949,39 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Flash Fryer (Well-Worn) Halloween Fire": {
+      "Energy Orb - Flash Fryer Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Energy Orb - Forest Fire (Field-Tested) Halloween Fire": {
+      "Energy Orb - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange King of the Jungle (Field-Tested) Exorcism Minigun",
+    "name": "Strange Turbine Torcher Specialized Killstreak Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "King of the Jungle (Field-Tested) Exorcism": {
+      "Turbine Torcher Halloween Fire": {
         "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Turbine Torcher (Field-Tested) Specialized Killstreak Halloween Fire Flame Thrower",
+    "name": "Night Owl Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Turbine Torcher (Field-Tested) Halloween Fire": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange King of the Jungle (Minimal Wear) Exorcism Minigun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "King of the Jungle (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Woodland Warrior (Factory New) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Night Owl (Factory New) Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Factory New) Exorcism": {
+      "Night Owl Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -9876,56 +9002,28 @@
     }
   },
   {
-    "name": "Woodland Warrior (Factory New) Specialized Killstreak Exorcism Rocket Launcher",
+    "name": "Woodland Warrior Specialized Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Factory New) Exorcism": {
+      "Woodland Warrior Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Turbine Torcher (Factory New) Specialized Killstreak Halloween Fire Flame Thrower",
+    "name": "Strange Night Terror Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Turbine Torcher (Factory New) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Rooftop Wrangler (Field-Tested) Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Rooftop Wrangler (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Terror (Field-Tested) Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Field-Tested) Exorcism": {
+      "Night Terror Exorcism": {
         "total": 2,
         "isDouble": false
       }
@@ -9939,7 +9037,7 @@
       "single"
     ],
     "combinations": {
-      "Cool - Black Dahlia (Factory New) Exorcism": {
+      "Cool - Black Dahlia Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -9967,35 +9065,21 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Lightning Rod (Field-Tested) Exorcism": {
+      "Energy Orb - Lightning Rod Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Lightning Rod (Field-Tested) Exorcism Shotgun",
+    "name": "Strange Lightning Rod Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Lightning Rod (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Blasted Bombardier (Well-Worn) Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Blasted Bombardier (Well-Worn) Pumpkin Bombs": {
+      "Lightning Rod Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10009,190 +9093,120 @@
       "single"
     ],
     "combinations": {
-      "Hot - Flash Fryer (Minimal Wear) Exorcism": {
+      "Hot - Flash Fryer Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Sudden Flurry (Minimal Wear) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "name": "Strange Sudden Flurry Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Sudden Flurry (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Pink Elephant (Well-Worn) Professional Killstreak Exorcism Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Pink Elephant (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Backwoods Boomstick (Factory New) Professional Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backwoods Boomstick (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Lightning Rod (Factory New) Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Lightning Rod (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Carpet Bomber (Factory New) Pumpkin Bombs Exorcism Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Carpet Bomber (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Strange Turbine Torcher (Field-Tested) Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Turbine Torcher (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Carpet Bomber (Factory New) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Carpet Bomber (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Backwoods Boomstick (Minimal Wear) Professional Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backwoods Boomstick (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Terror (Minimal Wear) Specialized Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Minimal Wear) Exorcism": {
+      "Sudden Flurry Pumpkin Bombs": {
         "total": 3,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Sudden Flurry (Field-Tested) Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
+    "name": "Strange Pink Elephant Professional Killstreak Exorcism Stickybomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Pink Elephant Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Backwoods Boomstick Professional Killstreak Exorcism Shotgun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Backwoods Boomstick Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Lightning Rod Exorcism Shotgun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Lightning Rod Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Carpet Bomber Pumpkin Bombs Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Sudden Flurry (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Carpet Bomber Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Pink Elephant (Field-Tested) Pumpkin Bombs Stickybomb Launcher",
+    "name": "Strange Turbine Torcher Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Pink Elephant (Field-Tested) Pumpkin Bombs": {
+      "Turbine Torcher Exorcism": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Carpet Bomber Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Carpet Bomber Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Shell Shocker (Factory New) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Pink Elephant Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Psychedelic Slugger (Field-Tested) Professional Killstreak Exorcism Revolver",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Psychedelic Slugger (Field-Tested) Exorcism": {
-        "total": 1,
+      "Pink Elephant Pumpkin Bombs": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -10205,11 +9219,11 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Lightning Rod (Field-Tested) Exorcism": {
+      "Isotope - Lightning Rod Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Backwoods Boomstick (Field-Tested) Exorcism": {
+      "Isotope - Backwoods Boomstick Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10223,21 +9237,7 @@
       "single"
     ],
     "combinations": {
-      "Hot - Forest Fire (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Night Terror (Battle Scarred) Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Battle Scarred) Exorcism": {
+      "Hot - Forest Fire Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10251,7 +9251,7 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Backwoods Boomstick (Field-Tested) Exorcism": {
+      "Isotope - Backwoods Boomstick Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10265,23 +9265,9 @@
       "double"
     ],
     "combinations": {
-      "Energy Orb - Turbine Torcher (Battle Scarred) Halloween Fire Exorcism": {
+      "Energy Orb - Turbine Torcher Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Strange Shell Shocker (Field-Tested) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Shell Shocker (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
       }
     }
   },
@@ -10293,7 +9279,7 @@
       "single"
     ],
     "combinations": {
-      "Cool - Aqua Marine (Factory New) Pumpkin Bombs": {
+      "Cool - Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -10314,20 +9300,6 @@
     }
   },
   {
-    "name": "Strange Woodland Warrior (Minimal Wear) Specialized Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Cool Unusual Specialized Killstreak Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
@@ -10335,25 +9307,25 @@
       "single"
     ],
     "combinations": {
-      "Cool - Turbine Torcher (Field-Tested) Halloween Fire": {
+      "Cool - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
-      "Cool - Forest Fire (Field-Tested) Halloween Fire": {
+      "Cool - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodsy Widowmaker (Well-Worn) Specialized Killstreak Exorcism SMG",
+    "name": "Strange Woodsy Widowmaker Specialized Killstreak Exorcism SMG",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodsy Widowmaker (Well-Worn) Exorcism": {
+      "Woodsy Widowmaker Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10367,77 +9339,21 @@
       "single"
     ],
     "combinations": {
-      "Backwoods Boomstick (Factory New) Exorcism": {
+      "Backwoods Boomstick Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Night Terror (Field-Tested) Exorcism Scattergun",
+    "name": "Backcountry Blaster Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Terror (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Backcountry Blaster (Minimal Wear) Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backcountry Blaster (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Aqua Marine (Minimal Wear) Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Aqua Marine (Minimal Wear) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Aqua Marine (Battle Scarred) Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Aqua Marine (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Sudden Flurry (Field-Tested) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sudden Flurry (Field-Tested) Pumpkin Bombs": {
+      "Backcountry Blaster Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10451,133 +9367,63 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Low Profile (Factory New) Exorcism": {
+      "Energy Orb - Low Profile Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Turbine Torcher (Minimal Wear) Exorcism Flame Thrower",
+    "name": "Strange Forest Fire Killstreak Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Turbine Torcher (Minimal Wear) Exorcism": {
+      "Forest Fire Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Forest Fire (Well-Worn) Killstreak Exorcism Flame Thrower",
+    "name": "Strange Purple Range Professional Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Forest Fire (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Purple Range (Factory New) Professional Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Purple Range (Factory New) Exorcism": {
+      "Purple Range Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Shell Shocker (Battle Scarred) Exorcism Rocket Launcher",
+    "name": "Lumber From Down Under Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Battle Scarred) Exorcism": {
+      "Lumber From Down Under Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Flash Fryer (Field-Tested) Specialized Killstreak Halloween Fire Flame Thrower",
+    "name": "Pink Elephant Professional Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Shell Shocker (Battle Scarred) Specialized Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Shell Shocker (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Lumber From Down Under (Minimal Wear) Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Lumber From Down Under (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Aqua Marine (Minimal Wear) Specialized Killstreak Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Aqua Marine (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Pink Elephant (Field-Tested) Professional Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Pink Elephant (Field-Tested) Pumpkin Bombs": {
+      "Pink Elephant Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -10591,7 +9437,7 @@
       "single"
     ],
     "combinations": {
-      "Cool - Woodsy Widowmaker (Well-Worn) Exorcism": {
+      "Cool - Woodsy Widowmaker Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10605,7 +9451,7 @@
       "single"
     ],
     "combinations": {
-      "Turbine Torcher (Factory New) Exorcism": {
+      "Turbine Torcher Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10619,36 +9465,22 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Night Terror (Field-Tested) Exorcism": {
+      "Energy Orb - Night Terror Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Carpet Bomber (Field-Tested) Pumpkin Bombs Stickybomb Launcher",
+    "name": "Strange Carpet Bomber Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Carpet Bomber (Field-Tested) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Carpet Bomber (Well-Worn) Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Carpet Bomber (Well-Worn) Pumpkin Bombs": {
-        "total": 1,
+      "Carpet Bomber Pumpkin Bombs": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -10661,7 +9493,7 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Night Owl (Minimal Wear) Exorcism": {
+      "Energy Orb - Night Owl Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10675,63 +9507,7 @@
       "single"
     ],
     "combinations": {
-      "Hot - Turbine Torcher (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Terror (Well-Worn) Specialized Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Well-Worn) Exorcism": {
-        "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Black Dahlia (Well-Worn) Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Black Dahlia (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Bovine Blazemaker (Factory New) Specialized Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Bovine Blazemaker (Factory New) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Current Event (Minimal Wear) Professional Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Current Event (Minimal Wear) Exorcism": {
+      "Hot - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
@@ -10752,154 +9528,126 @@
     }
   },
   {
-    "name": "Strange Forest Fire (Minimal Wear) Professional Killstreak Halloween Fire Flame Thrower",
+    "name": "Strange Forest Fire Professional Killstreak Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Forest Fire (Minimal Wear) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Owl (Field-Tested) Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Flash Fryer (Minimal Wear) Specialized Killstreak Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Flash Fryer (Minimal Wear) Exorcism": {
+      "Forest Fire Halloween Fire": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Night Terror (Minimal Wear) Specialized Killstreak Exorcism Scattergun",
+    "name": "Strange Flash Fryer Specialized Killstreak Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Terror (Minimal Wear) Exorcism": {
+      "Flash Fryer Exorcism": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Field-Tested) Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Night Terror Specialized Killstreak Exorcism Scattergun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Night Terror Exorcism": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Aqua Marine Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Aqua Marine (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Shell Shocker (Minimal Wear) Professional Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Shell Shocker Professional Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Minimal Wear) Pumpkin Bombs": {
+      "Shell Shocker Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Thunderbolt (Minimal Wear) Killstreak Exorcism Sniper Rifle",
+    "name": "Thunderbolt Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Thunderbolt (Minimal Wear) Exorcism": {
+      "Thunderbolt Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Shell Shocker (Field-Tested) Specialized Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Shell Shocker Specialized Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Field-Tested) Exorcism": {
+      "Shell Shocker Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Field-Tested) Professional Killstreak Exorcism Rocket Launcher",
+    "name": "Strange Lightning Rod Killstreak Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Field-Tested) Exorcism": {
+      "Lightning Rod Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Lightning Rod (Minimal Wear) Killstreak Exorcism Shotgun",
+    "name": "Carpet Bomber Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Lightning Rod (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Carpet Bomber (Minimal Wear) Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Carpet Bomber (Minimal Wear) Pumpkin Bombs": {
+      "Carpet Bomber Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -10913,11 +9661,11 @@
       "single"
     ],
     "combinations": {
-      "Hot - King of the Jungle (Well-Worn) Exorcism": {
+      "Hot - King of the Jungle Exorcism": {
         "total": 1,
         "isDouble": false
       },
-      "Hot - Brick House (Battle Scarred) Exorcism": {
+      "Hot - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -10931,134 +9679,50 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Black Dahlia (Field-Tested) Exorcism": {
+      "Energy Orb - Black Dahlia Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Carpet Bomber (Minimal Wear) Professional Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "name": "Strange Carpet Bomber Professional Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Carpet Bomber (Minimal Wear) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Owl (Battle Scarred) Killstreak Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange American Pastoral (Battle Scarred) Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "American Pastoral (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Night Terror (Factory New) Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Terror (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Woodland Warrior (Factory New) Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Liquid Asset (Minimal Wear) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Liquid Asset (Minimal Wear) Pumpkin Bombs": {
+      "Carpet Bomber Pumpkin Bombs": {
         "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Smalltown Bringdown (Factory New) Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange American Pastoral Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Smalltown Bringdown (Factory New) Pumpkin Bombs": {
+      "American Pastoral Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Lightning Rod (Factory New) Specialized Killstreak Exorcism Shotgun",
+    "name": "Woodland Warrior Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Lightning Rod (Factory New) Exorcism": {
+      "Woodland Warrior Exorcism": {
         "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Black Dahlia (Factory New) Professional Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Black Dahlia (Factory New) Exorcism": {
-        "total": 3,
         "isDouble": false
       }
     }
@@ -11078,28 +9742,28 @@
     }
   },
   {
-    "name": "Strange Shell Shocker (Field-Tested) Specialized Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Shell Shocker Specialized Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Shell Shocker (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Shell Shocker Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
     }
   },
   {
-    "name": "Turbine Torcher (Well-Worn) Halloween Fire Flame Thrower",
+    "name": "Turbine Torcher Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Turbine Torcher (Well-Worn) Halloween Fire": {
+      "Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
@@ -11316,20 +9980,6 @@
     }
   },
   {
-    "name": "Black Dahlia (Minimal Wear) Professional Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Black Dahlia (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Strange Chromatic Corruption Physician's Protector",
     "category": "allpostlife",
     "groupings": [
@@ -11386,14 +10036,14 @@
     }
   },
   {
-    "name": "Woodland Warrior (Battle Scarred) Professional Killstreak Exorcism Rocket Launcher",
+    "name": "Woodland Warrior Professional Killstreak Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Woodland Warrior (Battle Scarred) Exorcism": {
+      "Woodland Warrior Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -11498,29 +10148,15 @@
     }
   },
   {
-    "name": "Strange Flash Fryer (Field-Tested) Halloween Fire Flame Thrower",
+    "name": "Strange Flash Fryer Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Flash Fryer (Field-Tested) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Flash Fryer (Minimal Wear) Professional Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Flash Fryer (Minimal Wear) Halloween Fire": {
-        "total": 1,
+      "Flash Fryer Halloween Fire": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -11562,6 +10198,20 @@
     ],
     "combinations": {
       "Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Die Job El Duderino",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
         "total": 2,
         "isDouble": false
       }
@@ -11708,20 +10358,6 @@
     }
   },
   {
-    "name": "Strange Carpet Bomber (Battle Scarred) Professional Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Carpet Bomber (Battle Scarred) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Cool Unusual Professional Killstreak Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
@@ -11729,49 +10365,7 @@
       "single"
     ],
     "combinations": {
-      "Cool - King of the Jungle (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Forest Fire (Factory New) Professional Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Forest Fire (Factory New) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Sandstone Special (Well-Worn) Specialized Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sandstone Special (Well-Worn) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Night Owl (Well-Worn) Exorcism Sniper Rifle",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Night Owl (Well-Worn) Exorcism": {
+      "Cool - King of the Jungle Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -11792,56 +10386,28 @@
     }
   },
   {
-    "name": "Die Job El Duderino",
+    "name": "Strange King of the Jungle Specialized Killstreak Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Die Job": {
+      "King of the Jungle Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Woodland Warrior (Field-Tested) Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Strange King of the Jungle (Battle Scarred) Specialized Killstreak Exorcism Minigun",
+    "name": "Barn Burner Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "King of the Jungle (Battle Scarred) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Barn Burner (Minimal Wear) Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Barn Burner (Minimal Wear) Halloween Fire": {
+      "Barn Burner Halloween Fire": {
         "total": 1,
         "isDouble": false
       }
@@ -11946,14 +10512,14 @@
     }
   },
   {
-    "name": "Strange Liquid Asset (Minimal Wear) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
+    "name": "Strange Liquid Asset Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Liquid Asset (Minimal Wear) Pumpkin Bombs": {
+      "Liquid Asset Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -11974,14 +10540,14 @@
     }
   },
   {
-    "name": "Strange Sand Cannon (Battle Scarred) Professional Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Sand Cannon Professional Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Sand Cannon (Battle Scarred) Pumpkin Bombs": {
+      "Sand Cannon Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -12030,29 +10596,15 @@
     }
   },
   {
-    "name": "Strange Black Dahlia (Field-Tested) Specialized Killstreak Exorcism Pistol",
+    "name": "Strange Black Dahlia Specialized Killstreak Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Black Dahlia (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Red Rock Roscoe (Factory New) Professional Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Red Rock Roscoe (Factory New) Exorcism": {
-        "total": 1,
+      "Black Dahlia Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
@@ -12086,20 +10638,6 @@
     }
   },
   {
-    "name": "Liquid Asset (Factory New) Specialized Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Liquid Asset (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
     "name": "Voices from Below Sheriff's Stetson",
     "category": "allpostlife",
     "groupings": [
@@ -12122,20 +10660,6 @@
     ],
     "combinations": {
       "Terror-Watt Violent Violet Footprints": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Woodland Warrior (Field-Tested) Professional Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Field-Tested) Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -12184,21 +10708,7 @@
     }
   },
   {
-    "name": "Strange Flash Fryer (Battle Scarred) Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Flash Fryer (Battle Scarred) Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Voices from Below Outta' Sight",
+    "name": "Voices from Below Outta Sight",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -12233,7 +10743,7 @@
       "single"
     ],
     "combinations": {
-      "Energy Orb - Aqua Marine (Field-Tested) Pumpkin Bombs": {
+      "Energy Orb - Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -12254,14 +10764,14 @@
     }
   },
   {
-    "name": "Sudden Flurry (Minimal Wear) Pumpkin Bombs Stickybomb Launcher",
+    "name": "Sudden Flurry Pumpkin Bombs Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Sudden Flurry (Minimal Wear) Pumpkin Bombs": {
+      "Sudden Flurry Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -12310,14 +10820,14 @@
     }
   },
   {
-    "name": "Thunderbolt (Field-Tested) Specialized Killstreak Exorcism Sniper Rifle",
+    "name": "Thunderbolt Specialized Killstreak Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Thunderbolt (Field-Tested) Exorcism": {
+      "Thunderbolt Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -12331,7 +10841,7 @@
       "single"
     ],
     "combinations": {
-      "Isotope - Brick House (Field-Tested) Exorcism": {
+      "Isotope - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -12394,20 +10904,6 @@
     }
   },
   {
-    "name": "Strange Sudden Flurry (Factory New) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sudden Flurry (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Strange Putrescent Pigmentation Voices from Below Captain Cardbeard Cutthroat",
     "category": "allpostlife",
     "groupings": [
@@ -12422,20 +10918,6 @@
     }
   },
   {
-    "name": "Strange Carpet Bomber (Factory New) Specialized Killstreak Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Carpet Bomber (Factory New) Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Professional Killstreak Team Spirit Footprints Voices from Below Potassium Bonnet",
     "category": "allpostlife",
     "groupings": [
@@ -12446,20 +10928,6 @@
       "Team Spirit Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Strange Backwoods Boomstick (Minimal Wear) Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backwoods Boomstick (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
       }
     }
   },
@@ -12520,20 +10988,6 @@
     }
   },
   {
-    "name": "Strange Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Spectral Spectrum White Russian",
     "category": "allpostlife",
     "groupings": [
@@ -12562,14 +11016,14 @@
     }
   },
   {
-    "name": "Strange Aqua Marine (Field-Tested) Professional Killstreak Pumpkin Bombs Rocket Launcher",
+    "name": "Strange Aqua Marine Professional Killstreak Pumpkin Bombs Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Aqua Marine (Field-Tested) Pumpkin Bombs": {
+      "Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -12590,42 +11044,28 @@
     }
   },
   {
-    "name": "Shell Shocker (Field-Tested) Killstreak Exorcism Rocket Launcher",
+    "name": "Tartan Torpedo Killstreak Exorcism Scattergun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Shell Shocker (Field-Tested) Exorcism": {
+      "Tartan Torpedo Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Tartan Torpedo (Minimal Wear) Killstreak Exorcism Scattergun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Tartan Torpedo (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Aqua Marine (Factory New) Pumpkin Bombs Exorcism Rocket Launcher",
+    "name": "Strange Aqua Marine Pumpkin Bombs Exorcism Rocket Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Aqua Marine (Factory New) Pumpkin Bombs Exorcism": {
+      "Aqua Marine Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -12646,28 +11086,14 @@
     }
   },
   {
-    "name": "Strange Dead Reckoner (Factory New) Professional Killstreak Exorcism Revolver",
+    "name": "Strange Dead Reckoner Professional Killstreak Exorcism Revolver",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Dead Reckoner (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Flash Fryer (Well-Worn) Specialized Killstreak Halloween Fire Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Flash Fryer (Well-Worn) Halloween Fire": {
+      "Dead Reckoner Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -12744,20 +11170,6 @@
     }
   },
   {
-    "name": "Strange Lightning Rod (Field-Tested) Professional Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Lightning Rod (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Chromatic Corruption Rotation Sensation",
     "category": "allpostlife",
     "groupings": [
@@ -12794,20 +11206,6 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Pink Elephant (Minimal Wear) Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Pink Elephant (Minimal Wear) Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -12870,72 +11268,30 @@
     }
   },
   {
-    "name": "Strange Backwoods Boomstick (Battle Scarred) Killstreak Exorcism Shotgun",
+    "name": "Strange Backwoods Boomstick Killstreak Exorcism Shotgun",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Backwoods Boomstick (Battle Scarred) Exorcism": {
-        "total": 1,
+      "Backwoods Boomstick Exorcism": {
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Aqua Marine (Factory New) Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Aqua Marine (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Flash Fryer (Well-Worn) Specialized Killstreak Halloween Fire Exorcism Flame Thrower",
+    "name": "Strange Flash Fryer Specialized Killstreak Halloween Fire Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Flash Fryer (Well-Worn) Halloween Fire Exorcism": {
+      "Flash Fryer Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Strange Backwoods Boomstick (Minimal Wear) Killstreak Exorcism Shotgun",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Backwoods Boomstick (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Black Dahlia (Minimal Wear) Specialized Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Black Dahlia (Minimal Wear) Exorcism": {
-        "total": 1,
-        "isDouble": false
       }
     }
   },
@@ -12954,14 +11310,14 @@
     }
   },
   {
-    "name": "Strange Sandstone Special (Factory New) Exorcism Pistol",
+    "name": "Strange Sandstone Special Exorcism Pistol",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Sandstone Special (Factory New) Exorcism": {
+      "Sandstone Special Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -12982,56 +11338,28 @@
     }
   },
   {
-    "name": "Lumber From Down Under (Factory New) Exorcism Sniper Rifle",
+    "name": "Lumber From Down Under Exorcism Sniper Rifle",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Lumber From Down Under (Factory New) Exorcism": {
+      "Lumber From Down Under Exorcism": {
         "total": 1,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Strange Night Terror (Factory New) Specialized Killstreak Exorcism Scattergun",
+    "name": "Bovine Blazemaker Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Night Terror (Factory New) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Sandstone Special (Field-Tested) Specialized Killstreak Exorcism Pistol",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Sandstone Special (Field-Tested) Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Bovine Blazemaker (Minimal Wear) Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Bovine Blazemaker (Minimal Wear) Exorcism": {
+      "Bovine Blazemaker Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -13046,34 +11374,6 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Shell Shocker (Battle Scarred) Professional Killstreak Pumpkin Bombs Exorcism Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Shell Shocker (Battle Scarred) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Blasted Bombardier (Minimal Wear) Pumpkin Bombs Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Blasted Bombardier (Minimal Wear) Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -13108,20 +11408,6 @@
     }
   },
   {
-    "name": "Strange Pink Elephant (Minimal Wear) Professional Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Pink Elephant (Minimal Wear) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
     "name": "Sinister Staining El Duderino",
     "category": "allpostlife",
     "groupings": [
@@ -13150,14 +11436,14 @@
     }
   },
   {
-    "name": "Sudden Flurry (Minimal Wear) Exorcism Stickybomb Launcher",
+    "name": "Sudden Flurry Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Sudden Flurry (Minimal Wear) Exorcism": {
+      "Sudden Flurry Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -13178,14 +11464,14 @@
     }
   },
   {
-    "name": "Carpet Bomber (Minimal Wear) Specialized Killstreak Exorcism Stickybomb Launcher",
+    "name": "Carpet Bomber Specialized Killstreak Exorcism Stickybomb Launcher",
     "category": "allpostlife",
     "groupings": [
       "all",
       "single"
     ],
     "combinations": {
-      "Carpet Bomber (Minimal Wear) Exorcism": {
+      "Carpet Bomber Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -13200,20 +11486,6 @@
     ],
     "combinations": {
       "Green Energy Voices from Below": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Woodland Warrior (Well-Worn) Specialized Killstreak Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Woodland Warrior (Well-Worn) Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }
@@ -13248,14 +11520,14 @@
     }
   },
   {
-    "name": "Strange Flash Fryer (Minimal Wear) Professional Killstreak Halloween Fire Exorcism Flame Thrower",
+    "name": "Strange Flash Fryer Professional Killstreak Halloween Fire Exorcism Flame Thrower",
     "category": "allpostlife",
     "groupings": [
       "all",
       "double"
     ],
     "combinations": {
-      "Flash Fryer (Minimal Wear) Halloween Fire Exorcism": {
+      "Flash Fryer Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -13286,20 +11558,6 @@
       "Orbiting Fire Voices from Below": {
         "total": 1,
         "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Strange Carpet Bomber (Factory New) Killstreak Pumpkin Bombs Exorcism Stickybomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Carpet Bomber (Factory New) Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
       }
     }
   },
@@ -13759,7 +12017,7 @@
       "double"
     ],
     "combinations": {
-      "Isotope - Carpet Bomber (Field-Tested) Pumpkin Bombs Exorcism": {
+      "Isotope - Carpet Bomber Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
       }
