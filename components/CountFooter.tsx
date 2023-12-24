@@ -12,6 +12,7 @@ export function CountFooter() {
         <p>
           {copyright()} <Link href="/">counter.tf</Link>
         </p>
+        <Link href={{pathname: '/privacy-policy'}}>Privacy Policy</Link>
         <p>
           all counts are approximate
         </p>

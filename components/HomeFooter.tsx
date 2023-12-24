@@ -23,6 +23,7 @@ export function HomeFooter() {
           <LinkSplackDiscord/>
           <a href="https://manic.tf/keyprice/">TF2 Key Price History</a>
           <a href="https://calculator.tf/">TF2 Currency Converter</a>
+          <Link href={{pathname: '/privacy-policy'}}>Privacy Policy</Link>
         </div>
       </div>
       <VersionFooter />
