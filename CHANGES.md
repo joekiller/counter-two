@@ -1,5 +1,11 @@
 # There are the changes to the project.
 
+## 1.5.0
+Date: 12/23/2023
+
+    * add ads
+    * make counter home a component
+
 ## v1.4.0
 
 Date: 11/05/2023
