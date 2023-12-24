@@ -17,7 +17,7 @@ const PrivacyPolicy: NextPage = () => {
       <CounterMain>
         <h1>Privacy Policy</h1>
         <p className='lead'>
-          Your privacy is important to us. We've developed a Privacy Policy that covers how we collect, use,
+          Your privacy is important to us. We&apos;ve developed a Privacy Policy that covers how we collect, use,
           disclose and store your information.
         </p>
         <div className="ccpa">
@@ -35,7 +35,7 @@ const PrivacyPolicy: NextPage = () => {
         </p>
         <h2>Cookies and Other Technologies</h2>
         <p>
-          Our advertisers may use "cookies" and other technologies such as pixel tag and web beacons.
+          Our advertisers may use &quot;cookies&quot; and other technologies such as pixel tag and web beacons.
         </p>
         <h2>Service Guarantees</h2>
         <p>
