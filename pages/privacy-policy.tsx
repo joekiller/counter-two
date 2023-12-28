@@ -35,7 +35,7 @@ const PrivacyPolicy: NextPage = () => {
         </p>
         <h2>Cookies and Other Technologies</h2>
         <p>
-          Our advertisers may use &quot;cookies&quot; and other technologies such as pixel tag and web beacons.
+          There are none at this time.
         </p>
         <h2>Service Guarantees</h2>
         <p>
