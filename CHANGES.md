@@ -1,5 +1,10 @@
 # There are the changes to the project.
 
+## 1.6.0
+Date: 12/30/2023
+
+    * begin upgrading to a next.js app
+
 ## 1.5.0
 Date: 12/23/2023
 

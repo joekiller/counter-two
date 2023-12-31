@@ -1,19 +1,15 @@
-import type { NextPage } from 'next'
-import Head from 'next/head'
+import type {Metadata, NextPage} from 'next'
 import React from "react";
-import CounterMain from "../components/CounterMain";
-import {HomeFooter} from "../components/HomeFooter";
+import CounterMain from "../../components/CounterMain";
+import {HomeFooter} from "../../components/HomeFooter";
 
+export const metadata: Metadata = {
+  title: 'Privacy Policy',
+}
 
-const PrivacyPolicy: NextPage = () => {
-
+const Page: NextPage = () => {
   return (
     <div>
-      <Head>
-        <title>Privacy Policy</title>
-        <link rel="icon" type="image/png" href="/static/key-solid.svg" />
-      </Head>
-
       <CounterMain>
         <h1>Privacy Policy</h1>
         <p className='lead'>
@@ -50,4 +46,4 @@ const PrivacyPolicy: NextPage = () => {
   )
 }
 
-export default PrivacyPolicy
+export default Page

@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "~13.x",
-    "react": "~18.x",
-    "react-dom": "~18.x",
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "sharp": "~0.x"
   },
   "devDependencies": {
@@ -19,7 +19,7 @@
     "@types/react": "~18.x",
     "@types/react-dom": "~18.x",
     "eslint": "~8.x",
-    "eslint-config-next": "~13.x",
+    "eslint-config-next": "^14.0.4",
     "typescript": "~5.x"
   }
 }
