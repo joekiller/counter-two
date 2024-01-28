@@ -28124,12 +28124,36 @@
         "total": 1,
         "isDouble": false
       },
+      "Haunted Ghosts Voices from Below": {
+        "total": 3,
+        "isDouble": false
+      },
+      "Green Confetti Sinister Staining Gangreen Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
       "Circling TF Logo Voices from Below": {
         "total": 1,
         "isDouble": false
       },
       "Voices from Below": {
         "total": 13,
+        "isDouble": false
+      },
+      "Haunted Ghosts Sinister Staining Voices from Below": {
+        "total": 2,
+        "isDouble": true
+      },
+      "Purple Confetti Voices from Below": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Burning Flames Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Circling TF Logo Rotten Orange Footprints": {
+        "total": 1,
         "isDouble": false
       },
       "Circling Heart Voices from Below": {
@@ -28140,17 +28164,33 @@
         "total": 1,
         "isDouble": false
       },
+      "Scorching Flames Spectral Spectrum": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Sunbeams Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Chromatic Corruption": {
-        "total": 4,
+        "total": 6,
         "isDouble": false
       },
       "Purple Confetti Chromatic Corruption": {
         "total": 1,
         "isDouble": false
       },
-      "Scorching Flames Spectral Spectrum": {
+      "Burning Flames Chromatic Corruption": {
         "total": 1,
         "isDouble": false
+      },
+      "Haunted Ghosts Chromatic Corruption Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Haunted Ghosts Spectral Spectrum Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": true
       },
       "Vivid Plasma Chromatic Corruption Voices from Below": {
         "total": 1,
@@ -28160,15 +28200,23 @@
         "total": 1,
         "isDouble": false
       },
-      "Haunted Ghosts Voices from Below": {
+      "Green Energy Sinister Staining": {
         "total": 2,
         "isDouble": false
       },
-      "Green Energy Sinister Staining": {
+      "Massed Flies Die Job": {
         "total": 1,
         "isDouble": false
       },
-      "Massed Flies Die Job": {
+      "Scorching Flames Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sunbeams Gangreen Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Green Confetti Violent Violet Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -28176,16 +28224,28 @@
         "total": 1,
         "isDouble": false
       },
+      "Haunted Ghosts Die Job": {
+        "total": 2,
+        "isDouble": false
+      },
+      "Circling TF Logo Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Nuts n' Bolts Spectral Spectrum": {
         "total": 1,
         "isDouble": false
+      },
+      "Purple Confetti Chromatic Corruption Voices from Below": {
+        "total": 1,
+        "isDouble": true
       },
       "Circling Peace Sign Gangreen Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
       },
       "Chromatic Corruption Voices from Below": {
-        "total": 1,
+        "total": 3,
         "isDouble": true
       },
       "Orbiting Fire Voices from Below": {
@@ -28204,12 +28264,16 @@
         "total": 1,
         "isDouble": false
       },
+      "Flaming Lantern Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Die Job": {
         "total": 5,
         "isDouble": false
       },
       "Sinister Staining Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       },
       "Stormy Storm Sinister Staining": {
@@ -28220,17 +28284,29 @@
         "total": 1,
         "isDouble": true
       },
+      "Steaming Spectral Spectrum": {
+        "total": 1,
+        "isDouble": false
+      },
       "Spectral Spectrum": {
-        "total": 3,
+        "total": 5,
         "isDouble": false
       },
       "Searing Plasma Chromatic Corruption": {
         "total": 1,
         "isDouble": false
       },
-      "Haunted Ghosts Die Job": {
-        "total": 1,
+      "Putrescent Pigmentation": {
+        "total": 2,
         "isDouble": false
+      },
+      "Roboactive Chromatic Corruption Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Sulphurous Spectral Spectrum Voices from Below": {
+        "total": 1,
+        "isDouble": true
       },
       "Green Black Hole Chromatic Corruption": {
         "total": 1,
@@ -28240,17 +28316,61 @@
         "total": 1,
         "isDouble": false
       },
+      "Cloud 9 Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Dead Presidents Gangreen Footprints": {
         "total": 1,
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 2,
+        "total": 4,
+        "isDouble": false
+      },
+      "Cloud 9 Chromatic Corruption Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Poisoned Shadows Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Poisoned Shadows Chromatic Corruption Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Arcana Sinister Staining": {
+        "total": 1,
         "isDouble": false
       },
       "Demonflame Rotten Orange Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
+      },
+      "Spectral Spectrum Voices from Below": {
+        "total": 3,
+        "isDouble": true
+      },
+      "Burning Flames Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Kill-a-Watt Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Aces High Gangreen Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Orbiting Fire Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Blizzardy Storm Voices from Below": {
+        "total": 1,
+        "isDouble": false
       },
       "Aces High Voices from Below": {
         "total": 1,
@@ -28268,8 +28388,28 @@
         "total": 1,
         "isDouble": false
       },
+      "Kill-a-Watt Rotten Orange Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Putrescent Pigmentation Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
       "Disco Beat Down Voices from Below": {
         "total": 1,
+        "isDouble": false
+      },
+      "Orbiting Fire Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Vivid Plasma Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Bonzo The All-Gnawing Die Job": {
+        "total": 2,
         "isDouble": false
       },
       "Death at Dusk Spectral Spectrum Voices from Below": {
