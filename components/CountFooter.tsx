@@ -6,7 +6,7 @@ import {copyright} from "./copyright";
 const options: Intl.DateTimeFormatOptions = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
 
 export function CountFooter() {
-  const updatedAt = process.env.NEXT_PUBLIC_COUNTS_UPDATED_AT ? new Date(process.env.NEXT_PUBLIC_COUNTS_UPDATED_AT).toLocaleDateString(undefined,options) : "-";
+  const updatedAt = process.env.NEXT_PUBLIC_COUNTS_UPDATED_AT ? new Date(Number.parseInt(process.env.NEXT_PUBLIC_COUNTS_UPDATED_AT)*1000).toLocaleDateString(undefined,options) : "-";
   return (
       <div className={styles.appxCountsFooter}>
         <p>
