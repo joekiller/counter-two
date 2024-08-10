@@ -45,4 +45,4 @@ runs:
       env:
         GITHUB_TOKEN: ${{ inputs.GITHUB_TOKEN }}
       run: |
-        npx semantic-release $(test "${{ github.ref_name }}" = "main" && : || echo "--dry-run")
+        npx semantic-release $(test "${{ github.ref_name }}" = "main" && : || echo "--branches ${{ github.ref_name }} --dry-run")
