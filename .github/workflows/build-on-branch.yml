@@ -12,7 +12,6 @@ permissions:
   issues: read
   pull-requests: read
   pages: read
-  id-token: read
 
 jobs:
   test:
