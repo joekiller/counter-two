@@ -1,5 +1,9 @@
 name: "Build"
 description: "Build the static pages"
+inputs:
+  GITHUB_TOKEN:
+    description: "action's token"
+    required: true
 runs:
   using: "composite"
   steps:
@@ -39,6 +43,6 @@ runs:
     - name: Release
       shell: bash
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ inputs.GITHUB_TOKEN }}
       run: |
         npx semantic-release $(test "${{ github.ref_name }}" = "main" && : || echo "--dry-run")
