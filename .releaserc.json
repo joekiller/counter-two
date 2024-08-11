@@ -17,7 +17,7 @@
       [
         "@semantic-release/exec",
         {
-          "verifyReleaseCmd": "npm version ${nextRelease.version} && npx --no-install next build"
+          "verifyReleaseCmd": "npm version --no-git-tag-version ${nextRelease.version} -f && npx --no-install next build"
         }
       ]
     ]
