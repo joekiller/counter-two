@@ -1,9 +1,8 @@
 # There are the changes to the project.
 
-## 1.6.0
-Date: 12/30/2023
+*Deprecated*
 
-    * begin upgrading to a next.js app
+Review the [releases](https://github.com/joekiller/counter-two/releases) descriptions for the latest changelog.
 
 ## 1.5.0
 Date: 12/23/2023
