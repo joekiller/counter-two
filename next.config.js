@@ -1,6 +1,6 @@
 const { version } = require('./package.json');
 const lastUpdatedAt =  new Date().toString();
-const countUpdatedAT = 1706402176;
+const countUpdatedAt = 1721865600;
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -9,7 +9,7 @@ const nextConfig = {
   env: {
     NEXT_PUBLIC_PACKAGE_VERSION: typeof version === "string" ? version : 'unknown',
     NEXT_PUBLIC_LAST_UPDATED_AT: lastUpdatedAt,
-    NEXT_PUBLIC_COUNTS_UPDATED_AT: new Date(countUpdatedAT * 1000).toString(),
+    NEXT_PUBLIC_COUNTS_UPDATED_AT: new Date(countUpdatedAt * 1000).toString(),
   },
   output: 'export'
 }
