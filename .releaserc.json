@@ -13,6 +13,12 @@
             "preset": "conventionalcommits"
            }
           ],
-        "@semantic-release/github"
+        "@semantic-release/github",
+      [
+        "@semantic-release/exec",
+        {
+          "prepareCmd": "npm version ${nextRelease.version} && npx --no-install next build"
+        }
+      ]
     ]
 }

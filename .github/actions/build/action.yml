@@ -37,9 +37,6 @@ runs:
     - name: Install dependencies
       shell: bash
       run: npm ci
-    - name: Build with Next.js
-      shell: bash
-      run: npx --no-install next build
     - name: Release
       shell: bash
       env:
