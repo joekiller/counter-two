@@ -17,7 +17,7 @@
       [
         "@semantic-release/exec",
         {
-          "prepareCmd": "npm version ${nextRelease.version} && npx --no-install next build"
+          "verifyReleaseCmd": "npm version ${nextRelease.version} && npx --no-install next build"
         }
       ]
     ]
