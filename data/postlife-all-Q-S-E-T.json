@@ -140,6 +140,20 @@
     }
   },
   {
+    "name": "Bovine Blazemaker Halloween Fire Exorcism Flame Thrower",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Bovine Blazemaker Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Bovine Blazemaker Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
@@ -822,11 +836,7 @@
         "isDouble": false
       },
       "Cool - Turbine Torcher Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool Halloween Fire": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -1112,20 +1122,6 @@
     }
   },
   {
-    "name": "Decorated Halloween Fire Exorcism Flame Thrower",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
     "name": "Decorated Halloween Fire Flame Thrower",
     "category": "allpostlife",
     "groupings": [
@@ -1134,7 +1130,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       }
     }
@@ -1150,20 +1146,6 @@
       "Pumpkin Bombs Exorcism": {
         "total": 1,
         "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Decorated Pumpkin Bombs Rocket Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
       }
     }
   },
@@ -1862,7 +1844,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -1876,13 +1858,27 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
   },
   {
     "name": "Exorcism Festive Chargin' Targe",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 2,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Exorcism Festive Revolver",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -2016,7 +2012,7 @@
     ],
     "combinations": {
       "Flash Fryer Halloween Fire": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -3914,7 +3910,7 @@
     ],
     "combinations": {
       "Shell Shocker Pumpkin Bombs": {
-        "total": 7,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -4558,7 +4554,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -6686,7 +6682,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       }
     }
@@ -8342,7 +8338,7 @@
     ],
     "combinations": {
       "Turbine Torcher Halloween Fire": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -8608,7 +8604,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }

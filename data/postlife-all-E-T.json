@@ -722,7 +722,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       },
       "Voices from Below": {
@@ -1109,11 +1109,11 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       },
       "Halloween Fire": {
-        "total": 30,
+        "total": 31,
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
@@ -1131,7 +1131,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       }
     }
@@ -1145,7 +1145,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 7,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -1159,7 +1159,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       }
     }
@@ -1227,16 +1227,16 @@
         "total": 4,
         "isDouble": false
       },
+      "Bovine Blazemaker Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
       "Cool - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
       "Cool - Turbine Torcher Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool Halloween Fire": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Earth, Sky and Fire Exorcism": {
@@ -1280,7 +1280,7 @@
         "isDouble": false
       },
       "Flash Fryer Halloween Fire": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       },
       "Flash Fryer Halloween Fire Exorcism": {
@@ -1300,11 +1300,11 @@
         "isDouble": true
       },
       "Halloween Fire": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       },
       "Halloween Fire Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       },
       "Hot - Flash Fryer Exorcism": {
@@ -1344,7 +1344,7 @@
         "isDouble": false
       },
       "Turbine Torcher Halloween Fire": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       },
       "Turbine Torcher Halloween Fire Exorcism": {
@@ -1412,7 +1412,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -2624,7 +2624,7 @@
         "isDouble": true
       },
       "Pumpkin Bombs": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       },
       "Pumpkin Bombs Exorcism": {
@@ -2648,7 +2648,7 @@
         "isDouble": false
       },
       "Shell Shocker Pumpkin Bombs": {
-        "total": 16,
+        "total": 17,
         "isDouble": false
       },
       "Shell Shocker Pumpkin Bombs Exorcism": {

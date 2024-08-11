@@ -1556,7 +1556,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -1570,7 +1570,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -1584,7 +1584,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -1598,7 +1598,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -1626,7 +1626,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 8,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -1728,7 +1728,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -2069,15 +2069,15 @@
       "double"
     ],
     "combinations": {
+      "Bovine Blazemaker Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
+      },
       "Flash Fryer Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       },
       "Forest Fire Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Halloween Fire Exorcism": {
         "total": 1,
         "isDouble": true
       }
@@ -2133,16 +2133,12 @@
         "total": 1,
         "isDouble": false
       },
-      "Isotope - Forest Fire Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
       "Isotope - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
       "Turbine Torcher Halloween Fire": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -2273,20 +2269,6 @@
     "combinations": {
       "Exorcism": {
         "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Killstreak Exorcism Festive Backburner",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Exorcism": {
-        "total": 1,
         "isDouble": false
       }
     }
@@ -2484,7 +2466,7 @@
         "isDouble": false
       },
       "Night Terror Exorcism": {
-        "total": 5,
+        "total": 4,
         "isDouble": false
       },
       "Tartan Torpedo Exorcism": {
@@ -2517,10 +2499,6 @@
     "combinations": {
       "Backwoods Boomstick Exorcism": {
         "total": 2,
-        "isDouble": false
-      },
-      "Lightning Rod Exorcism": {
-        "total": 1,
         "isDouble": false
       }
     }
@@ -2562,20 +2540,6 @@
       "Exorcism": {
         "total": 1,
         "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Killstreak Halloween Fire Exorcism Festive Backburner",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Halloween Fire Exorcism": {
-        "total": 1,
-        "isDouble": true
       }
     }
   },
@@ -2727,12 +2691,8 @@
         "total": 1,
         "isDouble": false
       },
-      "Pumpkin Bombs": {
-        "total": 1,
-        "isDouble": false
-      },
       "Shell Shocker Pumpkin Bombs": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Smalltown Bringdown Pumpkin Bombs": {
@@ -2958,7 +2918,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -3028,7 +2988,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 27,
+        "total": 29,
         "isDouble": false
       }
     }
@@ -3124,7 +3084,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 6,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -3268,7 +3228,7 @@
         "isDouble": false
       },
       "Night Terror Exorcism": {
-        "total": 11,
+        "total": 13,
         "isDouble": false
       }
     }
@@ -3342,7 +3302,7 @@
         "isDouble": false
       },
       "Lightning Rod Exorcism": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -3444,7 +3404,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 5,
+        "total": 6,
         "isDouble": true
       }
     }
@@ -3492,7 +3452,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 18,
+        "total": 20,
         "isDouble": false
       }
     }
@@ -3505,7 +3465,11 @@
       "single"
     ],
     "combinations": {
-      "Cool Halloween Fire": {
+      "Bovine Blazemaker Halloween Fire": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Turbine Torcher Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
@@ -3534,7 +3498,7 @@
         "isDouble": false
       },
       "Isotope - Flash Fryer Halloween Fire": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Isotope - Forest Fire Halloween Fire": {
@@ -3643,6 +3607,10 @@
       },
       "Pink Elephant Pumpkin Bombs Exorcism": {
         "total": 3,
+        "isDouble": true
+      },
+      "Pumpkin Bombs Exorcism": {
+        "total": 1,
         "isDouble": true
       },
       "Sudden Flurry Pumpkin Bombs Exorcism": {
@@ -3908,6 +3876,10 @@
     ],
     "combinations": {
       "Aqua Marine Pumpkin Bombs": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Cool - Aqua Marine Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       },
@@ -5578,7 +5550,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 7,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -5752,7 +5724,7 @@
         "isDouble": false
       },
       "Night Terror Exorcism": {
-        "total": 10,
+        "total": 9,
         "isDouble": false
       }
     }
@@ -5910,7 +5882,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 4,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -5924,7 +5896,7 @@
     ],
     "combinations": {
       "Bovine Blazemaker Halloween Fire": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       },
       "Cool - Forest Fire Halloween Fire": {
@@ -5936,18 +5908,14 @@
         "isDouble": false
       },
       "Flash Fryer Halloween Fire": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       },
       "Forest Fire Halloween Fire": {
         "total": 3,
         "isDouble": false
       },
-      "Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Isotope - Flash Fryer Halloween Fire": {
+      "Isotope - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
@@ -6036,7 +6004,7 @@
         "isDouble": true
       },
       "Pumpkin Bombs Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -6065,10 +6033,6 @@
     "combinations": {
       "Aqua Marine Pumpkin Bombs": {
         "total": 5,
-        "isDouble": false
-      },
-      "Cool - Aqua Marine Pumpkin Bombs": {
-        "total": 1,
         "isDouble": false
       },
       "Energy Orb - Aqua Marine Pumpkin Bombs": {
@@ -6342,7 +6306,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -7650,7 +7614,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
