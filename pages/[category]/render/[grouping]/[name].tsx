@@ -1,25 +1,36 @@
 import {GetStaticPaths, GetStaticProps, NextPage} from "next";
+import { useRouter } from 'next/router'
 import Head from "next/head";
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import {ParsedUrlQuery} from "querystring";
 import Category from "../../../../components/Category";
 import BundledItem from "../../../../components/BundledItem";
 import Grouping from "../../../../components/Grouping";
 import {handleSearchChange, options} from "../index.html";
-import {deLinkName, linkName} from "../../../../components/ItemLink";
+import {deLinkName, getItemPathname, linkName} from "../../../../components/ItemLink";
 import fsp from "fs/promises";
 import path from "path";
 import {ItemFooter} from "../../../../components/ItemFooter";
 import SearchForm from "../../../../components/SearchForm";
 import {isInGrouping} from "../../../../utils";
 
+/**
+ * map of item names that have redirects associated with them
+ *
+ * when we encounter a name in the set that is part of the redirect set, we must generate
+ * pages that redirect to the correct version.
+ */
+type RedirectCases = {[key: string]: string[]};
 
 interface ItemParams {
   name: string,
   category: Category,
   sets: {name: string, total: number}[],
   total: number,
-  spellNames: string[]
+  spellNames: string[],
+  /** if redirect is set, we will redirect to the target name */
+  redirect?: string
+  grouping: Grouping
 }
 
 export interface BundledItemQuery extends ParsedUrlQuery {
@@ -28,7 +39,17 @@ export interface BundledItemQuery extends ParsedUrlQuery {
   category: Category
 }
 
-function bundleToItems(bundle: BundledItem): {
+function generateBundles(categories: Category[], bundle: BundledItem, name: string) {
+  return categories.flatMap(category => bundle.groupings.map(grouping => ({
+    params: {
+      category,
+      grouping,
+      name: linkName(name)
+    }
+  })));
+}
+
+function bundleToItems(bundle: BundledItem, redirects: RedirectCases): {
   params: {
     name: string,
     grouping: Grouping,
@@ -37,13 +58,21 @@ function bundleToItems(bundle: BundledItem): {
 }[] {
   const {name} = bundle;
   const categories: Category[] = bundle.category === 'allpostlife' ? ['allpostlife', 'all'] : ['all'];
-  return categories.flatMap(category => bundle.groupings.map(grouping => ({params: {category, grouping, name: linkName(name)}})))
+  const bundles = generateBundles(categories, bundle, name);
+  if(name in redirects) {
+    bundles.push(...redirects[name].flatMap(
+      oldName => generateBundles(categories, bundle, oldName)
+    ));
+  }
+  return bundles;
 }
 
 export const getStaticPaths: GetStaticPaths<BundledItemQuery> = async () => {
-  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'all-Q.json'].join(path.sep), "utf8"))
+  const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'all-Q.json'].join(path.sep), "utf8"));
+  // when we encounter an item in this bundle, we want to inject any redirected names to ensure those pages get rendered as well
+  const redirects: RedirectCases = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'redirects.json'].join(path.sep), "utf8"));
   const paths = [
-    ...items.flatMap(item => bundleToItems(item))
+    ...items.flatMap(item => bundleToItems(item, redirects))
   ];
   return {
     paths,
@@ -54,17 +83,32 @@ export const getStaticPaths: GetStaticPaths<BundledItemQuery> = async () => {
 
 export const getStaticProps: GetStaticProps<ItemParams, BundledItemQuery> = async (context) => {
   const items: BundledItem[] = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'all-Q.json'].join(path.sep), "utf8"));
+  // we need to build an inverted redirect mapping to know when a bundled item is going to redirect
+  const redirects: RedirectCases = await JSON.parse(await fsp.readFile([process.cwd(), 'data', 'redirects.json'].join(path.sep), "utf8"));
+  const oldLowerNameLookup = new Map<string, string>;
+  Object.entries(redirects).forEach(([newName, oldNames]) => {
+    const lowerNewName = newName.toLowerCase();
+    oldNames.forEach(oldName => {
+      const lowerOldName = oldName.toLowerCase();
+      if(lowerOldName != lowerNewName) oldLowerNameLookup.set(lowerOldName, lowerNewName)
+    })
+  });
   const {category, name: _name, grouping} = context.params!;
   const name = deLinkName(_name);
-  const item = items[items.findIndex((v) => v.name.toLowerCase() === name)];
+  const redirect = oldLowerNameLookup.get(name);
+  const item = items[items.findIndex((v) => v.name.toLowerCase() === redirect || name)];
   const sets = Object.keys(item.combinations).map((c) => ({name: c, total: item.combinations[c].total, isDouble: item.combinations[c].isDouble})).sort((a,b) => a.total - b.total === 0 ? a.name.localeCompare(b.name) : a.total - b.total).map((item) =>({name: item.name, total: item.total, isDouble: item.isDouble})).filter(i => isInGrouping(grouping, i));
   const spellNames = Array.from(new Set<string>(sets.map((s) => s.name)));
   const total = sets.reduce((p, c) => p + c.total, 0)
+  const props: ItemParams = {
+    category, name: name, sets, total, spellNames: spellNames, grouping
+  }
+  if(redirect) {
+    props['redirect'] = redirect;
+  }
   return {
     // Passed to the page component as props
-    props: {
-      category, name: name, item, sets, total, spellNames: spellNames
-    }
+    props
   }
 }
 
@@ -80,7 +124,13 @@ function keywords(category: Category, itemName: string, total: number, spellName
     + `${spellNames.map((s) => `${s} ${itemName}`).join(', ')}`
 }
 
-const Name: NextPage<ItemParams> = ({ category, name, sets, total, spellNames }) => {
+const Name: NextPage<ItemParams> = ({ category, name, sets, total, spellNames, redirect, grouping }) => {
+  const router = useRouter();
+
+  useEffect(() => {
+    if (redirect) void router.replace(getItemPathname(category, grouping, redirect));
+  }, [category, grouping, redirect, router]);
+
   const [loaded, setLoaded] = useState(false);
   const [displayTotal, setDisplayTotal] = useState(total);
   const title = `${name} ${options(category, 'Spells', 'PostLife Spells')}`
