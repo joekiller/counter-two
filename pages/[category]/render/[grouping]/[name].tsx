@@ -96,7 +96,7 @@ export const getStaticProps: GetStaticProps<ItemParams, BundledItemQuery> = asyn
   const {category, name: _name, grouping} = context.params!;
   const name = deLinkName(_name);
   const redirect = oldLowerNameLookup.get(name);
-  const item = items[items.findIndex((v) => v.name.toLowerCase() === redirect || name)];
+  const item = items[items.findIndex((v) => v.name.toLowerCase() === (redirect || name))];
   const sets = Object.keys(item.combinations).map((c) => ({name: c, total: item.combinations[c].total, isDouble: item.combinations[c].isDouble})).sort((a,b) => a.total - b.total === 0 ? a.name.localeCompare(b.name) : a.total - b.total).map((item) =>({name: item.name, total: item.total, isDouble: item.isDouble})).filter(i => isInGrouping(grouping, i));
   const spellNames = Array.from(new Set<string>(sets.map((s) => s.name)));
   const total = sets.reduce((p, c) => p + c.total, 0)
