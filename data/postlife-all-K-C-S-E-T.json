@@ -1556,7 +1556,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 4,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -1702,7 +1702,7 @@
     ],
     "combinations": {
       "Citizen Pain Exorcism": {
-        "total": 3,
+        "total": 2,
         "isDouble": false
       },
       "Exorcism": {
@@ -1710,7 +1710,7 @@
         "isDouble": false
       },
       "King of the Jungle Exorcism": {
-        "total": 5,
+        "total": 4,
         "isDouble": false
       },
       "War Room Exorcism": {
@@ -1728,7 +1728,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 3,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -1869,7 +1869,7 @@
         "total": 3,
         "isDouble": false
       },
-      "Cool Exorcism": {
+      "Cool - Backwoods Boomstick Exorcism": {
         "total": 1,
         "isDouble": false
       },
@@ -2056,7 +2056,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 3,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -2338,7 +2338,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 10,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -2381,6 +2381,10 @@
       "single"
     ],
     "combinations": {
+      "Citizen Pain Exorcism": {
+        "total": 1,
+        "isDouble": false
+      },
       "Cool - Brick House Exorcism": {
         "total": 1,
         "isDouble": false
@@ -2390,7 +2394,7 @@
         "isDouble": false
       },
       "King of the Jungle Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -2466,7 +2470,7 @@
         "isDouble": false
       },
       "Night Terror Exorcism": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       },
       "Tartan Torpedo Exorcism": {
@@ -2638,7 +2642,7 @@
     ],
     "combinations": {
       "Carpet Bomber Pumpkin Bombs Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       },
       "Hot - Pink Elephant Pumpkin Bombs Exorcism": {
@@ -2700,7 +2704,7 @@
         "isDouble": false
       },
       "Woodland Warrior Pumpkin Bombs": {
-        "total": 4,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -2918,7 +2922,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -2988,7 +2992,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 29,
+        "total": 32,
         "isDouble": false
       }
     }
@@ -3084,7 +3088,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -3216,7 +3220,7 @@
     ],
     "combinations": {
       "Current Event Exorcism": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       },
       "Energy Orb - Night Terror Exorcism": {
@@ -3404,7 +3408,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       }
     }
@@ -3452,7 +3456,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 20,
+        "total": 21,
         "isDouble": false
       }
     }
@@ -3548,7 +3552,7 @@
     ],
     "combinations": {
       "Aqua Marine Pumpkin Bombs Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       },
       "Hot - Aqua Marine Pumpkin Bombs Exorcism": {
@@ -3584,7 +3588,7 @@
         "isDouble": true
       },
       "Woodland Warrior Pumpkin Bombs Exorcism": {
-        "total": 3,
+        "total": 4,
         "isDouble": true
       }
     }
@@ -3598,7 +3602,7 @@
     ],
     "combinations": {
       "Carpet Bomber Pumpkin Bombs Exorcism": {
-        "total": 3,
+        "total": 4,
         "isDouble": true
       },
       "Liquid Asset Pumpkin Bombs Exorcism": {
@@ -3706,7 +3710,7 @@
         "isDouble": false
       },
       "Woodland Warrior Pumpkin Bombs": {
-        "total": 4,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -5550,7 +5554,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 6,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -5618,7 +5622,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -5716,7 +5720,7 @@
         "isDouble": false
       },
       "Current Event Exorcism": {
-        "total": 9,
+        "total": 8,
         "isDouble": false
       },
       "Exorcism": {
@@ -5724,7 +5728,7 @@
         "isDouble": false
       },
       "Night Terror Exorcism": {
-        "total": 9,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -5882,7 +5886,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 3,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -6052,7 +6056,7 @@
         "isDouble": false
       },
       "Woodland Warrior Pumpkin Bombs": {
-        "total": 8,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -6456,7 +6460,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Hat With No Name",
+    "name": "Spectral Spectrum Hat with No Name",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -7356,7 +7360,7 @@
     }
   },
   {
-    "name": "Voices from Below Clubsy The Seal",
+    "name": "Voices from Below Clubsy the Seal",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -7514,7 +7518,7 @@
     }
   },
   {
-    "name": "Voices from Below Das Ubersternmann",
+    "name": "Voices from Below Das Übersternmann",
     "category": "allpostlife",
     "groupings": [
       "all",

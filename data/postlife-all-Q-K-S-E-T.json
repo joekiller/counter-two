@@ -889,7 +889,7 @@
       "single"
     ],
     "combinations": {
-      "Cool Exorcism": {
+      "Cool - Backwoods Boomstick Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -2140,7 +2140,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       }
     }
@@ -2238,7 +2238,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 3,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -2454,7 +2454,7 @@
     }
   },
   {
-    "name": "Frostbite Unusual Spectral Spectrum Hat With No Name",
+    "name": "Frostbite Unusual Spectral Spectrum Hat with No Name",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -2482,7 +2482,7 @@
     }
   },
   {
-    "name": "Frostbite Unusual Voices from Below Das Ubersternmann",
+    "name": "Frostbite Unusual Voices from Below Das Übersternmann",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -2686,7 +2686,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -3100,7 +3100,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 4,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -3736,6 +3736,20 @@
     }
   },
   {
+    "name": "Professional Killstreak Exorcism Festive Backburner",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Professional Killstreak Exorcism Festive Shotgun",
     "category": "allpostlife",
     "groupings": [
@@ -3758,7 +3772,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -3788,6 +3802,20 @@
       "Exorcism": {
         "total": 1,
         "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Professional Killstreak Halloween Fire Exorcism Festive Backburner",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Halloween Fire Exorcism": {
+        "total": 1,
+        "isDouble": true
       }
     }
   },
@@ -5332,6 +5360,20 @@
     }
   },
   {
+    "name": "Specialized Killstreak Exorcism Festive Shotgun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Specialized Killstreak Exorcism Iron Bomber",
     "category": "allpostlife",
     "groupings": [
@@ -5354,7 +5396,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -5998,7 +6040,7 @@
     ],
     "combinations": {
       "Aqua Marine Pumpkin Bombs Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -6320,7 +6362,7 @@
     ],
     "combinations": {
       "Carpet Bomber Pumpkin Bombs Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -6334,7 +6376,7 @@
     ],
     "combinations": {
       "Carpet Bomber Pumpkin Bombs Exorcism": {
-        "total": 3,
+        "total": 4,
         "isDouble": true
       }
     }
@@ -6740,7 +6782,21 @@
     ],
     "combinations": {
       "Citizen Pain Exorcism": {
-        "total": 2,
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Strange Citizen Pain Killstreak Exorcism Minigun",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Citizen Pain Exorcism": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -6782,7 +6838,7 @@
     ],
     "combinations": {
       "Current Event Exorcism": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -6796,7 +6852,7 @@
     ],
     "combinations": {
       "Current Event Exorcism": {
-        "total": 4,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -8096,7 +8152,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 6,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -8208,7 +8264,7 @@
     ],
     "combinations": {
       "King of the Jungle Exorcism": {
-        "total": 5,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -8222,7 +8278,7 @@
     ],
     "combinations": {
       "King of the Jungle Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -8446,7 +8502,7 @@
     ],
     "combinations": {
       "Night Terror Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -8474,7 +8530,7 @@
     ],
     "combinations": {
       "Night Terror Exorcism": {
-        "total": 6,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -8726,7 +8782,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 26,
+        "total": 29,
         "isDouble": false
       }
     }
@@ -8916,7 +8972,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 19,
+        "total": 20,
         "isDouble": false
       }
     }
@@ -9938,7 +9994,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 6,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -10026,7 +10082,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 3,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -10760,7 +10816,7 @@
     }
   },
   {
-    "name": "Strange Voices from Below Clubsy The Seal",
+    "name": "Strange Voices from Below Clubsy the Seal",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -11342,7 +11398,7 @@
     ],
     "combinations": {
       "Woodland Warrior Pumpkin Bombs Exorcism": {
-        "total": 3,
+        "total": 4,
         "isDouble": true
       }
     }
@@ -11356,7 +11412,7 @@
     ],
     "combinations": {
       "Woodland Warrior Pumpkin Bombs": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -11398,7 +11454,7 @@
     ],
     "combinations": {
       "Woodland Warrior Pumpkin Bombs": {
-        "total": 4,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -12182,7 +12238,7 @@
     ],
     "combinations": {
       "Woodland Warrior Pumpkin Bombs": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       }
     }
@@ -12196,6 +12252,20 @@
     ],
     "combinations": {
       "Woodland Warrior Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Woodland Warrior Professional Killstreak Pumpkin Bombs Rocket Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Woodland Warrior Pumpkin Bombs": {
         "total": 1,
         "isDouble": false
       }

@@ -1,6 +1,6 @@
 const { version } = require('./package.json');
 const lastUpdatedAt =  new Date().toString();
-const countUpdatedAt = 1721865600;
+const countUpdatedAt = 1755758280;
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {

@@ -577,7 +577,7 @@
     }
   },
   {
-    "name": "Clubsy The Seal",
+    "name": "Clubsy the Seal",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -934,7 +934,7 @@
     }
   },
   {
-    "name": "Das Ubersternmann",
+    "name": "Das Übersternmann",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -1564,7 +1564,7 @@
     }
   },
   {
-    "name": "Hat With No Name",
+    "name": "Hat with No Name",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -2165,7 +2165,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -2568,7 +2568,7 @@
         "isDouble": false
       },
       "Aqua Marine Pumpkin Bombs Exorcism": {
-        "total": 4,
+        "total": 5,
         "isDouble": true
       },
       "Cool - Aqua Marine Pumpkin Bombs": {
@@ -2668,7 +2668,7 @@
         "isDouble": false
       },
       "Woodland Warrior Pumpkin Bombs Exorcism": {
-        "total": 7,
+        "total": 8,
         "isDouble": true
       }
     }
@@ -2931,14 +2931,10 @@
         "isDouble": false
       },
       "Cool - Backwoods Boomstick Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Cool - Lightning Rod Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool Exorcism": {
         "total": 1,
         "isDouble": false
       },

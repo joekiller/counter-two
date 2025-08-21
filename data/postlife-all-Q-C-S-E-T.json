@@ -796,14 +796,10 @@
     ],
     "combinations": {
       "Cool - Backwoods Boomstick Exorcism": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Cool - Lightning Rod Exorcism": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Cool Exorcism": {
         "total": 1,
         "isDouble": false
       }
@@ -1942,7 +1938,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -2116,7 +2112,7 @@
     }
   },
   {
-    "name": "Frostbite Unusual Spectral Spectrum Hat With No Name",
+    "name": "Frostbite Unusual Spectral Spectrum Hat with No Name",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -2172,7 +2168,7 @@
     }
   },
   {
-    "name": "Frostbite Unusual Voices from Below Das Ubersternmann",
+    "name": "Frostbite Unusual Voices from Below Das Übersternmann",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -5030,7 +5026,7 @@
     ],
     "combinations": {
       "Aqua Marine Pumpkin Bombs Exorcism": {
-        "total": 4,
+        "total": 5,
         "isDouble": true
       }
     }
@@ -8470,7 +8466,7 @@
     }
   },
   {
-    "name": "Strange Voices from Below Clubsy The Seal",
+    "name": "Strange Voices from Below Clubsy the Seal",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -9010,7 +9006,7 @@
     ],
     "combinations": {
       "Woodland Warrior Pumpkin Bombs Exorcism": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       }
     }
