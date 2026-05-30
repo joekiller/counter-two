@@ -8,7 +8,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 200,
+        "total": 201,
         "isDouble": false
       }
     }
@@ -22,7 +22,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 170,
+        "total": 171,
         "isDouble": false
       }
     }
@@ -36,7 +36,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 80,
+        "total": 81,
         "isDouble": false
       }
     }
@@ -50,7 +50,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 188,
+        "total": 189,
         "isDouble": false
       }
     }
@@ -84,7 +84,7 @@
     }
   },
   {
-    "name": "Australium Exorcism Force-A-Nature",
+    "name": "Australium Exorcism Force-a-Nature",
     "category": "all",
     "groupings": [
       "all",
@@ -134,7 +134,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 253,
+        "total": 254,
         "isDouble": false
       }
     }
@@ -148,7 +148,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 293,
+        "total": 294,
         "isDouble": false
       }
     }
@@ -190,7 +190,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 347,
+        "total": 348,
         "isDouble": false
       }
     }
@@ -204,7 +204,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 295,
+        "total": 296,
         "isDouble": false
       }
     }
@@ -330,7 +330,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 339,
+        "total": 340,
         "isDouble": true
       }
     }
@@ -386,7 +386,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 162,
+        "total": 163,
         "isDouble": false
       }
     }
@@ -400,7 +400,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 94,
+        "total": 95,
         "isDouble": false
       }
     }
@@ -414,7 +414,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 250,
+        "total": 251,
         "isDouble": false
       }
     }
@@ -1662,6 +1662,10 @@
         "isDouble": false
       },
       "Cloud 9 Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Green Black Hole Bruised Purple Footprints": {
         "total": 1,
         "isDouble": false
       },
@@ -3284,7 +3288,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 29,
+        "total": 30,
         "isDouble": false
       }
     }
@@ -3838,7 +3842,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -5132,7 +5136,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -5401,6 +5405,20 @@
     "combinations": {
       "Bruised Purple Footprints": {
         "total": 3,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Bruised Purple Footprints Janissary Ketche",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Anti-Freeze Bruised Purple Footprints": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -6746,7 +6764,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       },
       "Circling Peace Sign Bruised Purple Footprints": {
@@ -7222,7 +7240,7 @@
         "isDouble": false
       },
       "Purple Energy Bruised Purple Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Smoking Bruised Purple Footprints": {
@@ -8374,6 +8392,10 @@
       "Darkblaze Bruised Purple Footprints": {
         "total": 1,
         "isDouble": false
+      },
+      "Miami Nights Bruised Purple Footprints": {
+        "total": 1,
+        "isDouble": false
       }
     }
   },
@@ -8558,7 +8580,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -8786,7 +8808,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -8883,20 +8905,6 @@
       },
       "Cloud 9 Bruised Purple Footprints": {
         "total": 2,
-        "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Bruised Purple Footprints Swagman's Swatter",
-    "category": "all",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Searing Plasma Bruised Purple Footprints": {
-        "total": 1,
         "isDouble": false
       }
     }
@@ -9192,7 +9200,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       },
       "Cloud 9 Bruised Purple Footprints": {
@@ -9658,7 +9666,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       },
       "Purple Energy Bruised Purple Footprints": {
@@ -9970,7 +9978,7 @@
     }
   },
   {
-    "name": "Bruised Purple Footprints Vive La France",
+    "name": "Bruised Purple Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -11338,7 +11346,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -12239,10 +12247,6 @@
       "double"
     ],
     "combinations": {
-      "Anti-Freeze Bruised Purple Footprints Voices from Below": {
-        "total": 1,
-        "isDouble": true
-      },
       "Orbiting Fire Bruised Purple Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -13092,20 +13096,6 @@
     }
   },
   {
-    "name": "Bruised Purple Footprints Voices from Below Prancer's Pride",
-    "category": "all",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Purple Energy Bruised Purple Footprints Voices from Below": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
     "name": "Bruised Purple Footprints Voices from Below Prince Tavish's Crown",
     "category": "all",
     "groupings": [
@@ -13840,7 +13830,7 @@
     }
   },
   {
-    "name": "Bruised Purple Footprints Voices from Below Vive La France",
+    "name": "Bruised Purple Footprints Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -14548,7 +14538,7 @@
     ],
     "combinations": {
       "Bruised Purple Footprints": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       }
     }
@@ -14859,6 +14849,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Orbiting Planets Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
       "Purple Confetti Chromatic Corruption": {
         "total": 1,
         "isDouble": false
@@ -14878,7 +14872,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 103,
+        "total": 104,
         "isDouble": false
       }
     }
@@ -15018,7 +15012,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 64,
+        "total": 65,
         "isDouble": false
       }
     }
@@ -15160,7 +15154,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 98,
+        "total": 100,
         "isDouble": false
       }
     }
@@ -15474,7 +15468,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 179,
+        "total": 180,
         "isDouble": false
       }
     }
@@ -15568,7 +15562,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 128,
+        "total": 129,
         "isDouble": false
       },
       "Circling Heart Chromatic Corruption": {
@@ -17488,7 +17482,7 @@
         "isDouble": true
       },
       "Stormy 13th Hour Chromatic Corruption Bruised Purple Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -18740,7 +18734,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Bruised Purple Footprints": {
-        "total": 4,
+        "total": 5,
         "isDouble": true
       },
       "Darkblaze Chromatic Corruption Bruised Purple Footprints": {
@@ -20274,7 +20268,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 80,
+        "total": 81,
         "isDouble": false
       }
     }
@@ -20288,7 +20282,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 107,
+        "total": 108,
         "isDouble": false
       },
       "Dead Presidents Chromatic Corruption": {
@@ -22524,7 +22518,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 335,
+        "total": 336,
         "isDouble": false
       },
       "Massed Flies Chromatic Corruption": {
@@ -22592,7 +22586,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 91,
+        "total": 92,
         "isDouble": false
       }
     }
@@ -22839,6 +22833,10 @@
       "single"
     ],
     "combinations": {
+      "Bubbling Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
       "Burning Flames Chromatic Corruption": {
         "total": 1,
         "isDouble": false
@@ -23026,7 +23024,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 84,
+        "total": 85,
         "isDouble": false
       }
     }
@@ -23318,7 +23316,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 100,
+        "total": 101,
         "isDouble": false
       }
     }
@@ -23430,7 +23428,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 88,
+        "total": 89,
         "isDouble": false
       },
       "Circling TF Logo Chromatic Corruption": {
@@ -23465,6 +23463,10 @@
       },
       "Chromatic Corruption": {
         "total": 83,
+        "isDouble": false
+      },
+      "Orbiting Fire Chromatic Corruption": {
+        "total": 1,
         "isDouble": false
       },
       "Power Surge Chromatic Corruption": {
@@ -23978,7 +23980,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 108,
+        "total": 109,
         "isDouble": false
       }
     }
@@ -26080,7 +26082,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 201,
+        "total": 202,
         "isDouble": false
       }
     }
@@ -27246,7 +27248,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Headless Horseshoes": {
-        "total": 11,
+        "total": 12,
         "isDouble": true
       }
     }
@@ -27591,6 +27593,10 @@
         "total": 1,
         "isDouble": true
       },
+      "It's a Secret to Everybody Chromatic Corruption Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      },
       "Purple Confetti Chromatic Corruption Headless Horseshoes": {
         "total": 1,
         "isDouble": true
@@ -27668,7 +27674,7 @@
         "isDouble": true
       },
       "Chromatic Corruption Headless Horseshoes": {
-        "total": 57,
+        "total": 58,
         "isDouble": true
       },
       "Darkblaze Chromatic Corruption Headless Horseshoes": {
@@ -30849,6 +30855,10 @@
         "total": 4,
         "isDouble": true
       },
+      "Eerie Orbiting Fire Chromatic Corruption Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      },
       "Purple Energy Chromatic Corruption Headless Horseshoes": {
         "total": 1,
         "isDouble": true
@@ -30936,7 +30946,7 @@
     }
   },
   {
-    "name": "Chromatic Corruption Headless Horseshoes Vive La France",
+    "name": "Chromatic Corruption Headless Horseshoes Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -31138,7 +31148,7 @@
         "isDouble": false
       },
       "Blizzardy Storm Chromatic Corruption": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Chromatic Corruption": {
@@ -31971,6 +31981,10 @@
         "total": 57,
         "isDouble": false
       },
+      "Eerie Orbiting Fire Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
       "Miami Nights Chromatic Corruption": {
         "total": 1,
         "isDouble": false
@@ -32064,7 +32078,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       }
     }
@@ -32461,6 +32475,10 @@
       "single"
     ],
     "combinations": {
+      "Bubbling Chromatic Corruption": {
+        "total": 1,
+        "isDouble": false
+      },
       "Chromatic Corruption": {
         "total": 11,
         "isDouble": false
@@ -33020,7 +33038,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 68,
+        "total": 69,
         "isDouble": false
       }
     }
@@ -33108,7 +33126,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 91,
+        "total": 92,
         "isDouble": false
       }
     }
@@ -33558,7 +33576,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 102,
+        "total": 103,
         "isDouble": false
       }
     }
@@ -34040,7 +34058,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       },
       "Cloud 9 Chromatic Corruption": {
@@ -34628,7 +34646,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 18,
+        "total": 19,
         "isDouble": false
       },
       "Eerie Orbiting Fire Chromatic Corruption": {
@@ -35224,7 +35242,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Rotten Orange Footprints": {
-        "total": 12,
+        "total": 13,
         "isDouble": true
       }
     }
@@ -35386,7 +35404,7 @@
         "isDouble": true
       },
       "Orbiting Fire Chromatic Corruption Rotten Orange Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -37122,7 +37140,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 14,
+        "total": 15,
         "isDouble": false
       }
     }
@@ -37396,7 +37414,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -37690,7 +37708,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 22,
+        "total": 23,
         "isDouble": false
       },
       "Dead Presidents Chromatic Corruption": {
@@ -39226,7 +39244,7 @@
     }
   },
   {
-    "name": "Chromatic Corruption Team Spirit Footprints Vive La France",
+    "name": "Chromatic Corruption Team Spirit Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -39290,7 +39308,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       }
     }
@@ -39426,7 +39444,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 122,
+        "total": 123,
         "isDouble": false
       }
     }
@@ -39468,7 +39486,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 127,
+        "total": 128,
         "isDouble": false
       },
       "Cloud 9 Chromatic Corruption": {
@@ -39708,7 +39726,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       },
       "Miami Nights Chromatic Corruption": {
@@ -39800,7 +39818,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 113,
+        "total": 114,
         "isDouble": false
       }
     }
@@ -39914,7 +39932,7 @@
         "isDouble": false
       },
       "Stormy Storm Chromatic Corruption": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -40050,7 +40068,7 @@
         "isDouble": false
       },
       "Chromatic Corruption": {
-        "total": 69,
+        "total": 70,
         "isDouble": false
       },
       "Cloud 9 Chromatic Corruption": {
@@ -40279,10 +40297,6 @@
       },
       "Chromatic Corruption": {
         "total": 199,
-        "isDouble": false
-      },
-      "Eerie Orbiting Fire Chromatic Corruption": {
-        "total": 1,
         "isDouble": false
       },
       "Green Confetti Chromatic Corruption": {
@@ -41372,7 +41386,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Violent Violet Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       }
     }
@@ -41516,7 +41530,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Violent Violet Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       }
     }
@@ -41534,10 +41548,6 @@
         "isDouble": true
       },
       "Knifestorm Chromatic Corruption Violent Violet Footprints": {
-        "total": 1,
-        "isDouble": true
-      },
-      "Stormy 13th Hour Chromatic Corruption Violent Violet Footprints": {
         "total": 1,
         "isDouble": true
       }
@@ -43572,7 +43582,7 @@
     }
   },
   {
-    "name": "Chromatic Corruption Violent Violet Footprints Vive La France",
+    "name": "Chromatic Corruption Violent Violet Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -43764,7 +43774,7 @@
     }
   },
   {
-    "name": "Chromatic Corruption Vive La France",
+    "name": "Chromatic Corruption Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -43896,7 +43906,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Voices from Below": {
-        "total": 9,
+        "total": 10,
         "isDouble": true
       }
     }
@@ -44141,6 +44151,10 @@
       "double"
     ],
     "combinations": {
+      "Chiroptera Venenata Chromatic Corruption Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Kill-a-Watt Chromatic Corruption Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -44766,7 +44780,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Voices from Below": {
-        "total": 23,
+        "total": 24,
         "isDouble": true
       }
     }
@@ -47114,7 +47128,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Voices from Below": {
-        "total": 20,
+        "total": 19,
         "isDouble": true
       }
     }
@@ -50698,7 +50712,7 @@
     ],
     "combinations": {
       "Chromatic Corruption Voices from Below": {
-        "total": 8,
+        "total": 7,
         "isDouble": true
       }
     }
@@ -51260,7 +51274,7 @@
     }
   },
   {
-    "name": "Chromatic Corruption Voices from Below Vive La France",
+    "name": "Chromatic Corruption Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -51666,7 +51680,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 24,
+        "total": 25,
         "isDouble": false
       }
     }
@@ -51966,7 +51980,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 84,
+        "total": 85,
         "isDouble": false
       }
     }
@@ -53346,7 +53360,7 @@
     ],
     "combinations": {
       "Corpse Gray Footprints": {
-        "total": 44,
+        "total": 45,
         "isDouble": false
       }
     }
@@ -54634,7 +54648,7 @@
         "isDouble": false
       },
       "Corpse Gray Footprints": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       },
       "Green Energy Corpse Gray Footprints": {
@@ -56236,6 +56250,20 @@
     }
   },
   {
+    "name": "Corpse Gray Footprints HazMat Headcase",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Corpse Gray Footprints Head Hunter",
     "category": "all",
     "groupings": [
@@ -56585,6 +56613,20 @@
     "combinations": {
       "Corpse Gray Footprints": {
         "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Corpse Gray Footprints Horned Honcho",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Corpse Gray Footprints": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -58161,6 +58203,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Knifestorm Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Orbiting Fire Corpse Gray Footprints": {
         "total": 1,
         "isDouble": false
@@ -58811,6 +58857,20 @@
   },
   {
     "name": "Corpse Gray Footprints Pomade Prince",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Corpse Gray Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Corpse Gray Footprints Pop-Eyes",
     "category": "all",
     "groupings": [
       "all",
@@ -59924,20 +59984,6 @@
     }
   },
   {
-    "name": "Corpse Gray Footprints Soldered Sensei",
-    "category": "all",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Smoking Corpse Gray Footprints": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Corpse Gray Footprints Soldier's Slope Scopers",
     "category": "all",
     "groupings": [
@@ -60061,6 +60107,20 @@
     "combinations": {
       "Corpse Gray Footprints": {
         "total": 4,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Corpse Gray Footprints Soviet Gentleman",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Aces High Corpse Gray Footprints": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -61138,7 +61198,7 @@
         "isDouble": false
       },
       "Corpse Gray Footprints": {
-        "total": 19,
+        "total": 20,
         "isDouble": false
       },
       "Haunted Ghosts Corpse Gray Footprints": {
@@ -61422,7 +61482,7 @@
     }
   },
   {
-    "name": "Corpse Gray Footprints Vive La France",
+    "name": "Corpse Gray Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -63256,6 +63316,10 @@
         "isDouble": true
       },
       "Green Black Hole Corpse Gray Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Miami Nights Corpse Gray Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
       },
@@ -66110,7 +66174,7 @@
     ],
     "combinations": {
       "Corpse Gray Footprints Voices from Below": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       }
     }
@@ -67526,7 +67590,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 199,
+        "total": 200,
         "isDouble": false
       }
     }
@@ -67608,7 +67672,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 144,
+        "total": 145,
         "isDouble": false
       }
     }
@@ -68112,7 +68176,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 142,
+        "total": 143,
         "isDouble": false
       }
     }
@@ -68332,7 +68396,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       }
     }
@@ -69358,7 +69422,7 @@
     ],
     "combinations": {
       "Die Job Bruised Purple Footprints": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -70672,7 +70736,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 22,
+        "total": 23,
         "isDouble": false
       }
     }
@@ -70826,7 +70890,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 75,
+        "total": 76,
         "isDouble": false
       }
     }
@@ -70852,6 +70916,10 @@
         "isDouble": false
       },
       "Haunted Ghosts Die Job": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Kill-a-Watt Die Job": {
         "total": 1,
         "isDouble": false
       },
@@ -71000,7 +71068,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 61,
+        "total": 62,
         "isDouble": false
       },
       "Electrostatic Die Job": {
@@ -72063,20 +72131,6 @@
     "combinations": {
       "Die Job Corpse Gray Footprints": {
         "total": 4,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Die Job Corpse Gray Footprints Heavy Duty Rag",
-    "category": "all",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Blizzardy Storm Die Job Corpse Gray Footprints": {
-        "total": 1,
         "isDouble": true
       }
     }
@@ -73222,6 +73276,20 @@
     }
   },
   {
+    "name": "Die Job Courtier's Collar",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Die Job Couvre Corner",
     "category": "all",
     "groupings": [
@@ -73704,7 +73772,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 84,
+        "total": 85,
         "isDouble": false
       }
     }
@@ -73814,7 +73882,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 123,
+        "total": 124,
         "isDouble": false
       }
     }
@@ -74068,7 +74136,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 128,
+        "total": 129,
         "isDouble": false
       }
     }
@@ -77171,6 +77239,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Orbiting Fire Die Job": {
+        "total": 1,
+        "isDouble": false
+      },
       "Steaming Die Job": {
         "total": 1,
         "isDouble": false
@@ -77250,7 +77322,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 306,
+        "total": 307,
         "isDouble": false
       }
     }
@@ -77366,7 +77438,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -77436,7 +77508,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 161,
+        "total": 163,
         "isDouble": false
       }
     }
@@ -77890,7 +77962,7 @@
     ],
     "combinations": {
       "Die Job Headless Horseshoes": {
-        "total": 3,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -78296,7 +78368,7 @@
     ],
     "combinations": {
       "Die Job Headless Horseshoes": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -78898,7 +78970,7 @@
     }
   },
   {
-    "name": "Die Job Headless Horseshoes Vive La France",
+    "name": "Die Job Headless Horseshoes Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -79166,7 +79238,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 31,
+        "total": 32,
         "isDouble": false
       }
     }
@@ -79948,7 +80020,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 27,
+        "total": 28,
         "isDouble": false
       }
     }
@@ -80130,7 +80202,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 80,
+        "total": 81,
         "isDouble": false
       }
     }
@@ -80292,7 +80364,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 44,
+        "total": 45,
         "isDouble": false
       }
     }
@@ -80390,7 +80462,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       }
     }
@@ -80684,7 +80756,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 12,
+        "total": 13,
         "isDouble": false
       }
     }
@@ -81192,7 +81264,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       }
     }
@@ -82246,6 +82318,20 @@
     ],
     "combinations": {
       "Die Job Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Die Job Rotten Orange Footprints Buckaroo's Hat",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Burning Flames Die Job Rotten Orange Footprints": {
         "total": 1,
         "isDouble": true
       }
@@ -83384,7 +83470,7 @@
     }
   },
   {
-    "name": "Die Job Rotten Orange Footprints Vive La France",
+    "name": "Die Job Rotten Orange Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -83448,7 +83534,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       }
     }
@@ -83518,7 +83604,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       }
     }
@@ -83932,7 +84018,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 83,
+        "total": 84,
         "isDouble": false
       }
     }
@@ -84308,7 +84394,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       }
     }
@@ -84562,7 +84648,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 154,
+        "total": 155,
         "isDouble": false
       }
     }
@@ -85940,7 +86026,7 @@
     }
   },
   {
-    "name": "Die Job Team Spirit Footprints Vive La France",
+    "name": "Die Job Team Spirit Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -86178,7 +86264,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       }
     }
@@ -86512,7 +86598,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -86590,7 +86676,7 @@
         "isDouble": false
       },
       "Die Job": {
-        "total": 57,
+        "total": 58,
         "isDouble": false
       },
       "Nuts n' Bolts Die Job": {
@@ -86898,7 +86984,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 108,
+        "total": 109,
         "isDouble": false
       }
     }
@@ -88198,7 +88284,7 @@
     }
   },
   {
-    "name": "Die Job Vive La France",
+    "name": "Die Job Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -88610,7 +88696,7 @@
     ],
     "combinations": {
       "Die Job Voices from Below": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -90419,6 +90505,10 @@
     "combinations": {
       "Die Job Voices from Below": {
         "total": 5,
+        "isDouble": true
+      },
+      "Scorching Flames Die Job Voices from Below": {
+        "total": 1,
         "isDouble": true
       }
     }
@@ -93106,7 +93196,7 @@
     ],
     "combinations": {
       "Die Job Voices from Below": {
-        "total": 14,
+        "total": 13,
         "isDouble": true
       }
     }
@@ -93334,7 +93424,7 @@
     ],
     "combinations": {
       "Die Job Voices from Below": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       }
     }
@@ -94774,7 +94864,7 @@
     }
   },
   {
-    "name": "Die Job Voices from Below Vive La France",
+    "name": "Die Job Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -94976,7 +95066,7 @@
     ],
     "combinations": {
       "Die Job Voices from Below": {
-        "total": 17,
+        "total": 16,
         "isDouble": true
       }
     }
@@ -95082,7 +95172,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 19,
+        "total": 20,
         "isDouble": false
       },
       "Orbiting Fire Die Job": {
@@ -95374,7 +95464,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 134,
+        "total": 135,
         "isDouble": false
       }
     }
@@ -95510,7 +95600,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2898,
+        "total": 2906,
         "isDouble": false
       }
     }
@@ -95524,7 +95614,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 347,
+        "total": 348,
         "isDouble": false
       }
     }
@@ -95538,7 +95628,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1964,
+        "total": 1968,
         "isDouble": false
       }
     }
@@ -95552,7 +95642,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 455,
+        "total": 457,
         "isDouble": false
       }
     }
@@ -95566,7 +95656,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 274,
+        "total": 275,
         "isDouble": false
       }
     }
@@ -95594,7 +95684,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 981,
+        "total": 983,
         "isDouble": false
       }
     }
@@ -95608,7 +95698,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2597,
+        "total": 2604,
         "isDouble": false
       }
     }
@@ -95622,7 +95712,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 496,
+        "total": 497,
         "isDouble": false
       }
     }
@@ -95650,7 +95740,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1331,
+        "total": 1334,
         "isDouble": false
       }
     }
@@ -95664,7 +95754,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 494,
+        "total": 495,
         "isDouble": false
       }
     }
@@ -95678,7 +95768,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1250,
+        "total": 1254,
         "isDouble": false
       }
     }
@@ -95720,7 +95810,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 846,
+        "total": 847,
         "isDouble": false
       }
     }
@@ -95734,7 +95824,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 565,
+        "total": 566,
         "isDouble": false
       }
     }
@@ -95762,7 +95852,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2563,
+        "total": 2571,
         "isDouble": false
       }
     }
@@ -95804,7 +95894,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 84,
+        "total": 85,
         "isDouble": false
       }
     }
@@ -95846,7 +95936,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 152,
+        "total": 153,
         "isDouble": false
       }
     }
@@ -95888,7 +95978,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -95958,7 +96048,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1053,
+        "total": 1059,
         "isDouble": false
       }
     }
@@ -95972,7 +96062,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 480,
+        "total": 483,
         "isDouble": false
       }
     }
@@ -95986,7 +96076,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 899,
+        "total": 900,
         "isDouble": false
       }
     }
@@ -96028,7 +96118,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 286,
+        "total": 288,
         "isDouble": false
       }
     }
@@ -96056,7 +96146,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 594,
+        "total": 595,
         "isDouble": false
       }
     }
@@ -96070,7 +96160,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 515,
+        "total": 516,
         "isDouble": false
       }
     }
@@ -96084,7 +96174,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 958,
+        "total": 963,
         "isDouble": false
       }
     }
@@ -96126,7 +96216,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 85,
+        "total": 86,
         "isDouble": false
       }
     }
@@ -96140,7 +96230,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 338,
+        "total": 340,
         "isDouble": false
       }
     }
@@ -96182,7 +96272,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 320,
+        "total": 323,
         "isDouble": false
       }
     }
@@ -96196,7 +96286,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 787,
+        "total": 788,
         "isDouble": false
       }
     }
@@ -96210,7 +96300,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1778,
+        "total": 1779,
         "isDouble": false
       }
     }
@@ -96224,7 +96314,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 429,
+        "total": 431,
         "isDouble": false
       }
     }
@@ -96252,7 +96342,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1406,
+        "total": 1409,
         "isDouble": false
       }
     }
@@ -96266,7 +96356,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2637,
+        "total": 2640,
         "isDouble": false
       }
     }
@@ -96280,7 +96370,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 538,
+        "total": 539,
         "isDouble": false
       }
     }
@@ -96336,7 +96426,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 69,
+        "total": 70,
         "isDouble": false
       }
     }
@@ -96420,7 +96510,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 948,
+        "total": 950,
         "isDouble": false
       }
     }
@@ -96434,7 +96524,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 669,
+        "total": 671,
         "isDouble": false
       }
     }
@@ -96448,7 +96538,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 953,
+        "total": 955,
         "isDouble": false
       }
     }
@@ -96462,7 +96552,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 360,
+        "total": 361,
         "isDouble": false
       }
     }
@@ -96504,7 +96594,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 163,
+        "total": 164,
         "isDouble": false
       }
     }
@@ -96518,7 +96608,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2005,
+        "total": 2010,
         "isDouble": false
       }
     }
@@ -96546,7 +96636,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 296,
+        "total": 297,
         "isDouble": false
       }
     }
@@ -96560,7 +96650,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 842,
+        "total": 843,
         "isDouble": false
       }
     }
@@ -96574,7 +96664,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 509,
+        "total": 510,
         "isDouble": false
       }
     }
@@ -96616,7 +96706,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 570,
+        "total": 573,
         "isDouble": false
       }
     }
@@ -96658,7 +96748,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 890,
+        "total": 892,
         "isDouble": false
       }
     }
@@ -96672,7 +96762,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 729,
+        "total": 731,
         "isDouble": false
       }
     }
@@ -96686,7 +96776,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 174,
+        "total": 175,
         "isDouble": false
       }
     }
@@ -96700,13 +96790,13 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 683,
+        "total": 685,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Exorcism Festive Force-A-Nature",
+    "name": "Exorcism Festive Force-a-Nature",
     "category": "all",
     "groupings": [
       "all",
@@ -96728,7 +96818,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 581,
+        "total": 583,
         "isDouble": false
       }
     }
@@ -96756,7 +96846,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 522,
+        "total": 526,
         "isDouble": false
       }
     }
@@ -96784,7 +96874,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1037,
+        "total": 1043,
         "isDouble": false
       }
     }
@@ -96798,7 +96888,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 585,
+        "total": 586,
         "isDouble": false
       }
     }
@@ -96812,7 +96902,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 625,
+        "total": 626,
         "isDouble": false
       }
     }
@@ -96840,7 +96930,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 378,
+        "total": 377,
         "isDouble": false
       }
     }
@@ -96868,7 +96958,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 856,
+        "total": 860,
         "isDouble": false
       }
     }
@@ -96896,7 +96986,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 682,
+        "total": 685,
         "isDouble": false
       }
     }
@@ -96910,7 +97000,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 198,
+        "total": 196,
         "isDouble": false
       }
     }
@@ -96924,7 +97014,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 465,
+        "total": 466,
         "isDouble": false
       }
     }
@@ -96938,7 +97028,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 63,
+        "total": 62,
         "isDouble": false
       }
     }
@@ -96966,7 +97056,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 269,
+        "total": 270,
         "isDouble": false
       }
     }
@@ -97024,7 +97114,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 1926,
+        "total": 1936,
         "isDouble": false
       },
       "Flash Fryer Exorcism": {
@@ -97062,7 +97152,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1584,
+        "total": 1588,
         "isDouble": false
       }
     }
@@ -97076,13 +97166,13 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1219,
+        "total": 1221,
         "isDouble": false
       }
     }
   },
   {
-    "name": "Exorcism Force-A-Nature",
+    "name": "Exorcism Force-a-Nature",
     "category": "all",
     "groupings": [
       "all",
@@ -97090,7 +97180,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2802,
+        "total": 2803,
         "isDouble": false
       }
     }
@@ -97104,7 +97194,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1442,
+        "total": 1443,
         "isDouble": false
       }
     }
@@ -97132,7 +97222,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 962,
+        "total": 965,
         "isDouble": false
       }
     }
@@ -97146,7 +97236,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 4040,
+        "total": 4047,
         "isDouble": false
       }
     }
@@ -97202,7 +97292,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 44,
+        "total": 45,
         "isDouble": false
       }
     }
@@ -97216,7 +97306,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 91,
+        "total": 92,
         "isDouble": false
       }
     }
@@ -97272,7 +97362,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 94,
+        "total": 95,
         "isDouble": false
       }
     }
@@ -97342,7 +97432,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 115,
+        "total": 116,
         "isDouble": false
       }
     }
@@ -97398,7 +97488,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 14,
+        "total": 15,
         "isDouble": false
       }
     }
@@ -97426,7 +97516,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1720,
+        "total": 1724,
         "isDouble": false
       }
     }
@@ -97454,7 +97544,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1174,
+        "total": 1177,
         "isDouble": false
       }
     }
@@ -97468,7 +97558,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1498,
+        "total": 1500,
         "isDouble": false
       }
     }
@@ -97482,7 +97572,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1824,
+        "total": 1827,
         "isDouble": false
       }
     }
@@ -97496,7 +97586,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 578,
+        "total": 580,
         "isDouble": false
       }
     }
@@ -97538,7 +97628,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 507,
+        "total": 510,
         "isDouble": false
       }
     }
@@ -97552,7 +97642,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1984,
+        "total": 1993,
         "isDouble": false
       }
     }
@@ -97566,7 +97656,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1655,
+        "total": 1663,
         "isDouble": false
       }
     }
@@ -97594,7 +97684,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 286,
+        "total": 288,
         "isDouble": false
       }
     }
@@ -97622,7 +97712,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2826,
+        "total": 2830,
         "isDouble": false
       }
     }
@@ -97636,7 +97726,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 685,
+        "total": 688,
         "isDouble": false
       }
     }
@@ -97650,7 +97740,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 539,
+        "total": 541,
         "isDouble": false
       }
     }
@@ -97664,7 +97754,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 578,
+        "total": 581,
         "isDouble": false
       }
     }
@@ -97678,7 +97768,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1143,
+        "total": 1144,
         "isDouble": false
       }
     }
@@ -97692,7 +97782,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 290,
+        "total": 292,
         "isDouble": false
       }
     }
@@ -97706,7 +97796,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 511,
+        "total": 516,
         "isDouble": false
       }
     }
@@ -97738,7 +97828,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1361,
+        "total": 1368,
         "isDouble": false
       }
     }
@@ -97752,7 +97842,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 271,
+        "total": 274,
         "isDouble": false
       }
     }
@@ -97766,7 +97856,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 369,
+        "total": 371,
         "isDouble": false
       }
     }
@@ -97780,7 +97870,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2496,
+        "total": 2504,
         "isDouble": false
       }
     }
@@ -97794,7 +97884,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 182,
+        "total": 183,
         "isDouble": false
       }
     }
@@ -97828,7 +97918,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 1438,
+        "total": 1440,
         "isDouble": false
       },
       "Hot - Brick House Exorcism": {
@@ -97866,7 +97956,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 834,
+        "total": 837,
         "isDouble": false
       }
     }
@@ -97880,7 +97970,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 455,
+        "total": 458,
         "isDouble": false
       }
     }
@@ -97908,7 +97998,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 326,
+        "total": 327,
         "isDouble": false
       }
     }
@@ -97922,7 +98012,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1484,
+        "total": 1489,
         "isDouble": false
       }
     }
@@ -97978,7 +98068,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1037,
+        "total": 1038,
         "isDouble": false
       }
     }
@@ -97992,7 +98082,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1512,
+        "total": 1518,
         "isDouble": false
       }
     }
@@ -98022,7 +98112,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 2225,
+        "total": 2231,
         "isDouble": false
       },
       "Homemade Heater Exorcism": {
@@ -98084,7 +98174,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1339,
+        "total": 1343,
         "isDouble": false
       }
     }
@@ -98098,7 +98188,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 525,
+        "total": 526,
         "isDouble": false
       }
     }
@@ -98126,7 +98216,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1242,
+        "total": 1249,
         "isDouble": false
       }
     }
@@ -98154,7 +98244,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1176,
+        "total": 1181,
         "isDouble": false
       }
     }
@@ -98172,7 +98262,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 1033,
+        "total": 1034,
         "isDouble": false
       },
       "Mayor Exorcism": {
@@ -98194,7 +98284,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 348,
+        "total": 349,
         "isDouble": false
       }
     }
@@ -98216,7 +98306,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 5109,
+        "total": 5122,
         "isDouble": false
       },
       "Isotope - Woodland Warrior Exorcism": {
@@ -98246,7 +98336,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 213,
+        "total": 214,
         "isDouble": false
       }
     }
@@ -98260,7 +98350,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 266,
+        "total": 267,
         "isDouble": false
       }
     }
@@ -98316,7 +98406,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 396,
+        "total": 397,
         "isDouble": false
       }
     }
@@ -98396,7 +98486,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 967,
+        "total": 971,
         "isDouble": false
       }
     }
@@ -98426,7 +98516,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 9345,
+        "total": 9371,
         "isDouble": false
       },
       "Night Terror Exorcism": {
@@ -98448,7 +98538,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 705,
+        "total": 710,
         "isDouble": false
       }
     }
@@ -98490,7 +98580,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 226,
+        "total": 228,
         "isDouble": false
       }
     }
@@ -98518,7 +98608,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1825,
+        "total": 1832,
         "isDouble": false
       }
     }
@@ -98532,7 +98622,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 281,
+        "total": 282,
         "isDouble": false
       }
     }
@@ -98574,7 +98664,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1282,
+        "total": 1286,
         "isDouble": false
       }
     }
@@ -98604,7 +98694,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 5393,
+        "total": 5407,
         "isDouble": false
       },
       "Hot - Backwoods Boomstick Exorcism": {
@@ -98670,7 +98760,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 283,
+        "total": 284,
         "isDouble": false
       }
     }
@@ -98684,7 +98774,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 273,
+        "total": 276,
         "isDouble": false
       }
     }
@@ -98698,7 +98788,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 405,
+        "total": 407,
         "isDouble": false
       }
     }
@@ -98712,7 +98802,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 427,
+        "total": 428,
         "isDouble": false
       }
     }
@@ -98754,7 +98844,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 516,
+        "total": 519,
         "isDouble": false
       }
     }
@@ -98768,7 +98858,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 673,
+        "total": 675,
         "isDouble": false
       }
     }
@@ -98782,7 +98872,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 781,
+        "total": 784,
         "isDouble": false
       }
     }
@@ -98838,7 +98928,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 168,
+        "total": 169,
         "isDouble": false
       }
     }
@@ -98892,7 +98982,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 4994,
+        "total": 5002,
         "isDouble": false
       },
       "Lumber From Down Under Exorcism": {
@@ -98926,7 +99016,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1857,
+        "total": 1865,
         "isDouble": false
       }
     }
@@ -98940,7 +99030,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 419,
+        "total": 420,
         "isDouble": false
       }
     }
@@ -99004,7 +99094,7 @@
         "isDouble": false
       },
       "Exorcism": {
-        "total": 1808,
+        "total": 1811,
         "isDouble": false
       },
       "Pink Elephant Exorcism": {
@@ -99040,7 +99130,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 949,
+        "total": 951,
         "isDouble": false
       }
     }
@@ -99082,7 +99172,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 448,
+        "total": 449,
         "isDouble": false
       }
     }
@@ -99110,7 +99200,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 1362,
+        "total": 1367,
         "isDouble": false
       }
     }
@@ -99124,7 +99214,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 647,
+        "total": 649,
         "isDouble": false
       }
     }
@@ -99138,7 +99228,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 293,
+        "total": 295,
         "isDouble": false
       }
     }
@@ -99152,7 +99242,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 251,
+        "total": 253,
         "isDouble": false
       }
     }
@@ -99208,7 +99298,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 681,
+        "total": 683,
         "isDouble": false
       }
     }
@@ -99222,7 +99312,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 230,
+        "total": 231,
         "isDouble": false
       }
     }
@@ -99250,7 +99340,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 274,
+        "total": 275,
         "isDouble": false
       }
     }
@@ -99264,7 +99354,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 180,
+        "total": 182,
         "isDouble": false
       }
     }
@@ -99278,7 +99368,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 916,
+        "total": 919,
         "isDouble": false
       }
     }
@@ -99402,7 +99492,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 14,
+        "total": 15,
         "isDouble": false
       }
     }
@@ -100066,6 +100156,20 @@
     }
   },
   {
+    "name": "Gangreen Footprints Big Country",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Terror-Watt Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Gangreen Footprints Big Daddy",
     "category": "all",
     "groupings": [
@@ -100286,7 +100390,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -101762,7 +101866,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       },
       "Steaming Gangreen Footprints": {
@@ -101780,7 +101884,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -102288,6 +102392,20 @@
     }
   },
   {
+    "name": "Gangreen Footprints Doe-Boy",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Gangreen Footprints Dogfighter",
     "category": "all",
     "groupings": [
@@ -102448,7 +102566,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 22,
+        "total": 21,
         "isDouble": false
       }
     }
@@ -103192,7 +103310,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       }
     }
@@ -103528,7 +103646,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 36,
+        "total": 37,
         "isDouble": false
       }
     }
@@ -104978,6 +105096,10 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Harvest Moon Gangreen Footprints": {
         "total": 1,
         "isDouble": false
       }
@@ -106585,10 +106707,6 @@
       "single"
     ],
     "combinations": {
-      "Circling Heart Gangreen Footprints": {
-        "total": 1,
-        "isDouble": false
-      },
       "Circling TF Logo Gangreen Footprints": {
         "total": 1,
         "isDouble": false
@@ -107552,7 +107670,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -109066,7 +109184,7 @@
     }
   },
   {
-    "name": "Gangreen Footprints Vive La France",
+    "name": "Gangreen Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -109298,6 +109416,10 @@
         "isDouble": true
       },
       "Misty Skull Gangreen Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Scorching Flames Gangreen Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
       },
@@ -113452,7 +113574,7 @@
     }
   },
   {
-    "name": "Gangreen Footprints Voices from Below Vive La France",
+    "name": "Gangreen Footprints Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -113840,7 +113962,7 @@
     ],
     "combinations": {
       "Gangreen Footprints": {
-        "total": 7,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -114037,6 +114159,20 @@
     "combinations": {
       "Gangreen Footprints": {
         "total": 5,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Gangreen Footprints Well-Rounded Rifleman",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Gangreen Footprints": {
+        "total": 1,
         "isDouble": false
       }
     }
@@ -114342,7 +114478,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 2028,
+        "total": 2037,
         "isDouble": false
       }
     }
@@ -114370,7 +114506,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 469,
+        "total": 472,
         "isDouble": false
       }
     }
@@ -114412,7 +114548,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 1134,
+        "total": 1136,
         "isDouble": true
       }
     }
@@ -114426,7 +114562,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 74,
+        "total": 75,
         "isDouble": true
       }
     }
@@ -114440,7 +114576,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 336,
+        "total": 337,
         "isDouble": true
       }
     }
@@ -114454,7 +114590,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 3553,
+        "total": 3555,
         "isDouble": true
       }
     }
@@ -114482,7 +114618,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 12,
+        "total": 13,
         "isDouble": true
       }
     }
@@ -114496,7 +114632,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 544,
+        "total": 543,
         "isDouble": true
       }
     }
@@ -114530,7 +114666,7 @@
         "isDouble": true
       },
       "Halloween Fire Exorcism": {
-        "total": 1554,
+        "total": 1559,
         "isDouble": true
       },
       "Hot - Turbine Torcher Halloween Fire Exorcism": {
@@ -114580,7 +114716,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 792,
+        "total": 793,
         "isDouble": true
       }
     }
@@ -114594,7 +114730,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 1335,
+        "total": 1340,
         "isDouble": true
       }
     }
@@ -114678,7 +114814,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 524,
+        "total": 528,
         "isDouble": false
       }
     }
@@ -114728,7 +114864,7 @@
         "isDouble": false
       },
       "Halloween Fire": {
-        "total": 2010,
+        "total": 2026,
         "isDouble": false
       },
       "Hot - Turbine Torcher Halloween Fire": {
@@ -114762,7 +114898,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 60,
+        "total": 62,
         "isDouble": false
       }
     }
@@ -114790,7 +114926,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 787,
+        "total": 793,
         "isDouble": false
       }
     }
@@ -114804,7 +114940,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 2485,
+        "total": 2494,
         "isDouble": false
       }
     }
@@ -114818,7 +114954,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 1271,
+        "total": 1289,
         "isDouble": false
       }
     }
@@ -114832,7 +114968,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 260,
+        "total": 265,
         "isDouble": false
       }
     }
@@ -114846,7 +114982,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 299,
+        "total": 303,
         "isDouble": false
       }
     }
@@ -114860,7 +114996,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 317,
+        "total": 321,
         "isDouble": false
       }
     }
@@ -114892,6 +115028,10 @@
         "isDouble": false
       },
       "Bubbling Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Circling Heart Headless Horseshoes": {
         "total": 1,
         "isDouble": false
       },
@@ -114996,7 +115136,7 @@
     ],
     "combinations": {
       "Headless Horseshoes": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -115010,7 +115150,7 @@
     ],
     "combinations": {
       "Headless Horseshoes": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       }
     }
@@ -115654,7 +115794,7 @@
     ],
     "combinations": {
       "Headless Horseshoes": {
-        "total": 97,
+        "total": 98,
         "isDouble": false
       }
     }
@@ -116925,10 +117065,6 @@
         "total": 2,
         "isDouble": false
       },
-      "It's a Secret to Everybody Headless Horseshoes": {
-        "total": 1,
-        "isDouble": false
-      },
       "Scorching Flames Headless Horseshoes": {
         "total": 1,
         "isDouble": false
@@ -117834,7 +117970,7 @@
     ],
     "combinations": {
       "Headless Horseshoes": {
-        "total": 35,
+        "total": 36,
         "isDouble": false
       }
     }
@@ -118924,7 +119060,7 @@
     ],
     "combinations": {
       "Headless Horseshoes": {
-        "total": 20,
+        "total": 21,
         "isDouble": false
       }
     }
@@ -120360,6 +120496,10 @@
       "Sunbeams Headless Horseshoes": {
         "total": 1,
         "isDouble": false
+      },
+      "Terror-Watt Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
       }
     }
   },
@@ -120856,7 +120996,7 @@
     ],
     "combinations": {
       "Headless Horseshoes": {
-        "total": 46,
+        "total": 48,
         "isDouble": false
       }
     }
@@ -123094,6 +123234,20 @@
     }
   },
   {
+    "name": "Headless Horseshoes Spectralnaut",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Headless Horseshoes Spellbinder's Bonnet",
     "category": "all",
     "groupings": [
@@ -123842,6 +123996,20 @@
     }
   },
   {
+    "name": "Headless Horseshoes Timeless Topper",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Electrostatic Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Headless Horseshoes Tin Pot",
     "category": "all",
     "groupings": [
@@ -124572,7 +124740,7 @@
     }
   },
   {
-    "name": "Headless Horseshoes Vive La France",
+    "name": "Headless Horseshoes Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -128698,7 +128866,7 @@
     }
   },
   {
-    "name": "Headless Horseshoes Voices from Below Vive La France",
+    "name": "Headless Horseshoes Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -131068,7 +131236,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 88,
+        "total": 89,
         "isDouble": false
       }
     }
@@ -131096,7 +131264,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 84,
+        "total": 85,
         "isDouble": false
       }
     }
@@ -131684,7 +131852,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 205,
+        "total": 206,
         "isDouble": false
       }
     }
@@ -132706,7 +132874,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 25,
+        "total": 26,
         "isDouble": false
       }
     }
@@ -132944,7 +133112,7 @@
     ],
     "combinations": {
       "Chromatic Corruption": {
-        "total": 23,
+        "total": 24,
         "isDouble": false
       }
     }
@@ -136906,7 +137074,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 177,
+        "total": 178,
         "isDouble": false
       }
     }
@@ -137032,7 +137200,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 115,
+        "total": 116,
         "isDouble": false
       }
     }
@@ -138040,7 +138208,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 80,
+        "total": 81,
         "isDouble": false
       }
     }
@@ -138404,7 +138572,7 @@
     ],
     "combinations": {
       "Die Job": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -138992,7 +139160,7 @@
     ],
     "combinations": {
       "Die Job Voices from Below": {
-        "total": 12,
+        "total": 11,
         "isDouble": true
       }
     }
@@ -139412,7 +139580,7 @@
     ],
     "combinations": {
       "Die Job Voices from Below": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -139566,7 +139734,7 @@
     ],
     "combinations": {
       "Die Job Voices from Below": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -139818,7 +139986,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 114,
+        "total": 115,
         "isDouble": false
       }
     }
@@ -139846,7 +140014,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 128,
+        "total": 131,
         "isDouble": false
       }
     }
@@ -139860,7 +140028,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 375,
+        "total": 376,
         "isDouble": false
       }
     }
@@ -140112,7 +140280,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 155,
+        "total": 157,
         "isDouble": false
       }
     }
@@ -140328,7 +140496,7 @@
     }
   },
   {
-    "name": "Non-Craftable Exorcism Force-A-Nature",
+    "name": "Non-Craftable Exorcism Force-a-Nature",
     "category": "all",
     "groupings": [
       "all",
@@ -140350,7 +140518,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 54,
+        "total": 55,
         "isDouble": false
       }
     }
@@ -140504,7 +140672,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 317,
+        "total": 319,
         "isDouble": false
       }
     }
@@ -140700,7 +140868,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 43,
+        "total": 45,
         "isDouble": false
       }
     }
@@ -141036,7 +141204,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 92,
+        "total": 94,
         "isDouble": false
       }
     }
@@ -141050,7 +141218,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 175,
+        "total": 176,
         "isDouble": false
       }
     }
@@ -141176,7 +141344,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 27,
+        "total": 28,
         "isDouble": false
       }
     }
@@ -141274,7 +141442,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       }
     }
@@ -141330,7 +141498,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 109,
+        "total": 111,
         "isDouble": false
       }
     }
@@ -142526,6 +142694,20 @@
     }
   },
   {
+    "name": "Non-Craftable Gangreen Footprints Voices from Below Spine-Chilling Skull",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Gangreen Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Non-Craftable Gangreen Footprints Voices from Below Summer Hat",
     "category": "all",
     "groupings": [
@@ -142674,7 +142856,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 169,
+        "total": 170,
         "isDouble": false
       }
     }
@@ -143248,7 +143430,7 @@
     ],
     "combinations": {
       "Headless Horseshoes": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -143297,6 +143479,20 @@
   },
   {
     "name": "Non-Craftable Headless Horseshoes Respectless Rubber Glove",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Headless Horseshoes": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Non-Craftable Headless Horseshoes RoBro 3000",
     "category": "all",
     "groupings": [
       "all",
@@ -143486,7 +143682,7 @@
     ],
     "combinations": {
       "Headless Horseshoes": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -144004,7 +144200,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 183,
+        "total": 184,
         "isDouble": false
       }
     }
@@ -144088,7 +144284,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 45,
+        "total": 46,
         "isDouble": true
       }
     }
@@ -144102,7 +144298,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 14,
+        "total": 15,
         "isDouble": true
       }
     }
@@ -144116,7 +144312,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 18,
+        "total": 19,
         "isDouble": true
       }
     }
@@ -144186,7 +144382,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 9,
+        "total": 10,
         "isDouble": true
       }
     }
@@ -144200,7 +144396,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 25,
+        "total": 26,
         "isDouble": true
       }
     }
@@ -144270,7 +144466,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 414,
+        "total": 417,
         "isDouble": false
       }
     }
@@ -144368,7 +144564,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 146,
+        "total": 148,
         "isDouble": false
       }
     }
@@ -144382,7 +144578,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 74,
+        "total": 75,
         "isDouble": false
       }
     }
@@ -144508,7 +144704,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 52,
+        "total": 53,
         "isDouble": false
       }
     }
@@ -144578,7 +144774,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 138,
+        "total": 139,
         "isDouble": false
       }
     }
@@ -144606,7 +144802,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 105,
+        "total": 106,
         "isDouble": false
       }
     }
@@ -145600,7 +145796,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 45,
+        "total": 46,
         "isDouble": false
       }
     }
@@ -146146,7 +146342,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 8,
+        "total": 9,
         "isDouble": false
       }
     }
@@ -146216,7 +146412,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 76,
+        "total": 77,
         "isDouble": false
       }
     }
@@ -146538,7 +146734,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 97,
+        "total": 98,
         "isDouble": false
       }
     }
@@ -146594,7 +146790,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 99,
+        "total": 100,
         "isDouble": false
       }
     }
@@ -146650,7 +146846,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 12,
+        "total": 13,
         "isDouble": false
       }
     }
@@ -146804,7 +147000,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -147826,7 +148022,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 66,
+        "total": 67,
         "isDouble": false
       }
     }
@@ -148505,6 +148701,20 @@
   },
   {
     "name": "Non-Craftable Rotten Orange Footprints Noh Mercy",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Non-Craftable Rotten Orange Footprints Officer's Ushanka",
     "category": "all",
     "groupings": [
       "all",
@@ -149310,7 +149520,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       }
     }
@@ -150206,7 +150416,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 49,
+        "total": 50,
         "isDouble": false
       }
     }
@@ -150514,7 +150724,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -151620,7 +151830,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 44,
+        "total": 45,
         "isDouble": false
       }
     }
@@ -152712,7 +152922,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 60,
+        "total": 61,
         "isDouble": false
       }
     }
@@ -153636,7 +153846,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 70,
+        "total": 71,
         "isDouble": false
       }
     }
@@ -154672,7 +154882,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 57,
+        "total": 58,
         "isDouble": false
       }
     }
@@ -155624,7 +155834,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 51,
+        "total": 52,
         "isDouble": false
       }
     }
@@ -155792,7 +156002,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Violent Violet Footprints": {
-        "total": 7,
+        "total": 8,
         "isDouble": true
       }
     }
@@ -156114,7 +156324,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 4,
+        "total": 5,
         "isDouble": true
       }
     }
@@ -156632,7 +156842,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 4,
+        "total": 5,
         "isDouble": true
       }
     }
@@ -156772,7 +156982,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 5,
+        "total": 4,
         "isDouble": true
       }
     }
@@ -158424,7 +158634,7 @@
     ],
     "combinations": {
       "Violent Violet Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -159712,7 +159922,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 44,
+        "total": 45,
         "isDouble": false
       }
     }
@@ -160062,7 +160272,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 207,
+        "total": 208,
         "isDouble": false
       }
     }
@@ -160076,7 +160286,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 102,
+        "total": 103,
         "isDouble": false
       }
     }
@@ -160272,7 +160482,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 203,
+        "total": 204,
         "isDouble": false
       }
     }
@@ -160552,7 +160762,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 29,
+        "total": 30,
         "isDouble": false
       }
     }
@@ -161238,7 +161448,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 36,
+        "total": 37,
         "isDouble": false
       }
     }
@@ -161308,7 +161518,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 56,
+        "total": 57,
         "isDouble": false
       }
     }
@@ -161434,7 +161644,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       }
     }
@@ -162008,7 +162218,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 42,
+        "total": 44,
         "isDouble": false
       }
     }
@@ -162190,7 +162400,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 98,
+        "total": 99,
         "isDouble": false
       }
     }
@@ -162372,7 +162582,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 35,
+        "total": 36,
         "isDouble": false
       }
     }
@@ -162414,7 +162624,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 95,
+        "total": 96,
         "isDouble": false
       }
     }
@@ -162610,7 +162820,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 41,
+        "total": 42,
         "isDouble": false
       }
     }
@@ -162624,7 +162834,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 582,
+        "total": 583,
         "isDouble": false
       }
     }
@@ -162638,7 +162848,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1350,
+        "total": 1351,
         "isDouble": false
       }
     }
@@ -162652,7 +162862,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 2210,
+        "total": 2217,
         "isDouble": false
       }
     }
@@ -162708,7 +162918,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 397,
+        "total": 398,
         "isDouble": false
       }
     }
@@ -162722,7 +162932,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 333,
+        "total": 334,
         "isDouble": false
       }
     }
@@ -162736,7 +162946,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 675,
+        "total": 676,
         "isDouble": false
       }
     }
@@ -162750,7 +162960,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 627,
+        "total": 629,
         "isDouble": false
       }
     }
@@ -162806,7 +163016,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1411,
+        "total": 1418,
         "isDouble": false
       }
     }
@@ -162834,7 +163044,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 382,
+        "total": 383,
         "isDouble": true
       }
     }
@@ -162862,7 +163072,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 1517,
+        "total": 1518,
         "isDouble": true
       }
     }
@@ -162876,7 +163086,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 96,
+        "total": 97,
         "isDouble": true
       }
     }
@@ -162904,7 +163114,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 62,
+        "total": 63,
         "isDouble": true
       }
     }
@@ -162960,7 +163170,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 215,
+        "total": 216,
         "isDouble": true
       }
     }
@@ -162974,7 +163184,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 106,
+        "total": 105,
         "isDouble": true
       }
     }
@@ -163016,7 +163226,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 872,
+        "total": 874,
         "isDouble": true
       }
     }
@@ -163044,7 +163254,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 747,
+        "total": 750,
         "isDouble": true
       }
     }
@@ -163072,7 +163282,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 663,
+        "total": 669,
         "isDouble": true
       }
     }
@@ -163086,7 +163296,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 408,
+        "total": 409,
         "isDouble": true
       }
     }
@@ -163170,7 +163380,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 70,
+        "total": 72,
         "isDouble": true
       }
     }
@@ -163212,7 +163422,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 2323,
+        "total": 2324,
         "isDouble": true
       }
     }
@@ -163268,7 +163478,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 464,
+        "total": 465,
         "isDouble": true
       }
     }
@@ -163282,7 +163492,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 1231,
+        "total": 1232,
         "isDouble": true
       }
     }
@@ -163296,7 +163506,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 738,
+        "total": 739,
         "isDouble": true
       }
     }
@@ -163392,7 +163602,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 262,
+        "total": 264,
         "isDouble": true
       }
     }
@@ -163462,7 +163672,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 387,
+        "total": 389,
         "isDouble": true
       }
     }
@@ -163504,7 +163714,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 165,
+        "total": 166,
         "isDouble": true
       }
     }
@@ -163626,7 +163836,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1205,
+        "total": 1209,
         "isDouble": false
       }
     }
@@ -163654,7 +163864,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 333,
+        "total": 335,
         "isDouble": false
       }
     }
@@ -163668,7 +163878,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 575,
+        "total": 576,
         "isDouble": false
       }
     }
@@ -163738,7 +163948,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 99,
+        "total": 98,
         "isDouble": false
       }
     }
@@ -163752,7 +163962,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 131,
+        "total": 132,
         "isDouble": false
       }
     }
@@ -163780,7 +163990,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 3421,
+        "total": 3433,
         "isDouble": false
       }
     }
@@ -163794,7 +164004,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1967,
+        "total": 1971,
         "isDouble": false
       }
     }
@@ -163836,7 +164046,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 814,
+        "total": 818,
         "isDouble": false
       }
     }
@@ -163850,7 +164060,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 2903,
+        "total": 2912,
         "isDouble": false
       }
     }
@@ -163864,7 +164074,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 2234,
+        "total": 2240,
         "isDouble": false
       }
     }
@@ -163878,7 +164088,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1578,
+        "total": 1581,
         "isDouble": false
       }
     }
@@ -163938,7 +164148,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs": {
-        "total": 3566,
+        "total": 3574,
         "isDouble": false
       },
       "Sand Cannon Pumpkin Bombs": {
@@ -163968,7 +164178,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 246,
+        "total": 248,
         "isDouble": false
       }
     }
@@ -163982,7 +164192,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 219,
+        "total": 220,
         "isDouble": false
       }
     }
@@ -163996,7 +164206,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 431,
+        "total": 433,
         "isDouble": false
       }
     }
@@ -164010,7 +164220,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1233,
+        "total": 1239,
         "isDouble": false
       }
     }
@@ -164080,7 +164290,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 503,
+        "total": 504,
         "isDouble": false
       }
     }
@@ -164094,7 +164304,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 584,
+        "total": 585,
         "isDouble": false
       }
     }
@@ -164108,7 +164318,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 2592,
+        "total": 2598,
         "isDouble": false
       }
     }
@@ -164146,7 +164356,7 @@
         "isDouble": false
       },
       "Pumpkin Bombs": {
-        "total": 2940,
+        "total": 2947,
         "isDouble": false
       },
       "Rooftop Wrangler Pumpkin Bombs": {
@@ -164168,7 +164378,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1139,
+        "total": 1142,
         "isDouble": false
       }
     }
@@ -164182,7 +164392,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs": {
-        "total": 1843,
+        "total": 1848,
         "isDouble": false
       }
     }
@@ -164252,7 +164462,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 163,
+        "total": 164,
         "isDouble": false
       }
     }
@@ -165216,7 +165426,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 24,
+        "total": 25,
         "isDouble": false
       }
     }
@@ -165466,7 +165676,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 97,
+        "total": 98,
         "isDouble": false
       }
     }
@@ -165961,20 +166171,6 @@
     "combinations": {
       "Putrescent Pigmentation Bruised Purple Footprints": {
         "total": 2,
-        "isDouble": true
-      }
-    }
-  },
-  {
-    "name": "Putrescent Pigmentation Bruised Purple Footprints Hornblower",
-    "category": "all",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Putrescent Pigmentation Bruised Purple Footprints": {
-        "total": 1,
         "isDouble": true
       }
     }
@@ -166540,7 +166736,7 @@
     }
   },
   {
-    "name": "Putrescent Pigmentation Bruised Purple Footprints Vive La France",
+    "name": "Putrescent Pigmentation Bruised Purple Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -166818,7 +167014,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 20,
+        "total": 21,
         "isDouble": false
       }
     }
@@ -166929,10 +167125,6 @@
       "single"
     ],
     "combinations": {
-      "Green Energy Putrescent Pigmentation": {
-        "total": 1,
-        "isDouble": false
-      },
       "Haunted Ghosts Putrescent Pigmentation": {
         "total": 1,
         "isDouble": false
@@ -167084,7 +167276,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 55,
+        "total": 56,
         "isDouble": false
       }
     }
@@ -167102,7 +167294,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 69,
+        "total": 68,
         "isDouble": false
       },
       "Stormy Storm Putrescent Pigmentation": {
@@ -167252,7 +167444,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 41,
+        "total": 42,
         "isDouble": false
       }
     }
@@ -169876,7 +170068,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 121,
+        "total": 122,
         "isDouble": false
       }
     }
@@ -170432,7 +170624,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 143,
+        "total": 144,
         "isDouble": false
       }
     }
@@ -173246,7 +173438,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 17,
+        "total": 18,
         "isDouble": false
       }
     }
@@ -173676,7 +173868,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 32,
+        "total": 33,
         "isDouble": false
       }
     }
@@ -175072,7 +175264,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       }
     }
@@ -175252,7 +175444,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 55,
+        "total": 56,
         "isDouble": false
       }
     }
@@ -175660,7 +175852,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 105,
+        "total": 106,
         "isDouble": false
       }
     }
@@ -175742,7 +175934,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 70,
+        "total": 71,
         "isDouble": false
       }
     }
@@ -175904,7 +176096,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 26,
+        "total": 27,
         "isDouble": false
       }
     }
@@ -175946,7 +176138,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -176316,7 +176508,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 21,
+        "total": 22,
         "isDouble": false
       },
       "Terror-Watt Putrescent Pigmentation": {
@@ -176348,7 +176540,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 45,
+        "total": 46,
         "isDouble": false
       },
       "Terror-Watt Putrescent Pigmentation": {
@@ -176408,7 +176600,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 16,
+        "total": 17,
         "isDouble": false
       }
     }
@@ -177273,6 +177465,10 @@
       "single"
     ],
     "combinations": {
+      "Circling TF Logo Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      },
       "Green Confetti Putrescent Pigmentation": {
         "total": 1,
         "isDouble": false
@@ -178208,20 +178404,6 @@
     }
   },
   {
-    "name": "Putrescent Pigmentation Rotten Orange Footprints Little Drummer Mann",
-    "category": "all",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Putrescent Pigmentation Rotten Orange Footprints": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
     "name": "Putrescent Pigmentation Rotten Orange Footprints Lunatic's Leathers",
     "category": "all",
     "groupings": [
@@ -178476,7 +178658,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation Rotten Orange Footprints": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -179840,6 +180022,10 @@
       "Putrescent Pigmentation": {
         "total": 25,
         "isDouble": false
+      },
+      "Stormy Storm Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
       }
     }
   },
@@ -179870,6 +180056,10 @@
         "isDouble": false
       },
       "Scorching Flames Putrescent Pigmentation": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Searing Plasma Putrescent Pigmentation": {
         "total": 1,
         "isDouble": false
       }
@@ -181026,7 +181216,7 @@
     }
   },
   {
-    "name": "Putrescent Pigmentation Team Spirit Footprints Vive La France",
+    "name": "Putrescent Pigmentation Team Spirit Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -181258,7 +181448,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 44,
+        "total": 45,
         "isDouble": false
       }
     }
@@ -181308,7 +181498,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 101,
+        "total": 102,
         "isDouble": false
       },
       "Searing Plasma Putrescent Pigmentation": {
@@ -181550,7 +181740,7 @@
         "isDouble": false
       },
       "Putrescent Pigmentation": {
-        "total": 28,
+        "total": 29,
         "isDouble": false
       }
     }
@@ -183052,7 +183242,7 @@
     }
   },
   {
-    "name": "Putrescent Pigmentation Vive La France",
+    "name": "Putrescent Pigmentation Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -184063,6 +184253,10 @@
       "double"
     ],
     "combinations": {
+      "Harvest Moon Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Putrescent Pigmentation Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -184380,7 +184574,7 @@
         "isDouble": true
       },
       "Putrescent Pigmentation Voices from Below": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       }
     }
@@ -185216,7 +185410,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation Voices from Below": {
-        "total": 13,
+        "total": 14,
         "isDouble": true
       }
     }
@@ -185304,7 +185498,7 @@
         "isDouble": true
       },
       "Putrescent Pigmentation Voices from Below": {
-        "total": 21,
+        "total": 20,
         "isDouble": true
       }
     }
@@ -186666,7 +186860,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation Voices from Below": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       }
     }
@@ -186722,7 +186916,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation Voices from Below": {
-        "total": 4,
+        "total": 5,
         "isDouble": true
       }
     }
@@ -188320,7 +188514,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation Voices from Below": {
-        "total": 13,
+        "total": 12,
         "isDouble": true
       }
     }
@@ -189292,6 +189486,20 @@
     }
   },
   {
+    "name": "Putrescent Pigmentation Voices from Below Supernatural Stalker",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Putrescent Pigmentation Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Putrescent Pigmentation Voices from Below Surgeon's Shako",
     "category": "allpostlife",
     "groupings": [
@@ -189934,7 +190142,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation Voices from Below": {
-        "total": 4,
+        "total": 5,
         "isDouble": true
       }
     }
@@ -190092,7 +190300,7 @@
     }
   },
   {
-    "name": "Putrescent Pigmentation Voices from Below Vive La France",
+    "name": "Putrescent Pigmentation Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -190694,7 +190902,7 @@
     ],
     "combinations": {
       "Putrescent Pigmentation": {
-        "total": 129,
+        "total": 130,
         "isDouble": false
       }
     }
@@ -191040,7 +191248,7 @@
     ],
     "combinations": {
       "Rotten Orange Footprints": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -191245,10 +191453,6 @@
       },
       "Rotten Orange Footprints": {
         "total": 4,
-        "isDouble": false
-      },
-      "Scorching Flames Rotten Orange Footprints": {
-        "total": 1,
         "isDouble": false
       },
       "Stormy Storm Rotten Orange Footprints": {
@@ -192668,6 +192872,10 @@
         "isDouble": false
       },
       "Orbiting Fire Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Sulphurous Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
       }
@@ -194262,7 +194470,7 @@
     ],
     "combinations": {
       "Burning Flames Rotten Orange Footprints": {
-        "total": 5,
+        "total": 4,
         "isDouble": false
       },
       "Haunted Ghosts Rotten Orange Footprints": {
@@ -195705,6 +195913,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Orbiting Fire Rotten Orange Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
@@ -195980,7 +196192,7 @@
     ],
     "combinations": {
       "Rotten Orange Footprints": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -196828,7 +197040,7 @@
     ],
     "combinations": {
       "Rotten Orange Footprints": {
-        "total": 7,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -197208,7 +197420,7 @@
     ],
     "combinations": {
       "Rotten Orange Footprints": {
-        "total": 37,
+        "total": 36,
         "isDouble": false
       }
     }
@@ -199309,10 +199521,6 @@
       "single"
     ],
     "combinations": {
-      "Miami Nights Rotten Orange Footprints": {
-        "total": 1,
-        "isDouble": false
-      },
       "Rotten Orange Footprints": {
         "total": 1,
         "isDouble": false
@@ -199748,7 +199956,7 @@
     ],
     "combinations": {
       "Rotten Orange Footprints": {
-        "total": 40,
+        "total": 41,
         "isDouble": false
       }
     }
@@ -200864,7 +201072,7 @@
     }
   },
   {
-    "name": "Rotten Orange Footprints Vive La France",
+    "name": "Rotten Orange Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -201940,6 +202148,10 @@
     ],
     "combinations": {
       "Nuts n' Bolts Rotten Orange Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
+      "Orbiting Fire Rotten Orange Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
       },
@@ -203958,7 +204170,7 @@
     ],
     "combinations": {
       "Burning Flames Rotten Orange Footprints Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       },
       "Dead Presidents Rotten Orange Footprints Voices from Below": {
@@ -204670,6 +204882,10 @@
       "Rotten Orange Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
+      },
+      "Searing Plasma Rotten Orange Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
       }
     }
   },
@@ -204887,6 +205103,20 @@
     "combinations": {
       "Rotten Orange Footprints Voices from Below": {
         "total": 2,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Rotten Orange Footprints Voices from Below Spine-Chilling Skull",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Rotten Orange Footprints Voices from Below": {
+        "total": 1,
         "isDouble": true
       }
     }
@@ -205516,7 +205746,7 @@
     }
   },
   {
-    "name": "Rotten Orange Footprints Voices from Below Vive La France",
+    "name": "Rotten Orange Footprints Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -205944,7 +206174,7 @@
     ],
     "combinations": {
       "Rotten Orange Footprints": {
-        "total": 21,
+        "total": 22,
         "isDouble": false
       }
     }
@@ -206422,7 +206652,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 14,
+        "total": 15,
         "isDouble": false
       }
     }
@@ -206748,7 +206978,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -207414,7 +207644,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 78,
+        "total": 79,
         "isDouble": false
       }
     }
@@ -209462,7 +209692,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       }
     }
@@ -209480,7 +209710,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 14,
+        "total": 15,
         "isDouble": false
       },
       "Stormy Storm Sinister Staining": {
@@ -209596,7 +209826,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       }
     }
@@ -209784,7 +210014,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 138,
+        "total": 140,
         "isDouble": false
       }
     }
@@ -209798,7 +210028,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 37,
+        "total": 38,
         "isDouble": false
       }
     }
@@ -209932,7 +210162,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 60,
+        "total": 61,
         "isDouble": false
       },
       "Steaming Sinister Staining": {
@@ -211986,7 +212216,7 @@
     }
   },
   {
-    "name": "Sinister Staining Corpse Gray Footprints Vive La France",
+    "name": "Sinister Staining Corpse Gray Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -212236,7 +212466,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 8,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -212384,7 +212614,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 39,
+        "total": 40,
         "isDouble": false
       }
     }
@@ -212486,7 +212716,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       }
     }
@@ -212584,7 +212814,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       }
     }
@@ -212646,7 +212876,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 25,
+        "total": 26,
         "isDouble": false
       },
       "Sunbeams Sinister Staining": {
@@ -212694,7 +212924,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       }
     }
@@ -213104,7 +213334,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 82,
+        "total": 83,
         "isDouble": false
       }
     }
@@ -213542,7 +213772,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 137,
+        "total": 138,
         "isDouble": false
       }
     }
@@ -213686,7 +213916,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -215562,6 +215792,20 @@
     }
   },
   {
+    "name": "Sinister Staining Gangreen Footprints Reggaelator",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Harvest Moon Sinister Staining Gangreen Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Sinister Staining Gangreen Footprints Respectless Robo-Glove",
     "category": "all",
     "groupings": [
@@ -216302,7 +216546,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       }
     }
@@ -217160,6 +217404,20 @@
     ],
     "combinations": {
       "Sinister Staining Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Sinister Staining Headless Horseshoes Capo's Capper",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Green Energy Sinister Staining Headless Horseshoes": {
         "total": 1,
         "isDouble": true
       }
@@ -218104,7 +218362,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 39,
+        "total": 41,
         "isDouble": false
       }
     }
@@ -218720,7 +218978,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 8,
+        "total": 9,
         "isDouble": false
       }
     }
@@ -219266,7 +219524,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 35,
+        "total": 36,
         "isDouble": false
       }
     }
@@ -219468,7 +219726,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 22,
+        "total": 23,
         "isDouble": false
       }
     }
@@ -220610,7 +220868,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 111,
+        "total": 112,
         "isDouble": false
       }
     }
@@ -222450,7 +222708,7 @@
     }
   },
   {
-    "name": "Sinister Staining Rotten Orange Footprints Vive La France",
+    "name": "Sinister Staining Rotten Orange Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -222908,7 +223166,7 @@
     ],
     "combinations": {
       "Green Confetti Sinister Staining": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       },
       "Green Energy Sinister Staining": {
@@ -223183,6 +223441,10 @@
       "single"
     ],
     "combinations": {
+      "Green Energy Sinister Staining": {
+        "total": 1,
+        "isDouble": false
+      },
       "Sinister Staining": {
         "total": 14,
         "isDouble": false
@@ -223246,7 +223508,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 28,
+        "total": 30,
         "isDouble": false
       }
     }
@@ -223426,7 +223688,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 53,
+        "total": 54,
         "isDouble": false
       }
     }
@@ -223884,7 +224146,7 @@
     ],
     "combinations": {
       "Sinister Staining Team Spirit Footprints": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -223944,7 +224206,7 @@
     ],
     "combinations": {
       "Sinister Staining Team Spirit Footprints": {
-        "total": 3,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -225190,7 +225452,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 8,
+        "total": 9,
         "isDouble": false
       }
     }
@@ -225240,7 +225502,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 15,
+        "total": 17,
         "isDouble": false
       }
     }
@@ -225258,10 +225520,6 @@
         "isDouble": false
       },
       "Cloud 9 Sinister Staining": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Electrostatic Sinister Staining": {
         "total": 1,
         "isDouble": false
       },
@@ -225708,7 +225966,7 @@
     ],
     "combinations": {
       "Sinister Staining": {
-        "total": 14,
+        "total": 15,
         "isDouble": false
       }
     }
@@ -225948,7 +226206,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 33,
+        "total": 34,
         "isDouble": false
       },
       "Smoking Sinister Staining": {
@@ -227338,7 +227596,7 @@
     }
   },
   {
-    "name": "Sinister Staining Vive La France",
+    "name": "Sinister Staining Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -227748,6 +228006,20 @@
     }
   },
   {
+    "name": "Sinister Staining Voices from Below Beast from Below",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Sinister Staining Voices from Below Beastly Bonnet",
     "category": "all",
     "groupings": [
@@ -227872,7 +228144,7 @@
     ],
     "combinations": {
       "Sinister Staining Voices from Below": {
-        "total": 10,
+        "total": 11,
         "isDouble": true
       }
     }
@@ -229102,7 +229374,7 @@
     ],
     "combinations": {
       "Sinister Staining Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -232880,7 +233152,7 @@
     ],
     "combinations": {
       "Sinister Staining Voices from Below": {
-        "total": 8,
+        "total": 7,
         "isDouble": true
       }
     }
@@ -232921,6 +233193,10 @@
       "double"
     ],
     "combinations": {
+      "Orbiting Planets Sinister Staining Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Sinister Staining Voices from Below": {
         "total": 2,
         "isDouble": true
@@ -233414,7 +233690,7 @@
     ],
     "combinations": {
       "Sinister Staining Voices from Below": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       }
     }
@@ -234144,7 +234420,7 @@
     ],
     "combinations": {
       "Sinister Staining Voices from Below": {
-        "total": 3,
+        "total": 4,
         "isDouble": true
       }
     }
@@ -234186,7 +234462,7 @@
     ],
     "combinations": {
       "Sinister Staining Voices from Below": {
-        "total": 2,
+        "total": 3,
         "isDouble": true
       }
     }
@@ -234862,7 +235138,7 @@
     }
   },
   {
-    "name": "Sinister Staining Voices from Below Vive La France",
+    "name": "Sinister Staining Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -235250,7 +235526,7 @@
         "isDouble": false
       },
       "Sinister Staining": {
-        "total": 21,
+        "total": 22,
         "isDouble": false
       },
       "Stormy Storm Sinister Staining": {
@@ -235752,7 +236028,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 255,
+        "total": 256,
         "isDouble": false
       },
       "Steaming Spectral Spectrum": {
@@ -235802,7 +236078,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 178,
+        "total": 179,
         "isDouble": false
       }
     }
@@ -236039,7 +236315,7 @@
         "total": 91,
         "isDouble": false
       },
-      "Stare From Beyond Spectral Spectrum": {
+      "Stare from Beyond Spectral Spectrum": {
         "total": 1,
         "isDouble": false
       },
@@ -236374,7 +236650,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 704,
+        "total": 705,
         "isDouble": false
       }
     }
@@ -237120,7 +237396,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 207,
+        "total": 209,
         "isDouble": false
       },
       "Sunbeams Spectral Spectrum": {
@@ -239478,7 +239754,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Bruised Purple Footprints Vive La France",
+    "name": "Spectral Spectrum Bruised Purple Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -239602,7 +239878,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 131,
+        "total": 133,
         "isDouble": false
       }
     }
@@ -239670,7 +239946,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 177,
+        "total": 178,
         "isDouble": false
       }
     }
@@ -240156,7 +240432,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 36,
+        "total": 37,
         "isDouble": false
       }
     }
@@ -240424,7 +240700,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 88,
+        "total": 89,
         "isDouble": false
       }
     }
@@ -242538,7 +242814,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Corpse Gray Footprints Vive La France",
+    "name": "Spectral Spectrum Corpse Gray Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -242920,7 +243196,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 346,
+        "total": 347,
         "isDouble": false
       }
     }
@@ -243376,7 +243652,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 21,
+        "total": 22,
         "isDouble": false
       }
     }
@@ -243404,7 +243680,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 69,
+        "total": 70,
         "isDouble": false
       }
     }
@@ -243432,7 +243708,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 110,
+        "total": 111,
         "isDouble": false
       }
     }
@@ -243644,7 +243920,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 49,
+        "total": 51,
         "isDouble": false
       }
     }
@@ -244022,7 +244298,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 54,
+        "total": 55,
         "isDouble": false
       }
     }
@@ -244090,7 +244366,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 46,
+        "total": 47,
         "isDouble": false
       }
     }
@@ -244118,7 +244394,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 366,
+        "total": 367,
         "isDouble": false
       }
     }
@@ -244974,7 +245250,7 @@
     ],
     "combinations": {
       "Stormy Storm Spectral Spectrum Gangreen Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": true
       }
     }
@@ -245016,7 +245292,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Gangreen Footprints": {
-        "total": 2,
+        "total": 1,
         "isDouble": true
       }
     }
@@ -246647,6 +246923,10 @@
       "double"
     ],
     "combinations": {
+      "Circling Heart Spectral Spectrum Gangreen Footprints": {
+        "total": 1,
+        "isDouble": true
+      },
       "Purple Energy Spectral Spectrum Gangreen Footprints": {
         "total": 1,
         "isDouble": true
@@ -247220,7 +247500,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Gangreen Footprints Vive La France",
+    "name": "Spectral Spectrum Gangreen Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -247496,7 +247776,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 18,
+        "total": 20,
         "isDouble": false
       }
     }
@@ -248420,6 +248700,20 @@
     }
   },
   {
+    "name": "Spectral Spectrum Headless Horseshoes Chieftain's Challenge",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Spectral Spectrum Headless Horseshoes Cold Killer",
     "category": "all",
     "groupings": [
@@ -249322,6 +249616,20 @@
     }
   },
   {
+    "name": "Spectral Spectrum Headless Horseshoes Lone Star",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Spectral Spectrum Headless Horseshoes Lord Cockswain's Novelty Mutton Chops and Pipe",
     "category": "all",
     "groupings": [
@@ -249580,6 +249888,20 @@
     ],
     "combinations": {
       "Bubbling Spectral Spectrum Headless Horseshoes": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Spectral Spectrum Headless Horseshoes Professor's Pineapple",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum Headless Horseshoes": {
         "total": 1,
         "isDouble": true
       }
@@ -251090,7 +251412,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 48,
+        "total": 49,
         "isDouble": false
       }
     }
@@ -251552,7 +251874,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 75,
+        "total": 76,
         "isDouble": false
       }
     }
@@ -251608,7 +251930,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 7,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -251900,7 +252222,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 36,
+        "total": 37,
         "isDouble": false
       }
     }
@@ -252114,7 +252436,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 184,
+        "total": 186,
         "isDouble": false
       }
     }
@@ -252230,7 +252552,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 74,
+        "total": 75,
         "isDouble": false
       }
     }
@@ -252932,7 +253254,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 17,
+        "total": 18,
         "isDouble": false
       }
     }
@@ -253132,7 +253454,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 115,
+        "total": 116,
         "isDouble": false
       }
     }
@@ -257414,7 +257736,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Rotten Orange Footprints Vive La France",
+    "name": "Spectral Spectrum Rotten Orange Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -258174,7 +258496,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 69,
+        "total": 70,
         "isDouble": false
       }
     }
@@ -258488,7 +258810,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 40,
+        "total": 41,
         "isDouble": false
       },
       "Vivid Plasma Spectral Spectrum": {
@@ -258708,7 +259030,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 94,
+        "total": 95,
         "isDouble": false
       }
     }
@@ -258926,7 +259248,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 338,
+        "total": 339,
         "isDouble": false
       }
     }
@@ -261206,7 +261528,7 @@
         "isDouble": true
       },
       "Spectral Spectrum Team Spirit Footprints": {
-        "total": 43,
+        "total": 44,
         "isDouble": true
       }
     }
@@ -262504,7 +262826,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Team Spirit Footprints": {
-        "total": 7,
+        "total": 8,
         "isDouble": true
       }
     }
@@ -262874,7 +263196,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Team Spirit Footprints Vive La France",
+    "name": "Spectral Spectrum Team Spirit Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -263790,7 +264112,7 @@
         "isDouble": false
       },
       "Spectral Spectrum": {
-        "total": 203,
+        "total": 204,
         "isDouble": false
       },
       "Sunbeams Spectral Spectrum": {
@@ -266306,6 +266628,20 @@
     }
   },
   {
+    "name": "Spectral Spectrum Violent Violet Footprints Ticket Boy",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Spectral Spectrum Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
     "name": "Spectral Spectrum Violent Violet Footprints Tippler's Tricorne",
     "category": "all",
     "groupings": [
@@ -266450,7 +266786,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Violent Violet Footprints Vive La France",
+    "name": "Spectral Spectrum Violent Violet Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -266630,7 +266966,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Vive La France",
+    "name": "Spectral Spectrum Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -268468,7 +268804,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 9,
+        "total": 8,
         "isDouble": true
       }
     }
@@ -268962,7 +269298,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 38,
+        "total": 37,
         "isDouble": true
       }
     }
@@ -269330,7 +269666,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 13,
+        "total": 12,
         "isDouble": true
       }
     }
@@ -269703,6 +270039,10 @@
       "double"
     ],
     "combinations": {
+      "Hellfire Spectral Spectrum Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      },
       "Kill-a-Watt Spectral Spectrum Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -269906,7 +270246,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 8,
+        "total": 9,
         "isDouble": true
       }
     }
@@ -270326,20 +270666,6 @@
     }
   },
   {
-    "name": "Spectral Spectrum Voices from Below Heavy's Hockey Hair",
-    "category": "all",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Spectral Spectrum Voices from Below": {
-        "total": 1,
-        "isDouble": true
-      }
-    }
-  },
-  {
     "name": "Spectral Spectrum Voices from Below Heer's Helmet",
     "category": "all",
     "groupings": [
@@ -270408,7 +270734,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 6,
+        "total": 7,
         "isDouble": true
       }
     }
@@ -271630,7 +271956,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 7,
+        "total": 8,
         "isDouble": true
       }
     }
@@ -273980,7 +274306,7 @@
     ],
     "combinations": {
       "Spectral Spectrum Voices from Below": {
-        "total": 5,
+        "total": 4,
         "isDouble": true
       }
     }
@@ -274608,7 +274934,7 @@
     }
   },
   {
-    "name": "Spectral Spectrum Voices from Below Vive La France",
+    "name": "Spectral Spectrum Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -274645,6 +274971,10 @@
     "combinations": {
       "Spectral Spectrum Voices from Below": {
         "total": 6,
+        "isDouble": true
+      },
+      "Steaming Spectral Spectrum Voices from Below": {
+        "total": 1,
         "isDouble": true
       }
     }
@@ -275014,7 +275344,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 23,
+        "total": 22,
         "isDouble": false
       }
     }
@@ -275144,7 +275474,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 139,
+        "total": 140,
         "isDouble": false
       }
     }
@@ -275318,7 +275648,7 @@
     ],
     "combinations": {
       "Spectral Spectrum": {
-        "total": 123,
+        "total": 124,
         "isDouble": false
       }
     }
@@ -276042,7 +276372,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -276242,7 +276572,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 146,
+        "total": 148,
         "isDouble": false
       }
     }
@@ -276498,7 +276828,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -276912,7 +277242,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 42,
+        "total": 44,
         "isDouble": false
       }
     }
@@ -276926,7 +277256,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 24,
+        "total": 25,
         "isDouble": false
       }
     }
@@ -278648,6 +278978,20 @@
     }
   },
   {
+    "name": "Team Spirit Footprints Emerald Jarate",
+    "category": "all",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Team Spirit Footprints Engineer Mask",
     "category": "all",
     "groupings": [
@@ -278766,7 +279110,7 @@
         "isDouble": false
       },
       "Burning Flames Team Spirit Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Circling Peace Sign Team Spirit Footprints": {
@@ -279494,7 +279838,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 22,
+        "total": 23,
         "isDouble": false
       }
     }
@@ -279900,7 +280244,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -280534,7 +280878,7 @@
         "isDouble": false
       },
       "Team Spirit Footprints": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       }
     }
@@ -280778,7 +281122,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 7,
+        "total": 8,
         "isDouble": false
       }
     }
@@ -281318,7 +281662,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 52,
+        "total": 50,
         "isDouble": false
       }
     }
@@ -281524,6 +281868,10 @@
     ],
     "combinations": {
       "Cloud 9 Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Terror-Watt Team Spirit Footprints": {
         "total": 1,
         "isDouble": false
       }
@@ -282126,7 +282474,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 38,
+        "total": 39,
         "isDouble": false
       }
     }
@@ -282830,6 +283178,10 @@
     ],
     "combinations": {
       "Cloud 9 Team Spirit Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Disco Beat Down Team Spirit Footprints": {
         "total": 1,
         "isDouble": false
       }
@@ -284624,7 +284976,7 @@
     }
   },
   {
-    "name": "Team Spirit Footprints Vive La France",
+    "name": "Team Spirit Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -285422,6 +285774,20 @@
     ],
     "combinations": {
       "Team Spirit Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Team Spirit Footprints Voices from Below Cloud Crasher",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Searing Plasma Team Spirit Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
       }
@@ -287271,10 +287637,6 @@
       "double"
     ],
     "combinations": {
-      "Knifestorm Team Spirit Footprints Voices from Below": {
-        "total": 1,
-        "isDouble": true
-      },
       "Nuts n' Bolts Team Spirit Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
@@ -287552,7 +287914,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints Voices from Below": {
-        "total": 16,
+        "total": 15,
         "isDouble": true
       }
     }
@@ -289058,7 +289420,7 @@
     ],
     "combinations": {
       "Team Spirit Footprints": {
-        "total": 4,
+        "total": 5,
         "isDouble": false
       }
     }
@@ -293410,7 +293772,7 @@
     ],
     "combinations": {
       "Violent Violet Footprints": {
-        "total": 16,
+        "total": 17,
         "isDouble": false
       }
     }
@@ -295150,7 +295512,7 @@
     ],
     "combinations": {
       "Violent Violet Footprints": {
-        "total": 11,
+        "total": 12,
         "isDouble": false
       }
     }
@@ -295488,7 +295850,7 @@
     ],
     "combinations": {
       "Violent Violet Footprints": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       }
     }
@@ -297124,7 +297486,7 @@
     ],
     "combinations": {
       "Violent Violet Footprints": {
-        "total": 3,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -297576,7 +297938,7 @@
     ],
     "combinations": {
       "Violent Violet Footprints": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       }
     }
@@ -298603,6 +298965,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Eerie Orbiting Fire Violent Violet Footprints": {
+        "total": 1,
+        "isDouble": false
+      },
       "Searing Plasma Violent Violet Footprints": {
         "total": 1,
         "isDouble": false
@@ -298664,7 +299030,7 @@
     }
   },
   {
-    "name": "Violent Violet Footprints Vive La France",
+    "name": "Violent Violet Footprints Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -298980,7 +299346,7 @@
     ],
     "combinations": {
       "Violent Violet Footprints Voices from Below": {
-        "total": 19,
+        "total": 20,
         "isDouble": true
       }
     }
@@ -300710,6 +301076,20 @@
         "isDouble": true
       },
       "Violent Violet Footprints Voices from Below": {
+        "total": 1,
+        "isDouble": true
+      }
+    }
+  },
+  {
+    "name": "Violent Violet Footprints Voices from Below Infernal Impaler",
+    "category": "all",
+    "groupings": [
+      "all",
+      "double"
+    ],
+    "combinations": {
+      "Disco Beat Down Violent Violet Footprints Voices from Below": {
         "total": 1,
         "isDouble": true
       }
@@ -303353,10 +303733,6 @@
         "total": 1,
         "isDouble": false
       },
-      "Circling Heart Voices from Below": {
-        "total": 1,
-        "isDouble": false
-      },
       "Circling Peace Sign Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -303512,7 +303888,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 178,
+        "total": 179,
         "isDouble": false
       }
     }
@@ -303732,7 +304108,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 87,
+        "total": 88,
         "isDouble": false
       }
     }
@@ -304122,7 +304498,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       }
     }
@@ -304236,7 +304612,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 86,
+        "total": 97,
         "isDouble": false
       }
     }
@@ -304480,7 +304856,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 115,
+        "total": 116,
         "isDouble": false
       }
     }
@@ -304494,7 +304870,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       }
     }
@@ -305160,7 +305536,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 23,
+        "total": 24,
         "isDouble": false
       }
     }
@@ -305586,7 +305962,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 82,
+        "total": 83,
         "isDouble": false
       }
     }
@@ -305640,7 +306016,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 85,
+        "total": 86,
         "isDouble": false
       }
     }
@@ -305871,10 +306247,6 @@
         "total": 1,
         "isDouble": false
       },
-      "Green Black Hole Voices from Below": {
-        "total": 1,
-        "isDouble": false
-      },
       "Green Energy Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -305900,7 +306272,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 60,
+        "total": 61,
         "isDouble": false
       }
     }
@@ -306418,7 +306790,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 36,
+        "total": 37,
         "isDouble": false
       }
     }
@@ -306906,7 +307278,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 138,
+        "total": 139,
         "isDouble": false
       }
     }
@@ -307314,7 +307686,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -307843,6 +308215,10 @@
         "total": 2,
         "isDouble": false
       },
+      "Kill-a-Watt Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
       "Purple Energy Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -307900,7 +308276,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 58,
+        "total": 59,
         "isDouble": false
       }
     }
@@ -308136,7 +308512,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 156,
+        "total": 158,
         "isDouble": false
       }
     }
@@ -308178,7 +308554,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 94,
+        "total": 95,
         "isDouble": false
       }
     }
@@ -308674,7 +309050,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 113,
+        "total": 114,
         "isDouble": false
       }
     }
@@ -308744,7 +309120,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 59,
+        "total": 60,
         "isDouble": false
       }
     }
@@ -308804,7 +309180,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 69,
+        "total": 70,
         "isDouble": false
       }
     }
@@ -308990,7 +309366,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 90,
+        "total": 91,
         "isDouble": false
       }
     }
@@ -309004,7 +309380,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 17,
+        "total": 18,
         "isDouble": false
       }
     }
@@ -309276,7 +309652,7 @@
         "isDouble": false
       },
       "Roboactive Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Smoking Voices from Below": {
@@ -309464,7 +309840,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 72,
+        "total": 73,
         "isDouble": false
       }
     }
@@ -309492,7 +309868,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 78,
+        "total": 77,
         "isDouble": false
       }
     }
@@ -309534,7 +309910,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 97,
+        "total": 98,
         "isDouble": false
       }
     }
@@ -309632,7 +310008,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 220,
+        "total": 221,
         "isDouble": false
       }
     }
@@ -309836,7 +310212,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 221,
+        "total": 222,
         "isDouble": false
       }
     }
@@ -309884,7 +310260,7 @@
         "isDouble": false
       },
       "Scorching Flames Voices from Below": {
-        "total": 3,
+        "total": 2,
         "isDouble": false
       },
       "Stormy Storm Voices from Below": {
@@ -310142,7 +310518,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 61,
+        "total": 62,
         "isDouble": false
       }
     }
@@ -310548,7 +310924,7 @@
         "isDouble": false
       },
       "Burning Flames Voices from Below": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       },
       "Circling Peace Sign Voices from Below": {
@@ -310668,7 +311044,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 78,
+        "total": 80,
         "isDouble": false
       }
     }
@@ -310842,6 +311218,10 @@
         "isDouble": false
       },
       "Knifestorm Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Nuts n' Bolts Voices from Below": {
         "total": 1,
         "isDouble": false
       },
@@ -311330,7 +311710,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 31,
+        "total": 32,
         "isDouble": false
       }
     }
@@ -311430,7 +311810,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 433,
+        "total": 434,
         "isDouble": false
       }
     }
@@ -311843,6 +312223,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Purple Confetti Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
       "Searing Plasma Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -311938,6 +312322,10 @@
         "isDouble": false
       },
       "Green Confetti Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "It's a Secret to Everybody Voices from Below": {
         "total": 1,
         "isDouble": false
       },
@@ -312048,7 +312436,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 40,
+        "total": 41,
         "isDouble": false
       }
     }
@@ -312344,7 +312732,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 42,
+        "total": 44,
         "isDouble": false
       }
     }
@@ -312514,7 +312902,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 61,
+        "total": 62,
         "isDouble": false
       }
     }
@@ -312550,7 +312938,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 52,
+        "total": 53,
         "isDouble": false
       }
     }
@@ -312734,7 +313122,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 15,
+        "total": 16,
         "isDouble": false
       }
     }
@@ -313212,7 +313600,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 48,
+        "total": 49,
         "isDouble": false
       }
     }
@@ -313342,6 +313730,10 @@
         "isDouble": false
       },
       "Purple Energy Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Scorching Flames Voices from Below": {
         "total": 1,
         "isDouble": false
       },
@@ -313696,7 +314088,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 265,
+        "total": 267,
         "isDouble": false
       }
     }
@@ -313852,7 +314244,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 112,
+        "total": 113,
         "isDouble": false
       }
     }
@@ -313894,7 +314286,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 9,
+        "total": 10,
         "isDouble": false
       }
     }
@@ -314044,7 +314436,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 85,
+        "total": 86,
         "isDouble": false
       }
     }
@@ -314246,7 +314638,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 16,
+        "total": 17,
         "isDouble": false
       }
     }
@@ -314288,7 +314680,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 164,
+        "total": 165,
         "isDouble": false
       }
     }
@@ -314384,7 +314776,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 174,
+        "total": 175,
         "isDouble": false
       }
     }
@@ -314704,7 +315096,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 402,
+        "total": 403,
         "isDouble": false
       }
     }
@@ -314794,7 +315186,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 42,
+        "total": 43,
         "isDouble": false
       }
     }
@@ -314976,7 +315368,7 @@
         "isDouble": false
       },
       "Orbiting Planets Voices from Below": {
-        "total": 1,
+        "total": 2,
         "isDouble": false
       },
       "Steaming Voices from Below": {
@@ -315054,7 +315446,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 88,
+        "total": 90,
         "isDouble": false
       }
     }
@@ -315124,7 +315516,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 226,
+        "total": 227,
         "isDouble": false
       }
     }
@@ -315406,7 +315798,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 185,
+        "total": 186,
         "isDouble": false
       }
     }
@@ -315546,7 +315938,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 135,
+        "total": 136,
         "isDouble": false
       }
     }
@@ -316048,7 +316440,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 10,
+        "total": 11,
         "isDouble": false
       }
     }
@@ -316216,7 +316608,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 174,
+        "total": 175,
         "isDouble": false
       }
     }
@@ -316482,7 +316874,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 12,
+        "total": 13,
         "isDouble": false
       }
     }
@@ -316588,7 +316980,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 46,
+        "total": 47,
         "isDouble": false
       }
     }
@@ -316644,7 +317036,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 227,
+        "total": 228,
         "isDouble": false
       }
     }
@@ -317028,7 +317420,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 64,
+        "total": 65,
         "isDouble": false
       }
     }
@@ -317390,7 +317782,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 16,
+        "total": 17,
         "isDouble": false
       }
     }
@@ -318079,6 +318471,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Nuts n' Bolts Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
       "Orbiting Fire Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -318220,7 +318616,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 24,
+        "total": 25,
         "isDouble": false
       }
     }
@@ -318512,7 +318908,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 156,
+        "total": 158,
         "isDouble": false
       }
     }
@@ -318540,7 +318936,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 174,
+        "total": 175,
         "isDouble": false
       }
     }
@@ -318944,7 +319340,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 11,
+        "total": 13,
         "isDouble": false
       }
     }
@@ -319313,6 +319709,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Stormy Storm Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
       "Terror-Watt Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -319492,6 +319892,10 @@
         "isDouble": false
       },
       "Stormy Storm Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Terror-Watt Voices from Below": {
         "total": 1,
         "isDouble": false
       },
@@ -319824,7 +320228,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 5,
+        "total": 6,
         "isDouble": false
       }
     }
@@ -320018,7 +320422,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 63,
+        "total": 65,
         "isDouble": false
       }
     }
@@ -320228,7 +320632,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 54,
+        "total": 55,
         "isDouble": false
       }
     }
@@ -320399,6 +320803,10 @@
         "total": 1,
         "isDouble": false
       },
+      "Smoking Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
       "Spellbound Voices from Below": {
         "total": 1,
         "isDouble": false
@@ -320418,7 +320826,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 78,
+        "total": 79,
         "isDouble": false
       }
     }
@@ -320444,6 +320852,10 @@
         "isDouble": false
       },
       "Miami Nights Voices from Below": {
+        "total": 1,
+        "isDouble": false
+      },
+      "Roboactive Voices from Below": {
         "total": 1,
         "isDouble": false
       },
@@ -320528,7 +320940,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 12,
+        "total": 13,
         "isDouble": false
       }
     }
@@ -320878,7 +321290,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 29,
+        "total": 30,
         "isDouble": false
       }
     }
@@ -321926,7 +322338,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 202,
+        "total": 203,
         "isDouble": false
       }
     }
@@ -322002,7 +322414,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 47,
+        "total": 48,
         "isDouble": false
       }
     }
@@ -322076,7 +322488,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 125,
+        "total": 126,
         "isDouble": false
       }
     }
@@ -322994,7 +323406,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 109,
+        "total": 110,
         "isDouble": false
       }
     }
@@ -323626,7 +324038,7 @@
     }
   },
   {
-    "name": "Voices from Below Vive La France",
+    "name": "Voices from Below Vive la France",
     "category": "all",
     "groupings": [
       "all",
@@ -323706,7 +324118,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 890,
+        "total": 892,
         "isDouble": false
       }
     }
@@ -323720,7 +324132,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 830,
+        "total": 833,
         "isDouble": false
       }
     }
@@ -323734,7 +324146,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 843,
+        "total": 845,
         "isDouble": false
       }
     }
@@ -323748,7 +324160,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 770,
+        "total": 771,
         "isDouble": false
       }
     }
@@ -323762,7 +324174,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 715,
+        "total": 718,
         "isDouble": false
       }
     }
@@ -323776,7 +324188,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 833,
+        "total": 838,
         "isDouble": false
       }
     }
@@ -323790,7 +324202,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 819,
+        "total": 823,
         "isDouble": false
       }
     }
@@ -323804,7 +324216,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 857,
+        "total": 861,
         "isDouble": false
       }
     }
@@ -323818,7 +324230,7 @@
     ],
     "combinations": {
       "Voices from Below": {
-        "total": 872,
+        "total": 876,
         "isDouble": false
       }
     }
@@ -324424,7 +324836,7 @@
         "isDouble": false
       },
       "Voices from Below": {
-        "total": 141,
+        "total": 142,
         "isDouble": false
       }
     }

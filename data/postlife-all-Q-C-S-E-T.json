@@ -5704,6 +5704,20 @@
     }
   },
   {
+    "name": "Strange Die Job Courtier's Collar",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Strange Die Job Flashdance Footies",
     "category": "allpostlife",
     "groupings": [
@@ -6664,7 +6678,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 10,
+        "total": 11,
         "isDouble": true
       }
     }

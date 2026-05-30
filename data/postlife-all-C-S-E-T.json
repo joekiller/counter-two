@@ -1016,6 +1016,20 @@
     }
   },
   {
+    "name": "Die Job Courtier's Collar",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Die Job Crown of the Old Kingdom",
     "category": "allpostlife",
     "groupings": [
@@ -2382,7 +2396,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 12,
+        "total": 13,
         "isDouble": true
       }
     }

@@ -960,6 +960,20 @@
     }
   },
   {
+    "name": "Die Job Courtier's Collar",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Die Job": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
     "name": "Die Job Crown of the Old Kingdom",
     "category": "allpostlife",
     "groupings": [
@@ -1728,7 +1742,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 2,
+        "total": 1,
         "isDouble": false
       }
     }
@@ -2092,7 +2106,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 5,
+        "total": 4,
         "isDouble": false
       }
     }
@@ -2114,10 +2128,6 @@
         "isDouble": false
       },
       "Energy Orb - Flash Fryer Halloween Fire": {
-        "total": 1,
-        "isDouble": false
-      },
-      "Energy Orb - Forest Fire Halloween Fire": {
         "total": 1,
         "isDouble": false
       },
@@ -2338,7 +2348,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 8,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -2594,20 +2604,6 @@
       "Halloween Fire": {
         "total": 1,
         "isDouble": false
-      }
-    }
-  },
-  {
-    "name": "Killstreak Pumpkin Bombs Exorcism Quickiebomb Launcher",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "double"
-    ],
-    "combinations": {
-      "Pumpkin Bombs Exorcism": {
-        "total": 1,
-        "isDouble": true
       }
     }
   },
@@ -2992,7 +2988,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 32,
+        "total": 33,
         "isDouble": false
       }
     }
@@ -3029,6 +3025,20 @@
   },
   {
     "name": "Professional Killstreak Exorcism Grenade Launcher",
+    "category": "allpostlife",
+    "groupings": [
+      "all",
+      "single"
+    ],
+    "combinations": {
+      "Exorcism": {
+        "total": 1,
+        "isDouble": false
+      }
+    }
+  },
+  {
+    "name": "Professional Killstreak Exorcism Iron Bomber",
     "category": "allpostlife",
     "groupings": [
       "all",
@@ -3088,7 +3098,7 @@
     ],
     "combinations": {
       "Exorcism": {
-        "total": 6,
+        "total": 7,
         "isDouble": false
       }
     }
@@ -3232,7 +3242,7 @@
         "isDouble": false
       },
       "Night Terror Exorcism": {
-        "total": 13,
+        "total": 14,
         "isDouble": false
       }
     }
@@ -3408,7 +3418,7 @@
     ],
     "combinations": {
       "Halloween Fire Exorcism": {
-        "total": 7,
+        "total": 8,
         "isDouble": true
       }
     }
@@ -3456,7 +3466,7 @@
     ],
     "combinations": {
       "Halloween Fire": {
-        "total": 21,
+        "total": 22,
         "isDouble": false
       }
     }
@@ -3482,7 +3492,7 @@
         "isDouble": false
       },
       "Energy Orb - Forest Fire Halloween Fire": {
-        "total": 2,
+        "total": 3,
         "isDouble": false
       },
       "Energy Orb - Turbine Torcher Halloween Fire": {
@@ -3538,7 +3548,7 @@
     ],
     "combinations": {
       "Pumpkin Bombs Exorcism": {
-        "total": 3,
+        "total": 4,
         "isDouble": true
       }
     }
@@ -5574,20 +5584,6 @@
     }
   },
   {
-    "name": "Specialized Killstreak Exorcism Iron Bomber",
-    "category": "allpostlife",
-    "groupings": [
-      "all",
-      "single"
-    ],
-    "combinations": {
-      "Exorcism": {
-        "total": 1,
-        "isDouble": false
-      }
-    }
-  },
-  {
     "name": "Specialized Killstreak Exorcism Minigun",
     "category": "allpostlife",
     "groupings": [
@@ -5728,7 +5724,7 @@
         "isDouble": false
       },
       "Night Terror Exorcism": {
-        "total": 8,
+        "total": 7,
         "isDouble": false
       }
     }
