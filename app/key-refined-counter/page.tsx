@@ -1,6 +1,6 @@
 import {Metadata, NextPage} from 'next'
-import Image from 'next/image'
 import CounterMain from "../../components/CounterMain";
+import TradeExample from "../../components/TradeExample";
 import {HomeFooter} from "../../components/HomeFooter";
 import Counter from "./counter";
 
@@ -20,7 +20,7 @@ const Home: NextPage = () => {
 
         <Counter/>
 
-        <Image src="/static/example.PNG" alt="Steam Inventory History Screenshot with an Unusual and TF2 Key and Metal Text" width="724" height="225"/>
+        <TradeExample/>
         <p>Paste the text of a trade from <a href="https://steamcommunity.com/id/joekiller/inventoryhistory/">steam inventory history</a> above to count the total Mann Co. Supply Crate Key and Refined Metal items from Team Fortress 2 were included in the trade.</p>
       </CounterMain>
       <footer>

@@ -1,0 +1,90 @@
+/*
+ * Pixel replica of the Steam inventory history trade panel that used to ship as
+ * /static/example.PNG (724x225). Every value below was sampled from that
+ * screenshot so the live markup lands on the same pixels: 14px/19px Arial on
+ * the #131c27 panel, a 57px gutter holding the +/- toggles, and a 42px item
+ * icon whose 1px border uses the Unusual quality purple.
+ */
+.example {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 57px minmax(0, 1fr);
+    row-gap: 24px;
+    width: 724px;
+    max-width: 100%;
+    margin: 0 auto;
+    /* 8px, not the screenshot's 13px, of right gutter: Arial metrics need a
+       659px text column to keep Steam's seven items per line. */
+    padding: 13px 8px 13px 0;
+    background-color: #131c27;
+    font: 14px/19px Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+/* Horizontal stroke shared by both toggles: 10x2 starting 20px from the edge. */
+.sign {
+    width: 10px;
+    height: 2px;
+    margin-left: 20px;
+    background-color: #8a8a8a;
+}
+
+/* The plus adds the 4x8 vertical stroke, centred on the horizontal one. */
+.plus {
+    position: relative;
+    margin-top: 18px;
+}
+
+.plus::after {
+    content: '';
+    position: absolute;
+    left: 3px;
+    top: -3px;
+    width: 4px;
+    height: 8px;
+    background-color: #8a8a8a;
+}
+
+.minus {
+    margin-top: 10px;
+}
+
+/* Received row: icon at x=65, name at x=111, both centred on the 42px icon. */
+.received {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    margin-left: 8px;
+    border: 1px solid #8650ac;
+    background-color: #3c352e;
+    object-fit: fill;
+}
+
+.unusual {
+    margin-left: 4px;
+    color: #8650ac;
+}
+
+/* Given row: one selectable text run so it can be copied into the counter. */
+.given {
+    margin: 0;
+    color: #7d6d00;
+}
+
+/* Steam never splits an item name across two lines. */
+.item {
+    white-space: nowrap;
+}
+
+/* Below 400px CounterMain clamps its children to 240px, which is narrower than
+   a single item name, so let the names break instead of pushing the panel off
+   screen. Steam's line for line wrap is a desktop width luxury. */
+@media (max-width: 399px) {
+    .item {
+        white-space: normal;
+    }
+}
